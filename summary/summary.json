@@ -1,0 +1,602 @@
+[
+  {
+    "published": "2020-03-01T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-02T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-03T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-04T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-05T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-06T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-07T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-08T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-09T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-10T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-11T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-12T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-13T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-14T16:00:00",
+    "tested": 0,
+    "quarantined": 0,
+    "infected": 0,
+    "cured": 0,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-15T11:46:00",
+    "tested": 1236,
+    "quarantined": 159,
+    "infected": 32,
+    "cured": 1,
+    "deceased": 0
+  },
+  {
+    "published": "2020-03-15T14:25:00",
+    "tested": 1236,
+    "quarantined": 159,
+    "infected": 32,
+    "cured": 1,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-16T08:35:00",
+    "tested": 1236,
+    "quarantined": 159,
+    "infected": 39,
+    "cured": 1,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-16T08:45:00",
+    "tested": 1436,
+    "quarantined": 159,
+    "infected": 39,
+    "cured": 1,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-16T09:10:00",
+    "tested": 1436,
+    "quarantined": 136,
+    "infected": 39,
+    "cured": 1,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-16T18:35:00",
+    "tested": 1470,
+    "quarantined": 137,
+    "infected": 39,
+    "cured": 1,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-16T21:40:00",
+    "tested": 1470,
+    "quarantined": 137,
+    "infected": 39,
+    "cured": 2,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-17T07:35:00",
+    "tested": 1587,
+    "quarantined": 137,
+    "infected": 50,
+    "cured": 2,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-18T06:10:00",
+    "tested": 1587,
+    "quarantined": 137,
+    "infected": 58,
+    "cured": 2,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-18T06:15:00",
+    "tested": 1803,
+    "quarantined": 122,
+    "infected": 58,
+    "cured": 2,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-19T06:50:00",
+    "tested": 2322,
+    "quarantined": 124,
+    "infected": 73,
+    "cured": 2,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-20T05:50:00",
+    "tested": 2322,
+    "quarantined": 124,
+    "infected": 85,
+    "cured": 2,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-20T06:00:00",
+    "tested": 3007,
+    "quarantined": 124,
+    "infected": 85,
+    "cured": 2,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-20T07:15:00",
+    "tested": 3007,
+    "quarantined": 116,
+    "infected": 85,
+    "cured": 7,
+    "deceased": 1
+  },
+  {
+    "published": "2020-03-20T10:20:00",
+    "tested": 3007,
+    "quarantined": 116,
+    "infected": 85,
+    "cured": 7,
+    "deceased": 3
+  },
+  {
+    "published": "2020-03-20T18:35:00",
+    "tested": 3007,
+    "quarantined": 116,
+    "infected": 85,
+    "cured": 7,
+    "deceased": 4
+  },
+  {
+    "published": "2020-03-21T07:10:00",
+    "tested": 3447,
+    "quarantined": 117,
+    "infected": 103,
+    "cured": 7,
+    "deceased": 4
+  },
+  {
+    "published": "2020-03-21T23:20:00",
+    "tested": 3447,
+    "quarantined": 117,
+    "infected": 103,
+    "cured": 7,
+    "deceased": 4
+  },
+  {
+    "published": "2020-03-22T07:40:00",
+    "tested": 4443,
+    "quarantined": 115,
+    "infected": 103,
+    "cured": 7,
+    "deceased": 4
+  },
+  {
+    "published": "2020-03-22T07:45:00",
+    "tested": 4443,
+    "quarantined": 115,
+    "infected": 131,
+    "cured": 7,
+    "deceased": 4
+  },
+  {
+    "published": "2020-03-22T09:35:00",
+    "tested": 4443,
+    "quarantined": 115,
+    "infected": 131,
+    "cured": 12,
+    "deceased": 6
+  },
+  {
+    "published": "2020-03-22T10:45:00",
+    "tested": 4443,
+    "quarantined": 115,
+    "infected": 131,
+    "cured": 16,
+    "deceased": 6
+  },
+  {
+    "published": "2020-03-23T06:00:00",
+    "tested": 5515,
+    "quarantined": 101,
+    "infected": 167,
+    "cured": 16,
+    "deceased": 7
+  },
+  {
+    "published": "2020-03-23T18:15:00",
+    "tested": 5515,
+    "quarantined": 101,
+    "infected": 167,
+    "cured": 21,
+    "deceased": 8
+  },
+  {
+    "published": "2020-03-24T06:10:00",
+    "tested": 6113,
+    "quarantined": 92,
+    "infected": 187,
+    "cured": 21,
+    "deceased": 8
+  },
+  {
+    "published": "2020-03-24T10:15:00",
+    "tested": 6113,
+    "quarantined": 92,
+    "infected": 187,
+    "cured": 21,
+    "deceased": 9
+  },
+  {
+    "published": "2020-03-25T05:50:00",
+    "tested": 6817,
+    "quarantined": 85,
+    "infected": 226,
+    "cured": 21,
+    "deceased": 10
+  },
+  {
+    "published": "2020-03-26T05:35:00",
+    "tested": 8005,
+    "quarantined": 100,
+    "infected": 261,
+    "cured": 28,
+    "deceased": 10
+  },
+  {
+    "published": "2020-03-27T05:45:00",
+    "tested": 9275,
+    "quarantined": 100,
+    "infected": 300,
+    "cured": 34,
+    "deceased": 10
+  },
+  {
+    "published": "2020-03-27T06:25:00",
+    "tested": 9275,
+    "quarantined": 84,
+    "infected": 300,
+    "cured": 34,
+    "deceased": 10
+  },
+  {
+    "published": "2020-03-28T06:00:00",
+    "tested": 9275,
+    "quarantined": 84,
+    "infected": 343,
+    "cured": 34,
+    "deceased": 11
+  },
+  {
+    "published": "2020-03-28T06:05:00",
+    "tested": 10303,
+    "quarantined": 87,
+    "infected": 343,
+    "cured": 34,
+    "deceased": 11
+  },
+  {
+    "published": "2020-03-29T05:35:00",
+    "tested": 12148,
+    "quarantined": 71,
+    "infected": 408,
+    "cured": 34,
+    "deceased": 13
+  },
+  {
+    "published": "2020-03-30T04:40:00",
+    "tested": 13301,
+    "quarantined": 73,
+    "infected": 447,
+    "cured": 34,
+    "deceased": 15
+  },
+  {
+    "published": "2020-03-31T06:45:00",
+    "tested": 14146,
+    "quarantined": 61,
+    "infected": 492,
+    "cured": 37,
+    "deceased": 16
+  },
+  {
+    "published": "2020-03-31T08:20:00",
+    "tested": 14146,
+    "quarantined": 61,
+    "infected": 492,
+    "cured": 37,
+    "deceased": 16
+  },
+  {
+    "published": "2020-03-31T09:05:00",
+    "tested": 14146,
+    "quarantined": 61,
+    "infected": 492,
+    "cured": 37,
+    "deceased": 16
+  },
+  {
+    "published": "2020-04-01T04:50:00",
+    "tested": 15208,
+    "quarantined": 61,
+    "infected": 525,
+    "cured": 40,
+    "deceased": 16
+  },
+  {
+    "published": "2020-04-02T05:05:00",
+    "tested": 16401,
+    "quarantined": 59,
+    "infected": 585,
+    "cured": 42,
+    "deceased": 21
+  },
+  {
+    "published": "2020-04-02T20:05:00",
+    "tested": 16401,
+    "quarantined": 10668,
+    "infected": 585,
+    "cured": 42,
+    "deceased": 21
+  },
+  {
+    "published": "2020-04-03T04:45:00",
+    "tested": 17769,
+    "quarantined": 10668,
+    "infected": 623,
+    "cured": 43,
+    "deceased": 21
+  },
+  {
+    "published": "2020-04-03T06:08:00",
+    "tested": 17769,
+    "quarantined": 10668,
+    "infected": 623,
+    "cured": 43,
+    "deceased": 26
+  },
+  {
+    "published": "2020-04-03T07:05:00",
+    "tested": 17769,
+    "quarantined": 11399,
+    "infected": 623,
+    "cured": 43,
+    "deceased": 26
+  },
+  {
+    "published": "2020-04-04T08:20:00",
+    "tested": 19424,
+    "quarantined": 12492,
+    "infected": 678,
+    "cured": 58,
+    "deceased": 32
+  },
+  {
+    "published": "2020-04-05T05:15:00",
+    "tested": 21250,
+    "quarantined": 12492,
+    "infected": 733,
+    "cured": 58,
+    "deceased": 32
+  },
+  {
+    "published": "2020-04-05T05:20:00",
+    "tested": 21250,
+    "quarantined": 13435,
+    "infected": 733,
+    "cured": 66,
+    "deceased": 34
+  },
+  {
+    "published": "2020-04-06T04:35:00",
+    "tested": 22282,
+    "quarantined": 14325,
+    "infected": 744,
+    "cured": 67,
+    "deceased": 38
+  },
+  {
+    "published": "2020-04-07T05:15:00",
+    "tested": 23746,
+    "quarantined": 14997,
+    "infected": 817,
+    "cured": 71,
+    "deceased": 47
+  },
+  {
+    "published": "2020-04-08T04:20:00",
+    "tested": 25748,
+    "quarantined": 15481,
+    "infected": 895,
+    "cured": 94,
+    "deceased": 58
+  },
+  {
+    "published": "2020-04-09T04:40:00",
+    "tested": 25748,
+    "quarantined": 15481,
+    "infected": 980,
+    "cured": 96,
+    "deceased": 66
+  },
+  {
+    "published": "2020-04-09T04:45:00",
+    "tested": 27826,
+    "quarantined": 16006,
+    "infected": 980,
+    "cured": 96,
+    "deceased": 66
+  },
+  {
+    "published": "2020-04-10T04:55:00",
+    "tested": 27826,
+    "quarantined": 16006,
+    "infected": 1190,
+    "cured": 112,
+    "deceased": 66
+  },
+  {
+    "published": "2020-04-10T05:00:00",
+    "tested": 29948,
+    "quarantined": 16006,
+    "infected": 1190,
+    "cured": 112,
+    "deceased": 77
+  },
+  {
+    "published": "2020-04-11T05:55:00",
+    "tested": 31961,
+    "quarantined": 17490,
+    "infected": 1310,
+    "cured": 115,
+    "deceased": 77
+  },
+  {
+    "published": "2020-04-11T07:26:00",
+    "tested": 31961,
+    "quarantined": 17490,
+    "infected": 1310,
+    "cured": 115,
+    "deceased": 85
+  },
+  {
+    "published": "2020-04-12T05:40:00",
+    "tested": 33532,
+    "quarantined": 15333,
+    "infected": 1410,
+    "cured": 118,
+    "deceased": 99
+  },
+  {
+    "published": "2020-04-13T05:35:00",
+    "tested": 34819,
+    "quarantined": 15333,
+    "infected": 1458,
+    "cured": 120,
+    "deceased": 99
+  },
+  {
+    "published": "2020-04-13T05:40:00",
+    "tested": 34819,
+    "quarantined": 15333,
+    "infected": 1458,
+    "cured": 120,
+    "deceased": 109
+  },
+  {
+    "published": "2020-04-14T04:45:00",
+    "tested": 35825,
+    "quarantined": 14355,
+    "infected": 1512,
+    "cured": 122,
+    "deceased": 122
+  },
+  {
+    "published": "2020-04-15T10:44:00",
+    "tested": 37326,
+    "quarantined": 13360,
+    "infected": 1579,
+    "cured": 192,
+    "deceased": 134
+  },
+  {
+    "published": "2020-04-16T05:41:00",
+    "tested": 38489,
+    "quarantined": 12737,
+    "infected": 1652,
+    "cured": 199,
+    "deceased": 142
+  }
+]
