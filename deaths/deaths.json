@@ -1,0 +1,938 @@
+[
+  {
+    "sequence": 1,
+    "age": 76,
+    "sex": 1,
+    "diseases": "szív és érrendszeri"
+  },
+  {
+    "sequence": 2,
+    "age": 65,
+    "sex": 1,
+    "diseases": "rosszindulatú daganat"
+  },
+  {
+    "sequence": 3,
+    "age": 74,
+    "sex": 2,
+    "diseases": "szív és érrendszeri"
+  },
+  {
+    "sequence": 4,
+    "age": 79,
+    "sex": 2,
+    "diseases": "szív és érrendszeri"
+  },
+  {
+    "sequence": 5,
+    "age": 68,
+    "sex": 2,
+    "diseases": "szív és érrendszeri"
+  },
+  {
+    "sequence": 6,
+    "age": 41,
+    "sex": 1,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 7,
+    "age": 38,
+    "sex": 2,
+    "diseases": "krónikus pancreatitis, alkoholos májkárosodás"
+  },
+  {
+    "sequence": 8,
+    "age": 53,
+    "sex": 2,
+    "diseases": "szív és érrendszeri"
+  },
+  {
+    "sequence": 9,
+    "age": 90,
+    "sex": 1,
+    "diseases": "aorta stenosis, ISzB, magas vérnyomás, pitvarfibrilláció"
+  },
+  {
+    "sequence": 10,
+    "age": 75,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 11,
+    "age": 80,
+    "sex": 2,
+    "diseases": "nincs adat"
+  },
+  {
+    "sequence": 12,
+    "age": 73,
+    "sex": 2,
+    "diseases": "ISZB, encephalopathia, hepatopathia, érszűkület, hypothyreosis"
+  },
+  {
+    "sequence": 13,
+    "age": 86,
+    "sex": 1,
+    "diseases": "TBC,LC,PE,HT,DM,diab. polyneuropathia,MVT,"
+  },
+  {
+    "sequence": 14,
+    "age": 92,
+    "sex": 2,
+    "diseases": "Allergiás asthma, stroke, pacemaker"
+  },
+  {
+    "sequence": 15,
+    "age": 94,
+    "sex": 2,
+    "diseases": "COPD"
+  },
+  {
+    "sequence": 16,
+    "age": 59,
+    "sex": 1,
+    "diseases": "Vesetranszplantált, cukorbeteg, COPD, ISZB, magas vérnyomás"
+  },
+  {
+    "sequence": 17,
+    "age": 86,
+    "sex": 1,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 18,
+    "age": 67,
+    "sex": 1,
+    "diseases": "ISZB, magas vérnyomás"
+  },
+  {
+    "sequence": 19,
+    "age": 66,
+    "sex": 2,
+    "diseases": "szív- és érrendszeri megbetegedés, idült reumás szívbetegség, degenaratív („kopásos”) gerincbetegség"
+  },
+  {
+    "sequence": 20,
+    "age": 91,
+    "sex": 2,
+    "diseases": "szív- és érrendszeri megbetegedés, magas vérnyomás, idült reumás szívbetegség, agyi érbetegség"
+  },
+  {
+    "sequence": 21,
+    "age": 70,
+    "sex": 2,
+    "diseases": "Ischaemiás szívbetegség ( koszorúér-betegség), anyagcsere-betegség"
+  },
+  {
+    "sequence": 22,
+    "age": 89,
+    "sex": 2,
+    "diseases": "post TBC, mellhártya összenövés, prosztata-betegség"
+  },
+  {
+    "sequence": 23,
+    "age": 81,
+    "sex": 1,
+    "diseases": "magas vérnyomás, agyi infarktus"
+  },
+  {
+    "sequence": 24,
+    "age": 79,
+    "sex": 2,
+    "diseases": "magas vérnyomás, COPD krónikus tüdőbetegség, érszűkület, veseelégtelenség, szív -és érrendszeri megbetegedés"
+  },
+  {
+    "sequence": 25,
+    "age": 86,
+    "sex": 1,
+    "diseases": "veseelégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 26,
+    "age": 80,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívelégtelenség, cukorbetegség"
+  },
+  {
+    "sequence": 27,
+    "age": 54,
+    "sex": 1,
+    "diseases": "krónikus légzőszervi betegség, szív- és érrendszeri betegség"
+  },
+  {
+    "sequence": 28,
+    "age": 77,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, szív- és érrendszeri betegség, krónikus anyagcsere betegség"
+  },
+  {
+    "sequence": 29,
+    "age": 84,
+    "sex": 2,
+    "diseases": "daganatos betegség, érrendszeri betegség"
+  },
+  {
+    "sequence": 30,
+    "age": 85,
+    "sex": 1,
+    "diseases": "magas vérnyomás, anyagcsere betegség"
+  },
+  {
+    "sequence": 31,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás, daganatos betegség, anyagcsere betegség"
+  },
+  {
+    "sequence": 32,
+    "age": 85,
+    "sex": 2,
+    "diseases": "szív- és érrendszeri betegség"
+  },
+  {
+    "sequence": 33,
+    "age": 80,
+    "sex": 2,
+    "diseases": "daganatos betegség"
+  },
+  {
+    "sequence": 34,
+    "age": 86,
+    "sex": 2,
+    "diseases": "csontrendszeri elváltozás"
+  },
+  {
+    "sequence": 35,
+    "age": 61,
+    "sex": 2,
+    "diseases": "daganatos betegség, veleszületett genetikai rendellenesség, idegrendszeri betegség"
+  },
+  {
+    "sequence": 36,
+    "age": 94,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szív- és érrendszeri betegség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 37,
+    "age": 73,
+    "sex": 2,
+    "diseases": "szív- és érrendszeri betegség"
+  },
+  {
+    "sequence": 38,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus légzőszervi betegség"
+  },
+  {
+    "sequence": 39,
+    "age": 61,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, anyagcsere és daganatos betegség"
+  },
+  {
+    "sequence": 40,
+    "age": 67,
+    "sex": 1,
+    "diseases": "daganatos betegség, sclerosis multiplex, magas vérnyomás"
+  },
+  {
+    "sequence": 41,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus tüdőbetegség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 42,
+    "age": 72,
+    "sex": 2,
+    "diseases": "krónikus obstruktív tüdőbetegség, érelmeszesedés"
+  },
+  {
+    "sequence": 43,
+    "age": 65,
+    "sex": 2,
+    "diseases": "krónikus obstuktív tüdőbetegség"
+  },
+  {
+    "sequence": 44,
+    "age": 77,
+    "sex": 1,
+    "diseases": "magas vérnyomás,  szív- és érrendszeri betegség, nyirokrendszeri betegség, autoimmun betegség"
+  },
+  {
+    "sequence": 45,
+    "age": 82,
+    "sex": 2,
+    "diseases": "magas vérnyomás, combnyaktörés"
+  },
+  {
+    "sequence": 46,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás, traumás fejsérülés"
+  },
+  {
+    "sequence": 47,
+    "age": 92,
+    "sex": 2,
+    "diseases": "anyagcsere betegség, krónikus veseelégtelenség, daganatos betegség, szív- és érrendszeri betegség"
+  },
+  {
+    "sequence": 48,
+    "age": 74,
+    "sex": 2,
+    "diseases": "magas vérnyomás betegség, szívbetegség"
+  },
+  {
+    "sequence": 49,
+    "age": 79,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 50,
+    "age": 67,
+    "sex": 2,
+    "diseases": "anyagcsere betegség"
+  },
+  {
+    "sequence": 51,
+    "age": 78,
+    "sex": 1,
+    "diseases": "szív és érrendszeri megbetegedés, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 52,
+    "age": 71,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, anyagcsere betegség, magasvérnyomás"
+  },
+  {
+    "sequence": 53,
+    "age": 49,
+    "sex": 2,
+    "diseases": "magas vérnyomás, anyagcsere betegség"
+  },
+  {
+    "sequence": 54,
+    "age": 79,
+    "sex": 2,
+    "diseases": "idült reumás szívbetegség"
+  },
+  {
+    "sequence": 55,
+    "age": 67,
+    "sex": 1,
+    "diseases": "magasvérnyomás, krónikus májbetegség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 56,
+    "age": 73,
+    "sex": 2,
+    "diseases": "magasvérnyomás, anyagcsere betegség"
+  },
+  {
+    "sequence": 57,
+    "age": 89,
+    "sex": 2,
+    "diseases": "magasvérnyomás, agyi érbetegség"
+  },
+  {
+    "sequence": 58,
+    "age": 82,
+    "sex": 1,
+    "diseases": "adatok feltöltés alatt"
+  },
+  {
+    "sequence": 59,
+    "age": 67,
+    "sex": 2,
+    "diseases": "krónikus obstruktív tüdőbetegség"
+  },
+  {
+    "sequence": 60,
+    "age": 76,
+    "sex": 1,
+    "diseases": "adatok feltöltés alatt"
+  },
+  {
+    "sequence": 61,
+    "age": 48,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, anyagcsere betegség, magas vérnyomás"
+  },
+  {
+    "sequence": 62,
+    "age": 77,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, szív és érrendszeri betegség"
+  },
+  {
+    "sequence": 63,
+    "age": 93,
+    "sex": 1,
+    "diseases": "szív és érrendszeri betegség"
+  },
+  {
+    "sequence": 64,
+    "age": 86,
+    "sex": 1,
+    "diseases": "magas vérnyomás, anyagcsere rendellenesség"
+  },
+  {
+    "sequence": 65,
+    "age": 89,
+    "sex": 2,
+    "diseases": "daganatos betegség, magas vérnyomás, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 66,
+    "age": 71,
+    "sex": 1,
+    "diseases": "krónikus vesebetegség"
+  },
+  {
+    "sequence": 67,
+    "age": 78,
+    "sex": 2,
+    "diseases": "krónikus obstruktív tüdőbetegség, szív- és érrendszeri betegség"
+  },
+  {
+    "sequence": 68,
+    "age": 66,
+    "sex": 1,
+    "diseases": "szív és érrendszeri betegség"
+  },
+  {
+    "sequence": 69,
+    "age": 85,
+    "sex": 2,
+    "diseases": "szív- és érrendszeri betegség, magas vérnyomás"
+  },
+  {
+    "sequence": 70,
+    "age": 64,
+    "sex": 2,
+    "diseases": "krónikus obstruktív tüdőbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 71,
+    "age": 65,
+    "sex": 2,
+    "diseases": "magas vérnyomás, agyi érbetegség, anyagcsere rendellenesség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 72,
+    "age": 89,
+    "sex": 1,
+    "diseases": "szívelégtelenség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 73,
+    "age": 58,
+    "sex": 2,
+    "diseases": "magas vérnyomás, daganatos betegség"
+  },
+  {
+    "sequence": 74,
+    "age": 73,
+    "sex": 1,
+    "diseases": "anyagcsere betegség, érrendszeri betegség"
+  },
+  {
+    "sequence": 75,
+    "age": 76,
+    "sex": 2,
+    "diseases": "krónikus májbetegség, daganatos betegség, anyagcsere betegség"
+  },
+  {
+    "sequence": 76,
+    "age": 85,
+    "sex": 2,
+    "diseases": "magas vérnyomás, emésztőrendszeri betegség"
+  },
+  {
+    "sequence": 77,
+    "age": 74,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívbetegség, immun betegség"
+  },
+  {
+    "sequence": 78,
+    "age": 60,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, cukorbetegség, magas vérnyomás, szívizom elégtelenség, krónikus keringési elégtelenség"
+  },
+  {
+    "sequence": 79,
+    "age": 85,
+    "sex": 2,
+    "diseases": "szívelégtelenség, beszűkült vesefunkció, daganatos megbetegedés"
+  },
+  {
+    "sequence": 80,
+    "age": 91,
+    "sex": 1,
+    "diseases": "magas vérnyomás, daganatos megbetegedés"
+  },
+  {
+    "sequence": 81,
+    "age": 62,
+    "sex": 2,
+    "diseases": "HT, súlyos depresszió"
+  },
+  {
+    "sequence": 82,
+    "age": 84,
+    "sex": 2,
+    "diseases": "daganatos megbetegedés, szívelégtelenség"
+  },
+  {
+    "sequence": 83,
+    "age": 81,
+    "sex": 1,
+    "diseases": "légzési elégtelenség, tüdőgyulladás, szív- és veseelégtelenség"
+  },
+  {
+    "sequence": 84,
+    "age": 90,
+    "sex": 1,
+    "diseases": "légzési elégtelenség, tüdőgyulladás, verőér elmeszesedés"
+  },
+  {
+    "sequence": 85,
+    "age": 59,
+    "sex": 2,
+    "diseases": "adatok feltöltés alatt"
+  },
+  {
+    "sequence": 86,
+    "age": 77,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus obstruktív tüdőbetegség, anyagcsere betegség"
+  },
+  {
+    "sequence": 87,
+    "age": 89,
+    "sex": 1,
+    "diseases": "dementia, combnyaktörés utáni állapot"
+  },
+  {
+    "sequence": 88,
+    "age": 93,
+    "sex": 2,
+    "diseases": "szívritmuszavar, pajzsmirigy alulműködés, magas vérnyomás, krónikus obstruktív tüdőbetegség"
+  },
+  {
+    "sequence": 89,
+    "age": 89,
+    "sex": 2,
+    "diseases": "szívritmuszavar, pajzsmirigy alulműködés, magas vérnyomás, krónikus obstruktív tüdőbetegség"
+  },
+  {
+    "sequence": 90,
+    "age": 77,
+    "sex": 2,
+    "diseases": "Crohn betegség"
+  },
+  {
+    "sequence": 91,
+    "age": 78,
+    "sex": 1,
+    "diseases": "magas vérnyomás, izületi gyulladás"
+  },
+  {
+    "sequence": 92,
+    "age": 85,
+    "sex": 2,
+    "diseases": "daganatos betegség miatt kialakult veseelégtelenség"
+  },
+  {
+    "sequence": 93,
+    "age": 84,
+    "sex": 1,
+    "diseases": "magas vérnyomás, anyagcsere betegség"
+  },
+  {
+    "sequence": 94,
+    "age": 70,
+    "sex": 2,
+    "diseases": "tüdőrák, szívritmus zavar, iszkémiás szívbetegség, krónikus obstruktív tüdőbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 95,
+    "age": 78,
+    "sex": 1,
+    "diseases": "szívbetegség, magasvérnyomás, csont-izomrendszer és kötőszövet betegsége"
+  },
+  {
+    "sequence": 96,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus obstruktív tüdőbetegség, kiterjedt érbetegség"
+  },
+  {
+    "sequence": 97,
+    "age": 86,
+    "sex": 2,
+    "diseases": "daganatos betegség, szív- és érrendszeri betegség"
+  },
+  {
+    "sequence": 98,
+    "age": 78,
+    "sex": 2,
+    "diseases": "szívritmuszavar, magas vérnyomás, stroke"
+  },
+  {
+    "sequence": 99,
+    "age": 92,
+    "sex": 2,
+    "diseases": "krónikus obstuktív tüdőbetegség, magasvérnyomás, anyagcsere rendellenesség"
+  },
+  {
+    "sequence": 100,
+    "age": 66,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, daganatos betegség"
+  },
+  {
+    "sequence": 101,
+    "age": 80,
+    "sex": 1,
+    "diseases": "tüdő fibrózis, vérszegénység, epekövesség"
+  },
+  {
+    "sequence": 102,
+    "age": 92,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívritmus zavar, érelmeszesedés, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 103,
+    "age": 76,
+    "sex": 2,
+    "diseases": "adat feltöltés alatt"
+  },
+  {
+    "sequence": 104,
+    "age": 83,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szív-és érrendszeri betegség, dementia"
+  },
+  {
+    "sequence": 105,
+    "age": 75,
+    "sex": 1,
+    "diseases": "cukorbetegség, magas vérnyomás, idült obstruktív tüdőbetegség"
+  },
+  {
+    "sequence": 106,
+    "age": 46,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, szívelégtelenség, pitvarfibrilláció, pajzsmirigy betegség"
+  },
+  {
+    "sequence": 107,
+    "age": 66,
+    "sex": 1,
+    "diseases": "magas vérnyomás, érelmeszesedés"
+  },
+  {
+    "sequence": 108,
+    "age": 89,
+    "sex": 1,
+    "diseases": "magas vérnyomás, pajzsmirigy túlműködés, hasnyálmirigy gyulladás, daganatos megbetegedés"
+  },
+  {
+    "sequence": 109,
+    "age": 75,
+    "sex": 1,
+    "diseases": "adat feltöltés alatt"
+  },
+  {
+    "sequence": 110,
+    "age": 85,
+    "sex": 1,
+    "diseases": "magas vérnyomás, anyagcsere betegség"
+  },
+  {
+    "sequence": 111,
+    "age": 63,
+    "sex": 2,
+    "diseases": "veseelégtelenség"
+  },
+  {
+    "sequence": 112,
+    "age": 89,
+    "sex": 2,
+    "diseases": "magas vérnyomás, általános leépülés, érelmeszesedés"
+  },
+  {
+    "sequence": 113,
+    "age": 89,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívelégtelenség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 114,
+    "age": 78,
+    "sex": 2,
+    "diseases": "cukorbetegség, szívelégtelenség, magas vérnyomás, pacemaker, COPD"
+  },
+  {
+    "sequence": 115,
+    "age": 97,
+    "sex": 1,
+    "diseases": "tartós légcsőkanül, magas vérnyomás, pitvarfibrilláció"
+  },
+  {
+    "sequence": 116,
+    "age": 80,
+    "sex": 1,
+    "diseases": "stroke, ISZB, COPD, rheumatoid arthritis, hepatitis B fertőzés"
+  },
+  {
+    "sequence": 117,
+    "age": 65,
+    "sex": 1,
+    "diseases": "cukorbetegség"
+  },
+  {
+    "sequence": 118,
+    "age": 88,
+    "sex": 1,
+    "diseases": "szívizomelégtelenség, vese problémák"
+  },
+  {
+    "sequence": 119,
+    "age": 78,
+    "sex": 2,
+    "diseases": "szívelégtelenség, tumor, érszűkület"
+  },
+  {
+    "sequence": 120,
+    "age": 96,
+    "sex": 2,
+    "diseases": "érszűkület, vese elégtelenség"
+  },
+  {
+    "sequence": 121,
+    "age": 73,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 122,
+    "age": 75,
+    "sex": 1,
+    "diseases": "epilepszia, pszichiátriai kezelés, struma"
+  },
+  {
+    "sequence": 123,
+    "age": 88,
+    "sex": 1,
+    "diseases": "magas vérnyomás, stroke"
+  },
+  {
+    "sequence": 124,
+    "age": 76,
+    "sex": 2,
+    "diseases": "adat feltöltés alatt"
+  },
+  {
+    "sequence": 125,
+    "age": 81,
+    "sex": 1,
+    "diseases": "veseelégtelenség, cukorbetegség, szívelégtelenség"
+  },
+  {
+    "sequence": 126,
+    "age": 78,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívbetegség, mélyvénás trombózis"
+  },
+  {
+    "sequence": 127,
+    "age": 81,
+    "sex": 2,
+    "diseases": "magas vérnyomás, érelmeszesedés"
+  },
+  {
+    "sequence": 128,
+    "age": 65,
+    "sex": 2,
+    "diseases": "cukorbetegség"
+  },
+  {
+    "sequence": 129,
+    "age": 89,
+    "sex": 2,
+    "diseases": "szív- és érrendszeri betegség"
+  },
+  {
+    "sequence": 130,
+    "age": 86,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, szívritmus zavar"
+  },
+  {
+    "sequence": 131,
+    "age": 81,
+    "sex": 2,
+    "diseases": "Insuff.circ. Hydrothorax l.u.St.p. AMI"
+  },
+  {
+    "sequence": 132,
+    "age": 67,
+    "sex": 2,
+    "diseases": "stroke"
+  },
+  {
+    "sequence": 133,
+    "age": 64,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 134,
+    "age": 68,
+    "sex": 2,
+    "diseases": "szív- és érrendszeri betegség, daganatos betegség"
+  },
+  {
+    "sequence": 135,
+    "age": 81,
+    "sex": 2,
+    "diseases": "magas vérnyomás, veseelégtelenség, vesetranszplantáció, myelodysplasia, pitvarfibrilláció, vérszegénység"
+  },
+  {
+    "sequence": 136,
+    "age": 80,
+    "sex": 1,
+    "diseases": "térd arthrosis, kompressziós csigolyatörés"
+  },
+  {
+    "sequence": 137,
+    "age": 90,
+    "sex": 1,
+    "diseases": "szívelégtelenség, pitvarfibrilláció, leukaemia, veseelégtelenség, magas vérnyomás, pajzsmirigy alulműködés"
+  },
+  {
+    "sequence": 138,
+    "age": 78,
+    "sex": 1,
+    "diseases": "idült obstruktív tüdőbetegség, bakteriális tüdőgyulladás, magas vérnyomás"
+  },
+  {
+    "sequence": 139,
+    "age": 82,
+    "sex": 2,
+    "diseases": "cukorbetegség, magas vérnyomás, érelmeszesedés, májelégtelenség,"
+  },
+  {
+    "sequence": 140,
+    "age": 65,
+    "sex": 1,
+    "diseases": "magas vérnyomás,idült légzőszervi megbetegedés, tüdőgyulladás"
+  },
+  {
+    "sequence": 141,
+    "age": 82,
+    "sex": 2,
+    "diseases": "magas vérnyomás, stroke, dementia, pajzsmirigy túlműködés"
+  },
+  {
+    "sequence": 142,
+    "age": 53,
+    "sex": 2,
+    "diseases": "adat feltöltés alatt"
+  },
+  {
+    "sequence": 143,
+    "age": 81,
+    "sex": 2,
+    "diseases": "Alzheimer-kór, organikus hangulatzavar, inkontinencia"
+  },
+  {
+    "sequence": 144,
+    "age": 69,
+    "sex": 1,
+    "diseases": "Parkinson-kór, PEG táplálás, cachexia, magasvérnyomás, érelmeszesedés"
+  },
+  {
+    "sequence": 145,
+    "age": 83,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, magas vérnyomás, légzési elégtelenség, agyérelmeszesedés, encephalopathia (agykárosodás)"
+  },
+  {
+    "sequence": 146,
+    "age": 67,
+    "sex": 1,
+    "diseases": "szövődményes diabetes mellitus (cukorbetegség), maior amputáció, agyi keringési zavar, magas vérnyomás,veseelégtelenség"
+  },
+  {
+    "sequence": 147,
+    "age": 76,
+    "sex": 1,
+    "diseases": "magas vérnyomás, májzsugor, májeredetű agyvelő bántalom, epeműtét utáni állapot"
+  },
+  {
+    "sequence": 148,
+    "age": 73,
+    "sex": 2,
+    "diseases": "magas vérnyomás,idült szívizom elégtelenség,krónikus obstruktív tüdőbetegség, tüdőgyulladás, tüdőtágulat, stroke következményei, érszűkület"
+  },
+  {
+    "sequence": 149,
+    "age": 93,
+    "sex": 1,
+    "diseases": "magas vérnyomás, koszorúér-betegség, agyérelmeszedés, hólyagtumor"
+  },
+  {
+    "sequence": 150,
+    "age": 71,
+    "sex": 2,
+    "diseases": "Parkinsor-kór, agyérelmeszesedés"
+  },
+  {
+    "sequence": 151,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 152,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás,vastagbélrák, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 153,
+    "age": 91,
+    "sex": 2,
+    "diseases": "magas vérnyomás, generalizált agyi, szív-és érrendszeri érelmeszesedés"
+  },
+  {
+    "sequence": 154,
+    "age": 76,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívelégtelenség, verőérbetegség, végstádiumú vesebetegség, krónikus obstruktív tüdőbetegség"
+  },
+  {
+    "sequence": 155,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás, érszűkület"
+  },
+  {
+    "sequence": 156,
+    "age": 94,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, érszűkület, szívritmuszavar, pajzsmirigy elégtelenség"
+  }
+]
