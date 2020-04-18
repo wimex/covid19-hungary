@@ -934,5 +934,101 @@
     "age": 94,
     "sex": 1,
     "diseases": "magas vérnyomás, cukorbetegség, érszűkület, szívritmuszavar, pajzsmirigy elégtelenség"
+  },
+  {
+    "sequence": 157,
+    "age": 81,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, csontvelői kóros vérképzés tünetegyüttes"
+  },
+  {
+    "sequence": 158,
+    "age": 94,
+    "sex": 1,
+    "diseases": "magas vérnyomás, anyagcsere betegség, szív-és érrendszeri betegség"
+  },
+  {
+    "sequence": 159,
+    "age": 76,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus májbetegség, atrophia cer., LC cholecystect., cataracta műtét, portalis encephalopathia"
+  },
+  {
+    "sequence": 160,
+    "age": 77,
+    "sex": 1,
+    "diseases": "veseelégtelenség, tüdőembolia, tüdőgyulladás"
+  },
+  {
+    "sequence": 161,
+    "age": 92,
+    "sex": 1,
+    "diseases": "általános érelmeszesedés, daganatos betegség, magas vérnyomás"
+  },
+  {
+    "sequence": 162,
+    "age": 88,
+    "sex": 1,
+    "diseases": "művese kezelés, magas vérnyomás, cukorbetegség, pacemaker"
+  },
+  {
+    "sequence": 163,
+    "age": 88,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szív és agyi erek meszesedése"
+  },
+  {
+    "sequence": 164,
+    "age": 82,
+    "sex": 2,
+    "diseases": "magas vérnyomás, endokrin betegség, agyi érbetegség"
+  },
+  {
+    "sequence": 165,
+    "age": 70,
+    "sex": 2,
+    "diseases": "általános érelmeszesedés, idegrendszeri betegség"
+  },
+  {
+    "sequence": 166,
+    "age": 90,
+    "sex": 2,
+    "diseases": "szívbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 167,
+    "age": 79,
+    "sex": 1,
+    "diseases": "alapbetegség: érelmeszesédés, Motoneuron betegség \r\nKísérõbetegség: ISZB, M. hypertonicus, Mitr. et ao. insuff. valv., Hyperthyreosis, Fibr. auric. St.p. cholecytectomiam"
+  },
+  {
+    "sequence": 168,
+    "age": 80,
+    "sex": 1,
+    "diseases": "magas vérnyomás, általános érelmeszesedés"
+  },
+  {
+    "sequence": 169,
+    "age": 78,
+    "sex": 1,
+    "diseases": "krónikus obstruktív tüdőbetegség, magas vérnyomás, daganatos betegség"
+  },
+  {
+    "sequence": 170,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívelégtelenség, veseelégtelenség, anyagcsere rendellenesség,"
+  },
+  {
+    "sequence": 171,
+    "age": 82,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 172,
+    "age": 42,
+    "sex": 1,
+    "diseases": "pneumonia hypostatica l.d. in obs., Urocystitis, Huntington kór"
   }
 ]
