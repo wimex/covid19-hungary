@@ -1192,5 +1192,11 @@
     "age": 75,
     "sex": 2,
     "diseases": "többszörös ideggyulladás, kitágult szívizomgyulladás, pitvarfribliláció, agyhártya daganat, többszörös érfalsérülés"
+  },
+  {
+    "sequence": 200,
+    "age": 78,
+    "sex": 1,
+    "diseases": "krónikus obstruktív tüdőbetegség, pitvari fibrilláció, pangásos szívelégtelenség, inzulinfüggő cukorbetegség, magas vérnyomás"
   }
 ]
