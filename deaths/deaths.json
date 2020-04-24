@@ -1432,5 +1432,71 @@
     "age": 87,
     "sex": 2,
     "diseases": "érelmeszesedés, csontritkulás, demencia, légzési és keringési elégtelenség"
+  },
+  {
+    "sequence": 240,
+    "age": 89,
+    "sex": 1,
+    "diseases": "szívbetegség, magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 241,
+    "age": 60,
+    "sex": 2,
+    "diseases": "veseelégtelenség, embólia, trombozis, vesegyulladás"
+  },
+  {
+    "sequence": 242,
+    "age": 86,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívritmuszavar, béltumor, tüdőáttét"
+  },
+  {
+    "sequence": 243,
+    "age": 61,
+    "sex": 2,
+    "diseases": "májtályog"
+  },
+  {
+    "sequence": 244,
+    "age": 95,
+    "sex": 1,
+    "diseases": "magas vérnyomás, koleszterin, bőrdaganat"
+  },
+  {
+    "sequence": 245,
+    "age": 91,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívbetegség, szívaneurizma"
+  },
+  {
+    "sequence": 246,
+    "age": 88,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia"
+  },
+  {
+    "sequence": 247,
+    "age": 85,
+    "sex": 2,
+    "diseases": "magas vérnyomás, érrendszeri megbetegedés"
+  },
+  {
+    "sequence": 248,
+    "age": 74,
+    "sex": 1,
+    "diseases": "tüdő tumor, pajzsmirigy-alulműködés, autoimmun betegség"
+  },
+  {
+    "sequence": 249,
+    "age": 76,
+    "sex": 1,
+    "diseases": "emlőtumor, petefészek tumor, magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 250,
+    "age": 91,
+    "sex": 1,
+    "diseases": "magas vérnyomás, általános érelmeszesedés, szívelégtelenség"
   }
 ]
