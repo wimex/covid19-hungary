@@ -1498,5 +1498,77 @@
     "age": 91,
     "sex": 1,
     "diseases": "magas vérnyomás, általános érelmeszesedés, szívelégtelenség"
+  },
+  {
+    "sequence": 251,
+    "age": 91,
+    "sex": 1,
+    "diseases": "magas vérnyomás, általános érelmeszesedés, szívelégtelenség"
+  },
+  {
+    "sequence": 252,
+    "age": 81,
+    "sex": 2,
+    "diseases": "heveny veseelégtelenség, szívbetegség, vérszegénység"
+  },
+  {
+    "sequence": 253,
+    "age": 80,
+    "sex": 2,
+    "diseases": "koponyaűri vérzés"
+  },
+  {
+    "sequence": 254,
+    "age": 91,
+    "sex": 1,
+    "diseases": "méhnyakrák többszörös áttéttel"
+  },
+  {
+    "sequence": 255,
+    "age": 86,
+    "sex": 2,
+    "diseases": "magas vérnyomás, epilepszia, szívbetegség"
+  },
+  {
+    "sequence": 256,
+    "age": 41,
+    "sex": 2,
+    "diseases": "súlyos bakteriális fertőzés, vérmérgezés, bélgyulladás"
+  },
+  {
+    "sequence": 257,
+    "age": 91,
+    "sex": 1,
+    "diseases": "szívkoszorúér betegség, pitvar fribrilláció"
+  },
+  {
+    "sequence": 258,
+    "age": 85,
+    "sex": 1,
+    "diseases": "magas vérnyomás, leépülés, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 259,
+    "age": 80,
+    "sex": 2,
+    "diseases": "magas vérnyomás, demencia, szívkoszorúér betegség, autoimmun betegség"
+  },
+  {
+    "sequence": 260,
+    "age": 83,
+    "sex": 1,
+    "diseases": "szenilitás, érelmeszesedés"
+  },
+  {
+    "sequence": 261,
+    "age": 71,
+    "sex": 2,
+    "diseases": "magas vérnyomás, ízületi gyulladás, pajzsmirigy alulműködés"
+  },
+  {
+    "sequence": 262,
+    "age": 79,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívbetegség"
   }
 ]
