@@ -1570,5 +1570,65 @@
     "age": 79,
     "sex": 1,
     "diseases": "magas vérnyomás, szívbetegség"
+  },
+  {
+    "sequence": 263,
+    "age": 71,
+    "sex": 2,
+    "diseases": "tüdőrák, cukorbetegség, veseelégtelenség"
+  },
+  {
+    "sequence": 264,
+    "age": 85,
+    "sex": 2,
+    "diseases": "cukorbetegség, szívizombántalom"
+  },
+  {
+    "sequence": 265,
+    "age": 85,
+    "sex": 1,
+    "diseases": "magas vérnyomás, pajzsmirigy betegség, iszkémiás szívbetegség, reflux"
+  },
+  {
+    "sequence": 266,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 267,
+    "age": 76,
+    "sex": 1,
+    "diseases": "iszkémiás szívbetegség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 268,
+    "age": 58,
+    "sex": 2,
+    "diseases": "iszkémiás szívbetegség, szívelégtelenség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 269,
+    "age": 86,
+    "sex": 1,
+    "diseases": "szívbetegség, autoimmun betegség, kettes típusú cukorbetegség, pszichiátriai kezelés"
+  },
+  {
+    "sequence": 270,
+    "age": 87,
+    "sex": 2,
+    "diseases": "magas vérnyomás, hólyagtumor, szívizomelhalás"
+  },
+  {
+    "sequence": 271,
+    "age": 37,
+    "sex": 1,
+    "diseases": "extrém elhízás"
+  },
+  {
+    "sequence": 272,
+    "age": 82,
+    "sex": 2,
+    "diseases": "vérszegénység"
   }
 ]
