@@ -1630,5 +1630,53 @@
     "age": 82,
     "sex": 2,
     "diseases": "vérszegénység"
+  },
+  {
+    "sequence": 273,
+    "age": 81,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus obstruktív tüdőbetegség, pitvarfibrilláció, reflux"
+  },
+  {
+    "sequence": 274,
+    "age": 80,
+    "sex": 2,
+    "diseases": "gyengeség, rossz általános állapot, nyelési nehézség, krónikus alkoholizmus"
+  },
+  {
+    "sequence": 275,
+    "age": 86,
+    "sex": 2,
+    "diseases": "dementia, paranoiditás"
+  },
+  {
+    "sequence": 276,
+    "age": 63,
+    "sex": 1,
+    "diseases": "agyvérzés, vírusos tüdőgyulladás, cukorbetegség, féloldali bénulás, stroke"
+  },
+  {
+    "sequence": 277,
+    "age": 66,
+    "sex": 2,
+    "diseases": "daganatos megbetegedés"
+  },
+  {
+    "sequence": 278,
+    "age": 86,
+    "sex": 2,
+    "diseases": "magas vérnyomás, érelmeszesedés, agylágyulás, tüdőgyulladás"
+  },
+  {
+    "sequence": 279,
+    "age": 86,
+    "sex": 1,
+    "diseases": "keringési elégtelenség, pangásos szívelégtelenség"
+  },
+  {
+    "sequence": 280,
+    "age": 79,
+    "sex": 2,
+    "diseases": "krónikus obstruktív tüdőbetegség, Parkinson-kór, stroke"
   }
 ]
