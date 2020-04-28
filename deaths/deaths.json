@@ -1678,5 +1678,71 @@
     "age": 79,
     "sex": 2,
     "diseases": "krónikus obstruktív tüdőbetegség, Parkinson-kór, stroke"
+  },
+  {
+    "sequence": 281,
+    "age": 87,
+    "sex": 2,
+    "diseases": "gyomorhiány, agyi infarktus, cukorbetegség, demencia, magas vérnyomás, ISZB"
+  },
+  {
+    "sequence": 282,
+    "age": 83,
+    "sex": 1,
+    "diseases": "leukémia, általános érelmeszesedés, magas vérnyomás"
+  },
+  {
+    "sequence": 283,
+    "age": 63,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, szívelégtelenség"
+  },
+  {
+    "sequence": 284,
+    "age": 76,
+    "sex": 2,
+    "diseases": "mellkasi gennygyülem"
+  },
+  {
+    "sequence": 285,
+    "age": 59,
+    "sex": 2,
+    "diseases": "májelégtelenség, szívmegállás, cukorbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 286,
+    "age": 83,
+    "sex": 2,
+    "diseases": "tüdőtágulás"
+  },
+  {
+    "sequence": 287,
+    "age": 94,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 288,
+    "age": 96,
+    "sex": 1,
+    "diseases": "magas vérnyomás, idült hasnyálmirigy gyulladás, asztma, pitvarfibrilláció, gyomorfekély"
+  },
+  {
+    "sequence": 289,
+    "age": 74,
+    "sex": 2,
+    "diseases": "magas vérnyomás, agyvérzés, alkoholizmus, pitvarfibrilláció"
+  },
+  {
+    "sequence": 290,
+    "age": 56,
+    "sex": 2,
+    "diseases": "extrém elhízás, magas vérnyomás, beszűkült vesefunkciók, jobbszívfél-elégtelenség"
+  },
+  {
+    "sequence": 291,
+    "age": 84,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia, sokidegbántalom"
   }
 ]
