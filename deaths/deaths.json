@@ -1744,5 +1744,59 @@
     "age": 84,
     "sex": 1,
     "diseases": "magas vérnyomás, demencia, sokidegbántalom"
+  },
+  {
+    "sequence": 292,
+    "age": 76,
+    "sex": 1,
+    "diseases": "2-es típusú cukorbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 293,
+    "age": 66,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, vérszegénység"
+  },
+  {
+    "sequence": 294,
+    "age": 64,
+    "sex": 2,
+    "diseases": "idült légzőszervi megbetegedés, gyomorfekély"
+  },
+  {
+    "sequence": 295,
+    "age": 84,
+    "sex": 1,
+    "diseases": "általános érelmeszesedés, magas vérnyomás"
+  },
+  {
+    "sequence": 296,
+    "age": 78,
+    "sex": 1,
+    "diseases": "általános érelmeszesedés, magas vérnyomás"
+  },
+  {
+    "sequence": 297,
+    "age": 44,
+    "sex": 1,
+    "diseases": "magas vérnyomás, asztma, hepatitis C"
+  },
+  {
+    "sequence": 298,
+    "age": 80,
+    "sex": 1,
+    "diseases": "cukorbetegség, magas vérnyomás, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 299,
+    "age": 87,
+    "sex": 1,
+    "diseases": "combnyaktörés, pitvarfibrilláció"
+  },
+  {
+    "sequence": 300,
+    "age": 64,
+    "sex": 2,
+    "diseases": "végstádiumú veseelégtelenség"
   }
 ]
