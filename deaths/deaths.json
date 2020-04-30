@@ -1798,5 +1798,77 @@
     "age": 64,
     "sex": 2,
     "diseases": "végstádiumú veseelégtelenség"
+  },
+  {
+    "sequence": 301,
+    "age": 76,
+    "sex": 2,
+    "diseases": "idült légzőszervi megbetegedés, magas vérnyomás, közepes fokú aorta szűkület"
+  },
+  {
+    "sequence": 302,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás, demencia"
+  },
+  {
+    "sequence": 303,
+    "age": 90,
+    "sex": 2,
+    "diseases": "demencia"
+  },
+  {
+    "sequence": 304,
+    "age": 79,
+    "sex": 2,
+    "diseases": "iszkémiás szívbetegség, pitvarfibrilláció, krónikus pajzsmirigygyulladás"
+  },
+  {
+    "sequence": 305,
+    "age": 77,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, szív és érrendszeri betegség"
+  },
+  {
+    "sequence": 306,
+    "age": 78,
+    "sex": 1,
+    "diseases": "krónikus pajzsmirigygyulladás, érelmeszesedés"
+  },
+  {
+    "sequence": 307,
+    "age": 84,
+    "sex": 2,
+    "diseases": "cukorbetegség, magas vérnyomás, szív és keringési betegség, demencia, veseelégtelenség, vérszegénység, érelmeszesedés, agyi leépülés"
+  },
+  {
+    "sequence": 308,
+    "age": 76,
+    "sex": 2,
+    "diseases": "agyi érelmeszesedés, magas vérnyomás betegség, 2-es típusú cukorbetegség, Parkinson-kór"
+  },
+  {
+    "sequence": 309,
+    "age": 87,
+    "sex": 1,
+    "diseases": "méhnyálkahártya rosszindulatú daganata, magas vérnyomás, pangásos szívelégtelenség"
+  },
+  {
+    "sequence": 310,
+    "age": 86,
+    "sex": 1,
+    "diseases": "magas vérnyomás, időskori demencia, pitvarfibrilláció, 2-es típusú cukorbetegség, idült iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 311,
+    "age": 72,
+    "sex": 2,
+    "diseases": "Alzheimer-kór, idült iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 312,
+    "age": 72,
+    "sex": 2,
+    "diseases": "magas vérnyomás, 2-es típusú cukorbetegség, végbéldaganat csontáttéttel"
   }
 ]
