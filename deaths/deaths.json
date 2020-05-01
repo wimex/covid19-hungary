@@ -1870,5 +1870,71 @@
     "age": 72,
     "sex": 2,
     "diseases": "magas vérnyomás, 2-es típusú cukorbetegség, végbéldaganat csontáttéttel"
+  },
+  {
+    "sequence": 313,
+    "age": 69,
+    "sex": 2,
+    "diseases": "prosztatarák, többszörös csontáttét, hasi nyirokcsomó áttét, krónikus veseelégtelenség, demencia, combnyaktörés"
+  },
+  {
+    "sequence": 314,
+    "age": 81,
+    "sex": 1,
+    "diseases": "magas vérnyomás, porckorong-sorvadás, vízfejűség, agysorvadás, érelmeszesedés"
+  },
+  {
+    "sequence": 315,
+    "age": 69,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 316,
+    "age": 78,
+    "sex": 1,
+    "diseases": "májzsugor, krónikus májgyulladás, magas vérnyomás"
+  },
+  {
+    "sequence": 317,
+    "age": 79,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, mélyvénás trombózis, vastagbéldaganat"
+  },
+  {
+    "sequence": 318,
+    "age": 92,
+    "sex": 2,
+    "diseases": "érelmeszesedés"
+  },
+  {
+    "sequence": 319,
+    "age": 54,
+    "sex": 1,
+    "diseases": "májzsugor, vérszegénység"
+  },
+  {
+    "sequence": 320,
+    "age": 74,
+    "sex": 2,
+    "diseases": "magas vérnyomás, érszűkület"
+  },
+  {
+    "sequence": 321,
+    "age": 77,
+    "sex": 2,
+    "diseases": "nyaki verőér szűkület, prosztatadaganat, stroke"
+  },
+  {
+    "sequence": 322,
+    "age": 79,
+    "sex": 1,
+    "diseases": "magas vérnyomás, gyomortumor"
+  },
+  {
+    "sequence": 323,
+    "age": 68,
+    "sex": 1,
+    "diseases": "érelmeszesedés, vastagbéldaganat, csontritkulás"
   }
 ]
