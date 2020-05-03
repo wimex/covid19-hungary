@@ -2008,5 +2008,35 @@
     "age": 67,
     "sex": 1,
     "diseases": "COPD, tüdőrák"
+  },
+  {
+    "sequence": 336,
+    "age": 78,
+    "sex": 1,
+    "diseases": "Parkinson-kór, cukorbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 337,
+    "age": 78,
+    "sex": 2,
+    "diseases": "szívbillentyű elégtelenség"
+  },
+  {
+    "sequence": 338,
+    "age": 63,
+    "sex": 1,
+    "diseases": "krónikus tüdőbetegség, rosszindulatú tüdődaganat"
+  },
+  {
+    "sequence": 339,
+    "age": 71,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, agyi érelmeszesedés, májzsugorodás"
+  },
+  {
+    "sequence": 340,
+    "age": 72,
+    "sex": 2,
+    "diseases": "krónikus obstruktív tüdőbetegség, tüdőgyulladás, krónikus veseelégtelenség, nikotinmérgezés, agyi érelmeszesedés, combnyaktörés"
   }
 ]
