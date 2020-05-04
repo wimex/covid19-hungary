@@ -2038,5 +2038,71 @@
     "age": 72,
     "sex": 2,
     "diseases": "krónikus obstruktív tüdőbetegség, tüdőgyulladás, krónikus veseelégtelenség, nikotinmérgezés, agyi érelmeszesedés, combnyaktörés"
+  },
+  {
+    "sequence": 341,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magasvérnyomás, szívritmuszavar, szívelégtelenség"
+  },
+  {
+    "sequence": 342,
+    "age": 65,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívelégtelenség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 343,
+    "age": 88,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 344,
+    "age": 83,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívbillentyű elégtelenség, szívritmuszavar, pajzsmirigybetegség"
+  },
+  {
+    "sequence": 345,
+    "age": 95,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, veseelégtelenség"
+  },
+  {
+    "sequence": 346,
+    "age": 64,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, veseelégtelenség"
+  },
+  {
+    "sequence": 347,
+    "age": 75,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, magas koleszterin, szívbetegség"
+  },
+  {
+    "sequence": 348,
+    "age": 72,
+    "sex": 2,
+    "diseases": "nincs"
+  },
+  {
+    "sequence": 349,
+    "age": 95,
+    "sex": 1,
+    "diseases": "veseelégtelenség, krónikus gyomorgyulladás, májbetegség, kóros soványság, vérszegénység"
+  },
+  {
+    "sequence": 350,
+    "age": 87,
+    "sex": 1,
+    "diseases": "szívizom elégtelenség, krónikus veseelégtelenség, magas vérnyomás, Alzheimer-kór, dementia"
+  },
+  {
+    "sequence": 351,
+    "age": 85,
+    "sex": 2,
+    "diseases": "magas vérnyomás, epeútdaganat"
   }
 ]
