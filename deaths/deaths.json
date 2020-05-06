@@ -2176,5 +2176,65 @@
     "age": 86,
     "sex": 2,
     "diseases": "magas vérnyomás, cukorbetegség, agyi infarktus"
+  },
+  {
+    "sequence": 364,
+    "age": 80,
+    "sex": 2,
+    "diseases": "iszkémiás szívbetegség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 365,
+    "age": 69,
+    "sex": 1,
+    "diseases": "stroke"
+  },
+  {
+    "sequence": 366,
+    "age": 94,
+    "sex": 1,
+    "diseases": "érelmeszesedés, magas vérnyomás, iszkémiás szívbetegség, fekélyes vastagbélgyulladás, Alzheimer-kór"
+  },
+  {
+    "sequence": 367,
+    "age": 84,
+    "sex": 1,
+    "diseases": "érelmeszesedés, asztma, szívritmuszavar, agyi érelmeszesedés"
+  },
+  {
+    "sequence": 368,
+    "age": 82,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, prosztatarák, magas vérnyomás"
+  },
+  {
+    "sequence": 369,
+    "age": 68,
+    "sex": 1,
+    "diseases": "cukorbetegség, magas vérnyomás, veseelégtelenség"
+  },
+  {
+    "sequence": 370,
+    "age": 62,
+    "sex": 2,
+    "diseases": "áttételes bőrdaganat"
+  },
+  {
+    "sequence": 371,
+    "age": 82,
+    "sex": 1,
+    "diseases": "dementia, hallucinózis"
+  },
+  {
+    "sequence": 372,
+    "age": 72,
+    "sex": 2,
+    "diseases": "magas vérnyomás, pangásos szívelégtelenség, szívbetegség, szívritmuszavar"
+  },
+  {
+    "sequence": 373,
+    "age": 58,
+    "sex": 2,
+    "diseases": "magas vérnyomás, reflux, pikkelysömör, pajzsmirigy-alulműködés, szívbetegség, érelmeszesedés"
   }
 ]
