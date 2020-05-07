@@ -2236,5 +2236,65 @@
     "age": 58,
     "sex": 2,
     "diseases": "magas vérnyomás, reflux, pikkelysömör, pajzsmirigy-alulműködés, szívbetegség, érelmeszesedés"
+  },
+  {
+    "sequence": 374,
+    "age": 89,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia, pajzsmirigy-alulműködés"
+  },
+  {
+    "sequence": 375,
+    "age": 77,
+    "sex": 1,
+    "diseases": "szívelégtelenség"
+  },
+  {
+    "sequence": 376,
+    "age": 86,
+    "sex": 1,
+    "diseases": "hasnyálmirigy daganat, májdaganat"
+  },
+  {
+    "sequence": 377,
+    "age": 83,
+    "sex": 2,
+    "diseases": "HIV-fertőzés, HCV- fertőzés, cukorbetegség, májzsugorodás"
+  },
+  {
+    "sequence": 378,
+    "age": 78,
+    "sex": 2,
+    "diseases": "stroke"
+  },
+  {
+    "sequence": 379,
+    "age": 77,
+    "sex": 2,
+    "diseases": "szívelégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 380,
+    "age": 84,
+    "sex": 1,
+    "diseases": "érelmeszesedés, szívelégtelenség, iszkémiás szívbetegség. magas vérnyomás"
+  },
+  {
+    "sequence": 381,
+    "age": 72,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívizombetegség"
+  },
+  {
+    "sequence": 382,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia, Alzheimer-kór, csípőizületi kopás"
+  },
+  {
+    "sequence": 383,
+    "age": 77,
+    "sex": 2,
+    "diseases": "kétoldali tüdőgyulladás, kétoldali mellkasi folyadékgyülem, heveny veseelégtelenség"
   }
 ]
