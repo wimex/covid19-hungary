@@ -2296,5 +2296,59 @@
     "age": 77,
     "sex": 2,
     "diseases": "kétoldali tüdőgyulladás, kétoldali mellkasi folyadékgyülem, heveny veseelégtelenség"
+  },
+  {
+    "sequence": 384,
+    "age": 93,
+    "sex": 1,
+    "diseases": "pangásos szívelégtelenség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 385,
+    "age": 60,
+    "sex": 2,
+    "diseases": "végbélrák"
+  },
+  {
+    "sequence": 386,
+    "age": 85,
+    "sex": 1,
+    "diseases": "veseelégtelenség, medencetörés"
+  },
+  {
+    "sequence": 387,
+    "age": 94,
+    "sex": 1,
+    "diseases": "pangásos szívelégtelenség, magas vérnyomás, demencia"
+  },
+  {
+    "sequence": 388,
+    "age": 88,
+    "sex": 2,
+    "diseases": "prosztatarák, szívbetegség"
+  },
+  {
+    "sequence": 389,
+    "age": 85,
+    "sex": 1,
+    "diseases": "asztma, szívelégtelenség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 390,
+    "age": 67,
+    "sex": 1,
+    "diseases": "demencia, depresszió"
+  },
+  {
+    "sequence": 391,
+    "age": 89,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívelégtelenség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 392,
+    "age": 71,
+    "sex": 2,
+    "diseases": "szívelégtelenség, veseelégtelenség, cukorbetegség"
   }
 ]
