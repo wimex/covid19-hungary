@@ -2356,5 +2356,77 @@
     "age": 81,
     "sex": 2,
     "diseases": "nincs adat"
+  },
+  {
+    "sequence": 394,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magas vérnyomás, Alzheimer-kór"
+  },
+  {
+    "sequence": 395,
+    "age": 68,
+    "sex": 2,
+    "diseases": "hörgő - tüdő rosszindulatú daganat"
+  },
+  {
+    "sequence": 396,
+    "age": 86,
+    "sex": 2,
+    "diseases": "ízületi gyulladás, epekő, krónikus obstruktív tüdőbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 397,
+    "age": 90,
+    "sex": 1,
+    "diseases": "demencia, csípőtáji törés"
+  },
+  {
+    "sequence": 398,
+    "age": 86,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, pacemaker beültetés, amputált combcsont"
+  },
+  {
+    "sequence": 399,
+    "age": 76,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus alkoholfüggőség, érelmeszesedés, szívbetegség, veseelégtelenség"
+  },
+  {
+    "sequence": 400,
+    "age": 76,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, jobb szívfél-elégtelenség, prosztata tumor, köszvény, érelmeszesedés"
+  },
+  {
+    "sequence": 401,
+    "age": 47,
+    "sex": 1,
+    "diseases": "mentális retardáció, epilepszia"
+  },
+  {
+    "sequence": 402,
+    "age": 78,
+    "sex": 1,
+    "diseases": "combcsonttörés, felfekvés, pajzsmirigy-túlműködés, érelmeszesedés"
+  },
+  {
+    "sequence": 403,
+    "age": 78,
+    "sex": 1,
+    "diseases": "gyomorfekély"
+  },
+  {
+    "sequence": 404,
+    "age": 65,
+    "sex": 2,
+    "diseases": "krónikus tüdőbetegség"
+  },
+  {
+    "sequence": 405,
+    "age": 79,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, szívbetegség, gyomorfekély, agyi vérkeringési zavar"
   }
 ]
