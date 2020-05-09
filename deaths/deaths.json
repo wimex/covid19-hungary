@@ -2350,5 +2350,11 @@
     "age": 71,
     "sex": 2,
     "diseases": "szívelégtelenség, veseelégtelenség, cukorbetegség"
+  },
+  {
+    "sequence": 393,
+    "age": 81,
+    "sex": 2,
+    "diseases": "nincs adat"
   }
 ]
