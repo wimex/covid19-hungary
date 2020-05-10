@@ -1,0 +1,162 @@
+[
+  {
+    "published": "2020-05-04T07:29:00",
+    "hungary": {
+      "infected": 2054,
+      "cured": 630,
+      "deceased": 351,
+      "tested": 83958,
+      "quarantined": 10459
+    },
+    "pest-county": {
+      "infected": 1290,
+      "cured": 319,
+      "deceased": 276
+    },
+    "outside-of-pest-county": {
+      "infected": 764,
+      "cured": 311,
+      "deceased": 75
+    }
+  },
+  {
+    "published": "2020-05-05T04:59:00",
+    "hungary": {
+      "infected": 1993,
+      "cured": 709,
+      "deceased": 363,
+      "tested": 85557,
+      "quarantined": 10547
+    },
+    "pest-county": {
+      "infected": 1262,
+      "cured": 358,
+      "deceased": 285
+    },
+    "outside-of-pest-county": {
+      "infected": 731,
+      "cured": 351,
+      "deceased": 78
+    }
+  },
+  {
+    "published": "2020-05-06T04:30:00",
+    "hungary": {
+      "infected": 1979,
+      "cured": 759,
+      "deceased": 373,
+      "tested": 86743,
+      "quarantined": 10628
+    },
+    "pest-county": {
+      "infected": 1260,
+      "cured": 384,
+      "deceased": 294
+    },
+    "outside-of-pest-county": {
+      "infected": 719,
+      "cured": 375,
+      "deceased": 79
+    }
+  },
+  {
+    "published": "2020-05-06T08:59:00",
+    "hungary": {
+      "infected": 1979,
+      "cured": 759,
+      "deceased": 373,
+      "tested": 88735,
+      "quarantined": 10628
+    },
+    "pest-county": {
+      "infected": 1260,
+      "cured": 384,
+      "deceased": 294
+    },
+    "outside-of-pest-county": {
+      "infected": 719,
+      "cured": 375,
+      "deceased": 79
+    }
+  },
+  {
+    "published": "2020-05-07T04:45:00",
+    "hungary": {
+      "infected": 1966,
+      "cured": 801,
+      "deceased": 383,
+      "tested": 94036,
+      "quarantined": 10956
+    },
+    "pest-county": {
+      "infected": 1240,
+      "cured": 417,
+      "deceased": 301
+    },
+    "outside-of-pest-county": {
+      "infected": 726,
+      "cured": 384,
+      "deceased": 82
+    }
+  },
+  {
+    "published": "2020-05-08T04:54:00",
+    "hungary": {
+      "infected": 1921,
+      "cured": 865,
+      "deceased": 392,
+      "tested": 99058,
+      "quarantined": 11036
+    },
+    "pest-county": {
+      "infected": 1199,
+      "cured": 463,
+      "deceased": 310
+    },
+    "outside-of-pest-county": {
+      "infected": 722,
+      "cured": 402,
+      "deceased": 82
+    }
+  },
+  {
+    "published": "2020-05-09T04:56:00",
+    "hungary": {
+      "infected": 1904,
+      "cured": 904,
+      "deceased": 405,
+      "tested": 103258,
+      "quarantined": 10927
+    },
+    "pest-county": {
+      "infected": 1178,
+      "cured": 486,
+      "deceased": 320
+    },
+    "outside-of-pest-county": {
+      "infected": 726,
+      "cured": 418,
+      "deceased": 85
+    }
+  },
+  {
+    "published": "2020-05-10T05:01:00",
+    "hungary": {
+      "infected": 1917,
+      "cured": 933,
+      "deceased": 413,
+      "tested": 108257,
+      "quarantined": 10356
+    },
+    "pest-county": {
+      "infected": 1172,
+      "cured": 513,
+      "deceased": 326
+    },
+    "outside-of-pest-county": {
+      "infected": 745,
+      "cured": 420,
+      "deceased": 87
+    }
+  }
+]
