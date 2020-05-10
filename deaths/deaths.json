@@ -2428,5 +2428,53 @@
     "age": 79,
     "sex": 2,
     "diseases": "magas vérnyomás, cukorbetegség, szívbetegség, gyomorfekély, agyi vérkeringési zavar"
+  },
+  {
+    "sequence": 406,
+    "age": 79,
+    "sex": 1,
+    "diseases": "magas vérnyomás, Alzheimer-kór"
+  },
+  {
+    "sequence": 407,
+    "age": 73,
+    "sex": 1,
+    "diseases": "2-es típusú cukorbetegség, magas vérnyomás, szívritmuszavar"
+  },
+  {
+    "sequence": 408,
+    "age": 87,
+    "sex": 1,
+    "diseases": "általános verőér elmeszesedés, pitvarfibrilláció, cukorbetegség, demencia"
+  },
+  {
+    "sequence": 409,
+    "age": 76,
+    "sex": 2,
+    "diseases": "magas vérnyomás, demencia, szívkoszorúér betegség"
+  },
+  {
+    "sequence": 410,
+    "age": 87,
+    "sex": 1,
+    "diseases": "pajzsmirigy alulműködés, jobb szívfél-elégtelenség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 411,
+    "age": 78,
+    "sex": 2,
+    "diseases": "Alzheimer-kór"
+  },
+  {
+    "sequence": 412,
+    "age": 70,
+    "sex": 1,
+    "diseases": "daganatos betegség"
+  },
+  {
+    "sequence": 413,
+    "age": 70,
+    "sex": 2,
+    "diseases": "vesetumor, magas vérnyomás, dializált beteg"
   }
 ]
