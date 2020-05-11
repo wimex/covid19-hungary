@@ -2476,5 +2476,53 @@
     "age": 70,
     "sex": 2,
     "diseases": "vesetumor, magas vérnyomás, dializált beteg"
+  },
+  {
+    "sequence": 414,
+    "age": 77,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívbetegség, szívritmuszavar"
+  },
+  {
+    "sequence": 415,
+    "age": 67,
+    "sex": 2,
+    "diseases": "magas vérnyomás, Parkinson-kór, szív- és érrendszeri betegség"
+  },
+  {
+    "sequence": 416,
+    "age": 66,
+    "sex": 2,
+    "diseases": "Magas vérnyomás, általános érszűkület, hólyagtumor, agyi érbetegség, alkoholizmus"
+  },
+  {
+    "sequence": 417,
+    "age": 87,
+    "sex": 1,
+    "diseases": "iszkémiás szívbetegség, magas vérnyomás, demencia"
+  },
+  {
+    "sequence": 418,
+    "age": 67,
+    "sex": 2,
+    "diseases": "krónikus májbetegség, Parkinson kór"
+  },
+  {
+    "sequence": 419,
+    "age": 72,
+    "sex": 2,
+    "diseases": "2-es típusú cukorbetegség, magas vérnyomás, agyi érbetegség, szívelégtelenség"
+  },
+  {
+    "sequence": 420,
+    "age": 86,
+    "sex": 1,
+    "diseases": "hólyagtumor, nyaki csigolya elváltozás, magas vérnyomás"
+  },
+  {
+    "sequence": 421,
+    "age": 51,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, pitvarfibrilláció, krónikus veseelégtelenség, májzsugorodás, szívelégtelenség"
   }
 ]
