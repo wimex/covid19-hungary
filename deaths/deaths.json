@@ -2524,5 +2524,29 @@
     "age": 51,
     "sex": 2,
     "diseases": "magas vérnyomás, cukorbetegség, pitvarfibrilláció, krónikus veseelégtelenség, májzsugorodás, szívelégtelenség"
+  },
+  {
+    "sequence": 422,
+    "age": 72,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, szívritmuszavar, koszorúér-meszesedés, stroke utáni szindróma"
+  },
+  {
+    "sequence": 423,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, csípőízületi betegség, szívelégtelenség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 424,
+    "age": 67,
+    "sex": 1,
+    "diseases": "demencia"
+  },
+  {
+    "sequence": 425,
+    "age": 85,
+    "sex": 1,
+    "diseases": "szívelégtelenség, tüdőgyulladás, csontritkulás, iszkémiás szívbetegség, demencia"
   }
 ]
