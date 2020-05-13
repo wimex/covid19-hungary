@@ -2548,5 +2548,35 @@
     "age": 85,
     "sex": 1,
     "diseases": "szívelégtelenség, tüdőgyulladás, csontritkulás, iszkémiás szívbetegség, demencia"
+  },
+  {
+    "sequence": 426,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 427,
+    "age": 87,
+    "sex": 1,
+    "diseases": "szívizomelégtelenség, érelmeszesedés, demencia"
+  },
+  {
+    "sequence": 428,
+    "age": 89,
+    "sex": 1,
+    "diseases": "demencia, érelmeszesedés, szívbetegség"
+  },
+  {
+    "sequence": 429,
+    "age": 78,
+    "sex": 2,
+    "diseases": "daganatos betegség, magas vérnyomás, krónikus hasnyálmirigy gyulladás, májzsugor"
+  },
+  {
+    "sequence": 430,
+    "age": 95,
+    "sex": 2,
+    "diseases": "tüdőtágulat, magas vérnyomás, krónikus arcüreggyulladás"
   }
 ]
