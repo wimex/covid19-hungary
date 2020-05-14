@@ -2578,5 +2578,41 @@
     "age": 95,
     "sex": 2,
     "diseases": "tüdőtágulat, magas vérnyomás, krónikus arcüreggyulladás"
+  },
+  {
+    "sequence": 431,
+    "age": 81,
+    "sex": 2,
+    "diseases": "idiopathiás tüdőfibrózis, vesebetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 432,
+    "age": 89,
+    "sex": 2,
+    "diseases": "demencia, Alzheimer-kór, iszkémiás szívbetegség, pitvarfibrilláció, stroke, érelmeszesedés"
+  },
+  {
+    "sequence": 433,
+    "age": 81,
+    "sex": 1,
+    "diseases": "demencia, poszttraumás stressz"
+  },
+  {
+    "sequence": 434,
+    "age": 65,
+    "sex": 2,
+    "diseases": "magas vérnyomás, érszűkület, üszkösödés"
+  },
+  {
+    "sequence": 435,
+    "age": 58,
+    "sex": 2,
+    "diseases": "fekélyes vastagbélgyulladás, sok szervi elégtelenség"
+  },
+  {
+    "sequence": 436,
+    "age": 77,
+    "sex": 2,
+    "diseases": "magas vérnyomás, agyi vérellátási probléma, krónikus veseelégtelenség, mélyvénás trombózis"
   }
 ]
