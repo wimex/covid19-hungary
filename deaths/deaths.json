@@ -2614,5 +2614,41 @@
     "age": 77,
     "sex": 2,
     "diseases": "magas vérnyomás, agyi vérellátási probléma, krónikus veseelégtelenség, mélyvénás trombózis"
+  },
+  {
+    "sequence": 437,
+    "age": 86,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, krónikus veseelégtelenség, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 438,
+    "age": 73,
+    "sex": 1,
+    "diseases": "magas vérnyomás, stroke, cukorbetegség"
+  },
+  {
+    "sequence": 439,
+    "age": 60,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, pitvari fibrilláció"
+  },
+  {
+    "sequence": 440,
+    "age": 88,
+    "sex": 1,
+    "diseases": "demencia, cukorbetegség, tüdőgyulladás, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 441,
+    "age": 61,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, epilepszia, dementia, agyérszűkület"
+  },
+  {
+    "sequence": 442,
+    "age": 77,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, agyalapi artériás vérzés"
   }
 ]
