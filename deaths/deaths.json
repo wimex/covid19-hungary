@@ -2650,5 +2650,41 @@
     "age": 77,
     "sex": 1,
     "diseases": "magas vérnyomás, cukorbetegség, agyalapi artériás vérzés"
+  },
+  {
+    "sequence": 443,
+    "age": 88,
+    "sex": 1,
+    "diseases": "magas vérnyomás, agyér megbetegedés, demencia"
+  },
+  {
+    "sequence": 444,
+    "age": 76,
+    "sex": 2,
+    "diseases": "szívelégtelenség, többszöri szívinfarktus, COPD, Epilepszia, prosztata daganat"
+  },
+  {
+    "sequence": 445,
+    "age": 86,
+    "sex": 2,
+    "diseases": "gyomorvérzés, anaemia, magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 446,
+    "age": 78,
+    "sex": 1,
+    "diseases": "vesegörcsök, cukorbetegség, magas vérnyomás, iszkémiás szívbetegség, bélgyulladás, szívizomgyulladás"
+  },
+  {
+    "sequence": 447,
+    "age": 93,
+    "sex": 2,
+    "diseases": "magas vérnyomás, 2-es típusú cukorbetegség, urológiai műtét"
+  },
+  {
+    "sequence": 448,
+    "age": 81,
+    "sex": 2,
+    "diseases": "általános érelmeszesedés, koszorúérelmeszesedés, krónikus szívelégtelenség"
   }
 ]
