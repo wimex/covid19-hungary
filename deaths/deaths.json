@@ -2704,5 +2704,71 @@
     "age": 81,
     "sex": 1,
     "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 452,
+    "age": 92,
+    "sex": 1,
+    "diseases": "Iszkémiás szívbetegség, demencia, pajzsmirigy alulműködés"
+  },
+  {
+    "sequence": 453,
+    "age": 67,
+    "sex": 2,
+    "diseases": "krónikus vesebetegség, magas vérnyomás, 2-es típusú cukorbetegség"
+  },
+  {
+    "sequence": 454,
+    "age": 78,
+    "sex": 1,
+    "diseases": "magas vérnyomás, pitvarfibrilláció, pajzsmirigy alulműködés"
+  },
+  {
+    "sequence": 455,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, demencia"
+  },
+  {
+    "sequence": 456,
+    "age": 82,
+    "sex": 1,
+    "diseases": "veseelégtelenség, demencia"
+  },
+  {
+    "sequence": 457,
+    "age": 51,
+    "sex": 2,
+    "diseases": "hasnyálmirigy daganat, korábban leukémia miatt csontvelő transzplantáció"
+  },
+  {
+    "sequence": 458,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás, pitvarfibrilláció, cukorbetegség"
+  },
+  {
+    "sequence": 459,
+    "age": 79,
+    "sex": 2,
+    "diseases": "Alzheimer-kór, magas vérnyomás"
+  },
+  {
+    "sequence": 460,
+    "age": 68,
+    "sex": 2,
+    "diseases": "érszűkület, demencia, szívelégtelenség, reflux, krónikus obstruktív tüdőbetegség, combnyaktörés"
+  },
+  {
+    "sequence": 461,
+    "age": 92,
+    "sex": 1,
+    "diseases": "magas vérnyomás, végbélrák, pajzsmirigy alulműködés, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 462,
+    "age": 68,
+    "sex": 2,
+    "diseases": "magas vérnyomás, köszvény, tüdő rosszindulatú daganata, multiplex májáttét"
   }
 ]
