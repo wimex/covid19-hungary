@@ -2770,5 +2770,35 @@
     "age": 68,
     "sex": 2,
     "diseases": "magas vérnyomás, köszvény, tüdő rosszindulatú daganata, multiplex májáttét"
+  },
+  {
+    "sequence": 463,
+    "age": 88,
+    "sex": 2,
+    "diseases": "magas vérnyomás, pitvarfibrilláció, stroke, mellüregi folyadék"
+  },
+  {
+    "sequence": 464,
+    "age": 70,
+    "sex": 1,
+    "diseases": "vészes soványság, kiszáradás, agyi vérellátási zavar"
+  },
+  {
+    "sequence": 465,
+    "age": 85,
+    "sex": 1,
+    "diseases": "hasnyálmirigy-daganat, érelmeszesedés, vérszegénység"
+  },
+  {
+    "sequence": 466,
+    "age": 70,
+    "sex": 1,
+    "diseases": "veseelégtelenség, vesepótló kezelés, vérmérgezés"
+  },
+  {
+    "sequence": 467,
+    "age": 66,
+    "sex": 1,
+    "diseases": "petefészek daganat, mellhártyagyulladás, másodlagos mellhártyadaganat"
   }
 ]
