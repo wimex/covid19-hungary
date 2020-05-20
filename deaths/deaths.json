@@ -2800,5 +2800,23 @@
     "age": 66,
     "sex": 1,
     "diseases": "petefészek daganat, mellhártyagyulladás, másodlagos mellhártyadaganat"
+  },
+  {
+    "sequence": 468,
+    "age": 66,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, bakteriális enteritis, magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 469,
+    "age": 61,
+    "sex": 2,
+    "diseases": "cukorbetegség"
+  },
+  {
+    "sequence": 470,
+    "age": 67,
+    "sex": 2,
+    "diseases": "magas vérnyomás, veseelégtelenség, vastagbélrák májáttéttel"
   }
 ]
