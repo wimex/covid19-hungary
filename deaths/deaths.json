@@ -2818,5 +2818,23 @@
     "age": 67,
     "sex": 2,
     "diseases": "magas vérnyomás, veseelégtelenség, vastagbélrák májáttéttel"
+  },
+  {
+    "sequence": 471,
+    "age": 61,
+    "sex": 2,
+    "diseases": "nyelőcső rák"
+  },
+  {
+    "sequence": 472,
+    "age": 84,
+    "sex": 1,
+    "diseases": "emlőtumor, májáttét"
+  },
+  {
+    "sequence": 473,
+    "age": 74,
+    "sex": 2,
+    "diseases": "cukorbetegség, combnyaktörés, demencia"
   }
 ]
