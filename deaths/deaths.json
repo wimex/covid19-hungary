@@ -2854,5 +2854,41 @@
     "age": 80,
     "sex": 2,
     "diseases": "vérszegénység, magas vérnyomás, iszkémiás szívbetegség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 477,
+    "age": 73,
+    "sex": 2,
+    "diseases": "általános érelmeszesedés, magas vérnyomás, veseelégtelenség, szívelégtelenség"
+  },
+  {
+    "sequence": 478,
+    "age": 87,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, pitvarfibrilláció, fekélyes nyelőcsőgyulladás, krónikus gyomorgyulladás, kétoldali látásvesztés"
+  },
+  {
+    "sequence": 479,
+    "age": 74,
+    "sex": 2,
+    "diseases": "hörgő/ tüdő rosszindulatú daganat"
+  },
+  {
+    "sequence": 480,
+    "age": 89,
+    "sex": 1,
+    "diseases": "szívelégtelenség, veseelégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 481,
+    "age": 75,
+    "sex": 1,
+    "diseases": "az agy kóros elváltozása, agyzsugorodás, pajzsmirigy túlműködése, rekesz alatti tályog"
+  },
+  {
+    "sequence": 482,
+    "age": 73,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, pangásos szívelégtelenség"
   }
 ]
