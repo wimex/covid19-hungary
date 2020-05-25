@@ -2926,5 +2926,23 @@
     "age": 80,
     "sex": 1,
     "diseases": "szívbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 489,
+    "age": 84,
+    "sex": 2,
+    "diseases": "szívbetegség, vese elégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 490,
+    "age": 78,
+    "sex": 1,
+    "diseases": "érrendszeri és keringési rendellenesség"
+  },
+  {
+    "sequence": 491,
+    "age": 66,
+    "sex": 2,
+    "diseases": "magas vérnyomás, tüdő daganat, csontok és csontvelő rosszindulatú daganata"
   }
 ]
