@@ -203,5 +203,10 @@
     "published": "2020-05-25T05:00:08.87",
     "location": "https://koronavirus.gov.hu/sites/default/files/0525terk.png",
     "hash": "0e94165bbf591d25fbfd07dbc4f8bf9d95788e93"
+  },
+  {
+    "published": "2020-05-26T06:00:13.733",
+    "location": "https://koronavirus.gov.hu/sites/default/files/terkep0526.jpg",
+    "hash": "6e5ad61d7aaaae1a2708a620ef4b329b6164b58e"
   }
 ]

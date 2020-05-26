@@ -2944,5 +2944,53 @@
     "age": 66,
     "sex": 2,
     "diseases": "magas vérnyomás, tüdő daganat, csontok és csontvelő rosszindulatú daganata"
+  },
+  {
+    "sequence": 492,
+    "age": 69,
+    "sex": 1,
+    "diseases": "jobb oldali vesetumor tüdő és hasűri áttétekkel, szívelégtelenség"
+  },
+  {
+    "sequence": 493,
+    "age": 87,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, iszkémiás szívbetegség, tüdőtágulat, vastagbél tumor, magas vérnyomás"
+  },
+  {
+    "sequence": 494,
+    "age": 70,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, idült obstruktív tüdőbetegség, krónikus szívbetegség"
+  },
+  {
+    "sequence": 495,
+    "age": 85,
+    "sex": 1,
+    "diseases": "pangásos szívelégtelenség, cukorbetegség, magas vérnyomás,idült iszkémiás szívbetegség,krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 496,
+    "age": 71,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, hörghurut, agyi érszűkület, iszkémiás szívbetegség, ACM területi iszkémiás stroke, agysorvadás, magas vérnyomás, mentális retardáció, idült alkoholizmus"
+  },
+  {
+    "sequence": 497,
+    "age": 76,
+    "sex": 1,
+    "diseases": "magas vérnyomás, veseelégtelenség, cukorbetegség, légzési-és keringési elégtelenség"
+  },
+  {
+    "sequence": 498,
+    "age": 85,
+    "sex": 1,
+    "diseases": "tüdőgyulladás,agyi érelmeszesedés, demencia, demenciához társuló delírium, refluxbetegség, felfekvés"
+  },
+  {
+    "sequence": 499,
+    "age": 91,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívritmuszavar, agyérbetegség, szívkoszorú érkeringési zavar"
   }
 ]
