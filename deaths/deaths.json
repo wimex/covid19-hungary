@@ -2992,5 +2992,41 @@
     "age": 91,
     "sex": 1,
     "diseases": "magas vérnyomás, szívritmuszavar, agyérbetegség, szívkoszorú érkeringési zavar"
+  },
+  {
+    "sequence": 500,
+    "age": 75,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, cukorbetegség, érszűkület, szívritmuszavar"
+  },
+  {
+    "sequence": 501,
+    "age": 90,
+    "sex": 1,
+    "diseases": "emlőrák, szívritmuszavar, csontvelőgyulladás"
+  },
+  {
+    "sequence": 502,
+    "age": 86,
+    "sex": 1,
+    "diseases": "szívbetegség, pajzsmirigygyulladás"
+  },
+  {
+    "sequence": 503,
+    "age": 91,
+    "sex": 1,
+    "diseases": "csontritkulás, magas vérnyomás"
+  },
+  {
+    "sequence": 504,
+    "age": 80,
+    "sex": 1,
+    "diseases": "emlőrák mellkasfali és bőr áttétekkel"
+  },
+  {
+    "sequence": 505,
+    "age": 84,
+    "sex": 1,
+    "diseases": "magas vérnyomás, Alzheimer-kór, demencia, szívbillentyű-működési zavar"
   }
 ]
