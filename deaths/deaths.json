@@ -3052,5 +3052,53 @@
     "age": 62,
     "sex": 2,
     "diseases": "magas vérnyomás, cukorbetegség, szívizom betegség"
+  },
+  {
+    "sequence": 510,
+    "age": 78,
+    "sex": 1,
+    "diseases": "iszkémiás szívbetegség, pitvarfibrillatio, korábbi stroke, vírusos tüdőgyulladás"
+  },
+  {
+    "sequence": 511,
+    "age": 37,
+    "sex": 2,
+    "diseases": "mentális retardáció, Little-kór"
+  },
+  {
+    "sequence": 512,
+    "age": 89,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívelégtelenség,szívritmuszavar, krónikus obstruktív tüdőbetegség, korábban mélyvénás thrombosis"
+  },
+  {
+    "sequence": 513,
+    "age": 72,
+    "sex": 2,
+    "diseases": "magas vérnyomás, iszkémiás szívbetegség, krónikus veseelégtelenség,cukorbetegség, B-sejtes lymphoma"
+  },
+  {
+    "sequence": 514,
+    "age": 91,
+    "sex": 1,
+    "diseases": "szívelégtelenség, vírusos tüdőgyulladás, légzési elégtelenség,magas vérnyomás, billentyűelégtelenség, érelmeszesedés, cukorbetegség, agysorvadás, májbetegség"
+  },
+  {
+    "sequence": 515,
+    "age": 67,
+    "sex": 1,
+    "diseases": "Magas vérnyomás, pajzsmirigy alulműködés"
+  },
+  {
+    "sequence": 516,
+    "age": 95,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia, Alzheimer kór"
+  },
+  {
+    "sequence": 517,
+    "age": 89,
+    "sex": 2,
+    "diseases": "magas vérnyomás, iszkémiás szívbetegség, izületi gyulladás"
   }
 ]
