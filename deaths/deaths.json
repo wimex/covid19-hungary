@@ -3100,5 +3100,47 @@
     "age": 89,
     "sex": 2,
     "diseases": "magas vérnyomás, iszkémiás szívbetegség, izületi gyulladás"
+  },
+  {
+    "sequence": 518,
+    "age": 81,
+    "sex": 1,
+    "diseases": "magas vérnyomás, pajzsmirigy alulműködés, demencia"
+  },
+  {
+    "sequence": 519,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, pitvarfibrilláció, prosztata megnagyobbodás, subdurális és subarachnoidális vérömleny"
+  },
+  {
+    "sequence": 520,
+    "age": 91,
+    "sex": 1,
+    "diseases": "COPD, iszkémiás szívbetegség, szívelégtelenség"
+  },
+  {
+    "sequence": 521,
+    "age": 68,
+    "sex": 1,
+    "diseases": "magas vérnyomás, koponyazúzódás, szívelégtelenség"
+  },
+  {
+    "sequence": 522,
+    "age": 66,
+    "sex": 2,
+    "diseases": "Cukorbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 523,
+    "age": 84,
+    "sex": 1,
+    "diseases": "COPD, miokardinális infarktus, veseelégtelenség"
+  },
+  {
+    "sequence": 524,
+    "age": 75,
+    "sex": 1,
+    "diseases": "Stroke, veseelégtelenség, csontvelőrák"
   }
 ]
