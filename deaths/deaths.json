@@ -3142,5 +3142,17 @@
     "age": 75,
     "sex": 1,
     "diseases": "Stroke, veseelégtelenség, csontvelőrák"
+  },
+  {
+    "sequence": 525,
+    "age": 93,
+    "sex": 1,
+    "diseases": "általános érelmeszesedés, magas vérnyomás, demencia"
+  },
+  {
+    "sequence": 526,
+    "age": 86,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívbetegség"
   }
 ]

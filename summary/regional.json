@@ -598,5 +598,25 @@
       "cured": 1106,
       "deceased": 213
     }
+  },
+  {
+    "published": "2020-05-31T06:43:00Z",
+    "hungary": {
+      "infected": 1203,
+      "cured": 2147,
+      "deceased": 526,
+      "tested": 185980,
+      "quarantined": 11540
+    },
+    "pest-county": {
+      "infected": 490,
+      "cured": 1039,
+      "deceased": 312
+    },
+    "outside-of-pest-county": {
+      "infected": 713,
+      "cured": 1108,
+      "deceased": 214
+    }
   }
 ]
