@@ -3154,5 +3154,11 @@
     "age": 86,
     "sex": 2,
     "diseases": "magas vérnyomás, szívbetegség"
+  },
+  {
+    "sequence": 527,
+    "age": 69,
+    "sex": 1,
+    "diseases": "emlő rosszindulatú daganata, magas vérnyomás, a hónalj és felső végtag nyirokcsomóinak rosszindulatú daganata, a máj másodlagos rosszindulatú daganata, decubitus fekély"
   }
 ]
