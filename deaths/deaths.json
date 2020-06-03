@@ -3190,5 +3190,17 @@
     "age": 91,
     "sex": 2,
     "diseases": "magas vérnyomás, érelmeszesedés"
+  },
+  {
+    "sequence": 533,
+    "age": 80,
+    "sex": 2,
+    "diseases": "hypertonia, DM, Chron betegség"
+  },
+  {
+    "sequence": 534,
+    "age": 52,
+    "sex": 1,
+    "diseases": "Fábry-szindróma, asztma, magas vérnyomás, krónikus etilizmus, COPD tüdőbetegség, krónikus anémia"
   }
 ]
