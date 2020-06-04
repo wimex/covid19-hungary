@@ -3202,5 +3202,35 @@
     "age": 52,
     "sex": 1,
     "diseases": "Fábry-szindróma, asztma, magas vérnyomás, krónikus etilizmus, COPD tüdőbetegség, krónikus anémia"
+  },
+  {
+    "sequence": 535,
+    "age": 66,
+    "sex": 2,
+    "diseases": "magas vérnyomás, tüdőtumor, mellékvese és pancreas áttétek, multiplex agyi áttétek"
+  },
+  {
+    "sequence": 536,
+    "age": 86,
+    "sex": 2,
+    "diseases": "magas vérnyomás, Parkinson- kór, szívritmuszavar, TBC, bal alsó végtag amputáció"
+  },
+  {
+    "sequence": 537,
+    "age": 59,
+    "sex": 2,
+    "diseases": "cukorbetegség, magas vérnyomás, perifériás érbetegség"
+  },
+  {
+    "sequence": 538,
+    "age": 80,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, kitágulásos szívizom-elfajulás, szívbetegség"
+  },
+  {
+    "sequence": 539,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívbetegség, szívelégtelenség, vesekárosodás"
   }
 ]
