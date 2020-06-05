@@ -3232,5 +3232,23 @@
     "age": 90,
     "sex": 1,
     "diseases": "magas vérnyomás, szívbetegség, szívelégtelenség, vesekárosodás"
+  },
+  {
+    "sequence": 540,
+    "age": 47,
+    "sex": 1,
+    "diseases": "cukorbetegség, magas vérnyomás, krónikus vesegyulladás"
+  },
+  {
+    "sequence": 541,
+    "age": 80,
+    "sex": 2,
+    "diseases": "szívritmuszavar, magas vérnyomás, elhízás, demencia"
+  },
+  {
+    "sequence": 542,
+    "age": 76,
+    "sex": 1,
+    "diseases": "magas vérnyomás, pajzsmirigy-alulműködés, petefészekrák"
   }
 ]
