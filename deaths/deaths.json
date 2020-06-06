@@ -3250,5 +3250,23 @@
     "age": 76,
     "sex": 1,
     "diseases": "magas vérnyomás, pajzsmirigy-alulműködés, petefészekrák"
+  },
+  {
+    "sequence": 543,
+    "age": 78,
+    "sex": 1,
+    "diseases": "súlyos Alzheimer demencia, magas vérnyomás"
+  },
+  {
+    "sequence": 544,
+    "age": 64,
+    "sex": 2,
+    "diseases": "magas vérnyomás, aorto-femoralis bypass, aethylismus, máj- és veseelégtelenség"
+  },
+  {
+    "sequence": 545,
+    "age": 78,
+    "sex": 1,
+    "diseases": "Pajzsmirigy alulműködés, magas vérnyomás, időskori cukorbetegség, chronicus cholecystitis, GERD, krónikus veseelégtelenség, anaemia, iszkémiás szívbetegség, nem szignifikáns aortastenosis,  pitvarfibrilláció  és cardialis decompensatio"
   }
 ]
