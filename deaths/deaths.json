@@ -3268,5 +3268,11 @@
     "age": 78,
     "sex": 1,
     "diseases": "Pajzsmirigy alulműködés, magas vérnyomás, időskori cukorbetegség, chronicus cholecystitis, GERD, krónikus veseelégtelenség, anaemia, iszkémiás szívbetegség, nem szignifikáns aortastenosis,  pitvarfibrilláció  és cardialis decompensatio"
+  },
+  {
+    "sequence": 546,
+    "age": 89,
+    "sex": 1,
+    "diseases": "szívbetegség, érszűkület, cukorbetegség"
   }
 ]
