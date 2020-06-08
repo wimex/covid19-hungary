@@ -3274,5 +3274,17 @@
     "age": 89,
     "sex": 1,
     "diseases": "szívbetegség, érszűkület, cukorbetegség"
+  },
+  {
+    "sequence": 547,
+    "age": 76,
+    "sex": 1,
+    "diseases": "demencia, magas vérnyomás"
+  },
+  {
+    "sequence": 548,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás, demencia, iszkémiás szívbetegség, cukorbetegség"
   }
 ]
