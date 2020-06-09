@@ -3286,5 +3286,17 @@
     "age": 84,
     "sex": 2,
     "diseases": "magas vérnyomás, demencia, iszkémiás szívbetegség, cukorbetegség"
+  },
+  {
+    "sequence": 549,
+    "age": 89,
+    "sex": 1,
+    "diseases": "magas vérnyomás, iszkémiás szívbetegség, 2-es típusú cukorbetegség, demencia, akut koronária szindróma ACS"
+  },
+  {
+    "sequence": 550,
+    "age": 85,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség epilepszia,krónikus obstruktív tüdőbetegség , pitvari fibrillatio és flutter"
   }
 ]
