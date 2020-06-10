@@ -3298,5 +3298,11 @@
     "age": 85,
     "sex": 2,
     "diseases": "magas vérnyomás, cukorbetegség epilepszia,krónikus obstruktív tüdőbetegség , pitvari fibrillatio és flutter"
+  },
+  {
+    "sequence": 551,
+    "age": 37,
+    "sex": 2,
+    "diseases": "nem ismert"
   }
 ]
