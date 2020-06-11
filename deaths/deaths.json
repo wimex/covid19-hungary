@@ -3304,5 +3304,17 @@
     "age": 37,
     "sex": 2,
     "diseases": "nem ismert"
+  },
+  {
+    "sequence": 552,
+    "age": 87,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia, pitvarfibrilláció, bal oldali combnyaktörés"
+  },
+  {
+    "sequence": 553,
+    "age": 66,
+    "sex": 2,
+    "diseases": "vírusos tüdőgyulladás, légzési elégtelenség, demencia"
   }
 ]

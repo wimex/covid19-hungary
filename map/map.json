@@ -283,5 +283,10 @@
     "published": "2020-06-10T07:00:25.5Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/terkep0610.jpg",
     "hash": "ca79aa4013ac7a01c32e68871bb61522b3142cbd"
+  },
+  {
+    "published": "2020-06-11T07:00:08.163Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/terkep0611.jpg",
+    "hash": "d9ef24988b3be19d5c1dc8f88368b3d529835b4d"
   }
 ]
