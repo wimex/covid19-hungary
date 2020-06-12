@@ -3316,5 +3316,17 @@
     "age": 66,
     "sex": 2,
     "diseases": "vírusos tüdőgyulladás, légzési elégtelenség, demencia"
+  },
+  {
+    "sequence": 554,
+    "age": 83,
+    "sex": 1,
+    "diseases": "vastagbél daganat, 1-es típusú cukorbetegség, szívelégtelenség, pajzsmirigy krónikus gyulladás (HT), krónikus gyomor gyulladás, septicaemia"
+  },
+  {
+    "sequence": 555,
+    "age": 66,
+    "sex": 2,
+    "diseases": "prosztata rosszindulatú daganata, anémia, pajzsmirigy krónikusgyulladása (HT)"
   }
 ]
