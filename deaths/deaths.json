@@ -3328,5 +3328,29 @@
     "age": 66,
     "sex": 2,
     "diseases": "prosztata rosszindulatú daganata, anémia, pajzsmirigy krónikusgyulladása (HT)"
+  },
+  {
+    "sequence": 556,
+    "age": 84,
+    "sex": 2,
+    "diseases": "cukorbetegség, májkárosodás"
+  },
+  {
+    "sequence": 557,
+    "age": 81,
+    "sex": 1,
+    "diseases": "magas vérnyomás, depresszió, pitvarfibrilláció, demencia"
+  },
+  {
+    "sequence": 558,
+    "age": 43,
+    "sex": 2,
+    "diseases": "nyirokcsomórák, agydaganat, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 559,
+    "age": 76,
+    "sex": 2,
+    "diseases": "stroke, magas vérnyomás, cukorbetegség, iszkémiás szívbetegség, érszűkület"
   }
 ]
