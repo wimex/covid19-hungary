@@ -3352,5 +3352,23 @@
     "age": 76,
     "sex": 2,
     "diseases": "stroke, magas vérnyomás, cukorbetegség, iszkémiás szívbetegség, érszűkület"
+  },
+  {
+    "sequence": 560,
+    "age": 79,
+    "sex": 1,
+    "diseases": "Alzheimer-kór, magas vérnyomás, vastagbéldaganat"
+  },
+  {
+    "sequence": 561,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, szívelégtelenség"
+  },
+  {
+    "sequence": 562,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus obstruktív tüdőbetegség, pitvarfibrilláció"
   }
 ]
