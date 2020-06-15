@@ -3370,5 +3370,11 @@
     "age": 84,
     "sex": 2,
     "diseases": "magas vérnyomás, krónikus obstruktív tüdőbetegség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 563,
+    "age": 101,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, COPD tüdőbetegség, neurológiai betegségek, veseelégtelenség, csontritkulás"
   }
 ]
