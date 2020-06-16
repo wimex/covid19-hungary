@@ -3376,5 +3376,17 @@
     "age": 101,
     "sex": 1,
     "diseases": "magas vérnyomás, cukorbetegség, COPD tüdőbetegség, neurológiai betegségek, veseelégtelenség, csontritkulás"
+  },
+  {
+    "sequence": 564,
+    "age": 86,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia, pitvar fibrilláció, általános érelmeszesedés"
+  },
+  {
+    "sequence": 565,
+    "age": 75,
+    "sex": 1,
+    "diseases": "krónikus tüdőbetegség, bélelzáródás és légzési elégtelenség"
   }
 ]
