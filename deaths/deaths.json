@@ -3388,5 +3388,17 @@
     "age": 75,
     "sex": 1,
     "diseases": "krónikus tüdőbetegség, bélelzáródás és légzési elégtelenség"
+  },
+  {
+    "sequence": 566,
+    "age": 93,
+    "sex": 1,
+    "diseases": "szívelégtelenség, magas vérnyomás, pitvari fibrilláció, anémia, gyomorfekély heveny vérzéssel"
+  },
+  {
+    "sequence": 567,
+    "age": 76,
+    "sex": 1,
+    "diseases": "magas-vérnyomás, cukorbetegség, krónikus obstruktív tüdőbetegség, emlőrák, iszkémiás szívbetegség, szívelégtelenség"
   }
 ]
