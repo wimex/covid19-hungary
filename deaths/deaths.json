@@ -3400,5 +3400,11 @@
     "age": 76,
     "sex": 1,
     "diseases": "magas-vérnyomás, cukorbetegség, krónikus obstruktív tüdőbetegség, emlőrák, iszkémiás szívbetegség, szívelégtelenség"
+  },
+  {
+    "sequence": 568,
+    "age": 74,
+    "sex": 1,
+    "diseases": "magas vérnyomás, érelmeszesedés, nyombélfekély"
   }
 ]
