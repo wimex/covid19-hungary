@@ -3406,5 +3406,17 @@
     "age": 74,
     "sex": 1,
     "diseases": "magas vérnyomás, érelmeszesedés, nyombélfekély"
+  },
+  {
+    "sequence": 569,
+    "age": 72,
+    "sex": 2,
+    "diseases": "alkoholizmus, béldaganat"
+  },
+  {
+    "sequence": 570,
+    "age": 87,
+    "sex": 2,
+    "diseases": "szívelégtelenség, magas vérnyomás"
   }
 ]
