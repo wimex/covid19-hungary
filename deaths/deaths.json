@@ -3418,5 +3418,17 @@
     "age": 87,
     "sex": 2,
     "diseases": "szívelégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 571,
+    "age": 76,
+    "sex": 2,
+    "diseases": "magas vérnyomás, inzulinos cukorbetegség, krónikus vesebetegség"
+  },
+  {
+    "sequence": 572,
+    "age": 94,
+    "sex": 2,
+    "diseases": "szívelégtelenség, magas vérnyomás, vérképző rendszeri zavarok"
   }
 ]
