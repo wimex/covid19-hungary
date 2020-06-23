@@ -3430,5 +3430,11 @@
     "age": 94,
     "sex": 2,
     "diseases": "szívelégtelenség, magas vérnyomás, vérképző rendszeri zavarok"
+  },
+  {
+    "sequence": 573,
+    "age": 100,
+    "sex": 2,
+    "diseases": "szív és érrendszeri, daganatos betegségek"
   }
 ]
