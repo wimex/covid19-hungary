@@ -3436,5 +3436,23 @@
     "age": 100,
     "sex": 2,
     "diseases": "szív és érrendszeri, daganatos betegségek"
+  },
+  {
+    "sequence": 574,
+    "age": 79,
+    "sex": 1,
+    "diseases": "magas vérnyomás cukorbetegség, stroke, aorta stenosis, iszkémiás szívbetegség, aorta műbillentyű, szívelégtelenség"
+  },
+  {
+    "sequence": 575,
+    "age": 56,
+    "sex": 2,
+    "diseases": "toxikus májbetegség májzsugorral, májkóma, légzési elégtelenség, magas vérnyomás, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 576,
+    "age": 75,
+    "sex": 1,
+    "diseases": "magas vérnyomás, iszkémiás szívbetegség, stroke, endometrium adenocarcinoma"
   }
 ]
