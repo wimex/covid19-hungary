@@ -3508,5 +3508,11 @@
     "age": 87,
     "sex": 1,
     "diseases": "hasnyálmirigy-daganat, cukorbetegség, szívelégtelenség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 586,
+    "age": 80,
+    "sex": 2,
+    "diseases": "magas vérnyomás, vastagbélrák, szívbillentyű hibák, depresszió"
   }
 ]
