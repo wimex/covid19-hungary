@@ -3514,5 +3514,17 @@
     "age": 80,
     "sex": 2,
     "diseases": "magas vérnyomás, vastagbélrák, szívbillentyű hibák, depresszió"
+  },
+  {
+    "sequence": 587,
+    "age": 86,
+    "sex": 1,
+    "diseases": "szívritmuszavar"
+  },
+  {
+    "sequence": 588,
+    "age": 72,
+    "sex": 1,
+    "diseases": "szívizom elégtelenség, koszorúér keringési zavar, cukorbetegség, magas vérnyomás, krónikus veseelégtelenség, szívritmuszavar"
   }
 ]
