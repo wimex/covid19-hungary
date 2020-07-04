@@ -3526,5 +3526,11 @@
     "age": 72,
     "sex": 1,
     "diseases": "szívizom elégtelenség, koszorúér keringési zavar, cukorbetegség, magas vérnyomás, krónikus veseelégtelenség, szívritmuszavar"
+  },
+  {
+    "sequence": 589,
+    "age": 51,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
   }
 ]
