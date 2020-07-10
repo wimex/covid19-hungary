@@ -3544,5 +3544,17 @@
     "age": 72,
     "sex": 1,
     "diseases": "iszkémiás szívbetegség, miokardinális infarktus, cukorbetegség, szívelégtelenség,  pitvarfibrilláció, magas vérnyomás, vesebetegség, krónikus uraemia, elhízás"
+  },
+  {
+    "sequence": 592,
+    "age": 83,
+    "sex": 2,
+    "diseases": "AMI, magas vérnyomás, hepatitis C, inop.májkapu tumor, iszkémiás szívbetegség, decubitus, EBSL termelő E.coli fertőzés"
+  },
+  {
+    "sequence": 593,
+    "age": 68,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cirrhosis hepatis, hepatitis, krónikus veseelégtelenség, haemodialysis"
   }
 ]
