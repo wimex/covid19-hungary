@@ -3556,5 +3556,17 @@
     "age": 68,
     "sex": 1,
     "diseases": "magas vérnyomás, cirrhosis hepatis, hepatitis, krónikus veseelégtelenség, haemodialysis"
+  },
+  {
+    "sequence": 594,
+    "age": 73,
+    "sex": 2,
+    "diseases": "jobb láb égési sérülése utáni szeptikus állapot, magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 595,
+    "age": 74,
+    "sex": 2,
+    "diseases": "pitvarfibrilláció, pangásos szívelégtelenség"
   }
 ]
