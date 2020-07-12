@@ -433,5 +433,10 @@
     "published": "2020-07-11T07:00:16.39Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/0711terkep.jpeg",
     "hash": "6a19a3fc7ecd55017a1e99c79c5a29e19774bdb9"
+  },
+  {
+    "published": "2020-07-12T07:00:14.753Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/terkep0712.jpg",
+    "hash": "26ba48ae46d1d37f8bd29507e346a7b0d6b44c35"
   }
 ]
