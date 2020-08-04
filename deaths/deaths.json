@@ -3580,5 +3580,11 @@
     "age": 50,
     "sex": 2,
     "diseases": "tüdő rosszindulatú daganata,  tüdőtágulat, cachexia, carcinoma neuroendocrinicum"
+  },
+  {
+    "sequence": 598,
+    "age": 77,
+    "sex": 1,
+    "diseases": "demencia, pajzsmirigy-alulműködés, vérszegénység, kiszáradás"
   }
 ]
