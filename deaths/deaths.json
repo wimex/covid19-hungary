@@ -3586,5 +3586,11 @@
     "age": 77,
     "sex": 1,
     "diseases": "demencia, pajzsmirigy-alulműködés, vérszegénység, kiszáradás"
+  },
+  {
+    "sequence": 599,
+    "age": 85,
+    "sex": 2,
+    "diseases": "pangásos szívelégtelenség"
   }
 ]
