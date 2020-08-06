@@ -3592,5 +3592,11 @@
     "age": 85,
     "sex": 2,
     "diseases": "pangásos szívelégtelenség"
+  },
+  {
+    "sequence": 600,
+    "age": 65,
+    "sex": 2,
+    "diseases": "COPD (krónikus obstruktív tüdőbetegség)"
   }
 ]
