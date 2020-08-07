@@ -3598,5 +3598,17 @@
     "age": 65,
     "sex": 2,
     "diseases": "COPD (krónikus obstruktív tüdőbetegség)"
+  },
+  {
+    "sequence": 601,
+    "age": 74,
+    "sex": 2,
+    "diseases": "Magas vérnyomás"
+  },
+  {
+    "sequence": 602,
+    "age": 67,
+    "sex": 2,
+    "diseases": "Magas vérnyomás, iszkémiás szívbetegség, STEMI-koszorúérbetegség, húgyhólyagtumor"
   }
 ]
