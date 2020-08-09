@@ -1978,5 +1978,25 @@
       "cured": 1968,
       "deceased": 239
     }
+  },
+  {
+    "published": "2020-08-09T07:15:00Z",
+    "hungary": {
+      "infected": 595,
+      "cured": 3499,
+      "deceased": 602,
+      "tested": 360772,
+      "quarantined": 7184
+    },
+    "pest-county": {
+      "infected": 200,
+      "cured": 1528,
+      "deceased": 363
+    },
+    "outside-of-pest-county": {
+      "infected": 395,
+      "cured": 1971,
+      "deceased": 239
+    }
   }
 ]
