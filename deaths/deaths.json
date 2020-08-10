@@ -3610,5 +3610,23 @@
     "age": 67,
     "sex": 2,
     "diseases": "Magas vérnyomás, iszkémiás szívbetegség, STEMI-koszorúérbetegség, húgyhólyagtumor"
+  },
+  {
+    "sequence": 603,
+    "age": 65,
+    "sex": 2,
+    "diseases": "tumoros beteg"
+  },
+  {
+    "sequence": 604,
+    "age": 55,
+    "sex": 2,
+    "diseases": "magas vérnyomás, veseelégtelenség, cukorbetegség, iszkémiás szívbetegség, inkomplett patkóvese, jobb vese funkcionális károsodása, Bell-féle bénulás, elhízás"
+  },
+  {
+    "sequence": 605,
+    "age": 78,
+    "sex": 2,
+    "diseases": "depresszió, magas vérnyomás, I. fokú AV block"
   }
 ]

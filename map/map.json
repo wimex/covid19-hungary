@@ -583,5 +583,10 @@
     "published": "2020-08-09T09:00:08.74Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/terkep0809.jpg",
     "hash": "7d72b3d05d73a187d1ac14e00563e88f16b4a5a0"
+  },
+  {
+    "published": "2020-08-10T08:00:10.027Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/terkep0810.png",
+    "hash": "6ba90c59994e33046defd1572ccc8a6add3b1506"
   }
 ]
