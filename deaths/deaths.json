@@ -3646,5 +3646,11 @@
     "age": 82,
     "sex": 2,
     "diseases": "magas vérnyomás,cukorbetegség, Alzheimer kór"
+  },
+  {
+    "sequence": 609,
+    "age": 77,
+    "sex": 2,
+    "diseases": "magas vérnyomás,cukorbetegség, agysorvadás"
   }
 ]

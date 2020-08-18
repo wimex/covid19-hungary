@@ -1614,5 +1614,13 @@
     "infected": 708,
     "cured": 3630,
     "deceased": 608
+  },
+  {
+    "published": "2020-08-18T06:44:00Z",
+    "tested": 383411,
+    "quarantined": 8098,
+    "infected": 730,
+    "cured": 3631,
+    "deceased": 609
   }
 ]
