@@ -3652,5 +3652,17 @@
     "age": 77,
     "sex": 2,
     "diseases": "magas vérnyomás,cukorbetegség, agysorvadás"
+  },
+  {
+    "sequence": 610,
+    "age": 66,
+    "sex": 2,
+    "diseases": "daganat"
+  },
+  {
+    "sequence": 611,
+    "age": 83,
+    "sex": 1,
+    "diseases": "több szervi elégtelenség"
   }
 ]
