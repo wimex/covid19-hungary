@@ -3664,5 +3664,17 @@
     "age": 83,
     "sex": 1,
     "diseases": "több szervi elégtelenség"
+  },
+  {
+    "sequence": 612,
+    "age": 85,
+    "sex": 1,
+    "diseases": "tüdőrák, heveny vese elégtelenség, vérmérgezés, koponyaűri vérzés, magas vérnyomás, vaszkuláris demencia és szívelégtelenség"
+  },
+  {
+    "sequence": 613,
+    "age": 68,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, átmeneti agyi keringészavar, tüdőembólia, pajzsmirigy alul működés"
   }
 ]
