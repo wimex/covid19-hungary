@@ -3676,5 +3676,11 @@
     "age": 68,
     "sex": 1,
     "diseases": "magas vérnyomás, cukorbetegség, átmeneti agyi keringészavar, tüdőembólia, pajzsmirigy alul működés"
+  },
+  {
+    "sequence": 614,
+    "age": 94,
+    "sex": 1,
+    "diseases": "Magas vérnyomás, szívinfarktus, reflux"
   }
 ]
