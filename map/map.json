@@ -688,5 +688,10 @@
     "published": "2020-08-30T09:00:20.627Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/terkep0830.jpeg",
     "hash": "8fa09ce3a315f67f0ac7dae169f4f7ad60321f3c"
+  },
+  {
+    "published": "2020-08-31T08:00:10.807Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/megyei_fertozottek_terkep.jpg",
+    "hash": "db10a9bde44282d7da1bbb60aa6d047b6f53ab3e"
   }
 ]

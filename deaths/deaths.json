@@ -3682,5 +3682,11 @@
     "age": 94,
     "sex": 1,
     "diseases": "Magas vérnyomás, szívinfarktus, reflux"
+  },
+  {
+    "sequence": 615,
+    "age": 68,
+    "sex": 2,
+    "diseases": "alapbetegsége eddigi információk szerint nem ismert"
   }
 ]
