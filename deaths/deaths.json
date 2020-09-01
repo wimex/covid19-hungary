@@ -3688,5 +3688,11 @@
     "age": 68,
     "sex": 2,
     "diseases": "alapbetegsége eddigi információk szerint nem ismert"
+  },
+  {
+    "sequence": 616,
+    "age": 74,
+    "sex": 2,
+    "diseases": "2-es típusú cukorbetegség"
   }
 ]
