@@ -3712,5 +3712,11 @@
     "age": 71,
     "sex": 2,
     "diseases": "tüdődaganat csont és máj áttétekkel, gyomorfekély"
+  },
+  {
+    "sequence": 620,
+    "age": 78,
+    "sex": 1,
+    "diseases": "iszkémiás szívbetegség, demencia, magas vérnyomás"
   }
 ]
