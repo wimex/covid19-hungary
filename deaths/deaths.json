@@ -3718,5 +3718,11 @@
     "age": 78,
     "sex": 1,
     "diseases": "iszkémiás szívbetegség, demencia, magas vérnyomás"
+  },
+  {
+    "sequence": 621,
+    "age": 82,
+    "sex": 1,
+    "diseases": "epehólyagrák, magas vérnyomás, tüdőrák, gerincmeszesedés"
   }
 ]
