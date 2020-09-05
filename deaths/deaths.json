@@ -3724,5 +3724,23 @@
     "age": 82,
     "sex": 1,
     "diseases": "epehólyagrák, magas vérnyomás, tüdőrák, gerincmeszesedés"
+  },
+  {
+    "sequence": 622,
+    "age": 85,
+    "sex": 1,
+    "diseases": "magas vérnyomás, gerinc deformálódás, csontvelő és vérképző szervek abnormálisan működtek, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 623,
+    "age": 92,
+    "sex": 1,
+    "diseases": "magas vérnyomás, légzési és keringési elégtelenség, heveny veseelégtelenség"
+  },
+  {
+    "sequence": 624,
+    "age": 59,
+    "sex": 2,
+    "diseases": "légzési elégtelenség, tüdődaganat, agyi metatázis"
   }
 ]
