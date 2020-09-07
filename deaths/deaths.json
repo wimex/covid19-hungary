@@ -3742,5 +3742,11 @@
     "age": 59,
     "sex": 2,
     "diseases": "légzési elégtelenség, tüdődaganat, agyi metatázis"
+  },
+  {
+    "sequence": 625,
+    "age": 58,
+    "sex": 2,
+    "diseases": "gége rosszindulatú daganata, nyaki nyirokcsomó megnagyobbodás"
   }
 ]
