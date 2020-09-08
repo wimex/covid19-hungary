@@ -3748,5 +3748,11 @@
     "age": 58,
     "sex": 2,
     "diseases": "gége rosszindulatú daganata, nyaki nyirokcsomó megnagyobbodás"
+  },
+  {
+    "sequence": 626,
+    "age": 81,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívritmuszavar, pajzsmirigy működési zavar"
   }
 ]
