@@ -3754,5 +3754,17 @@
     "age": 81,
     "sex": 2,
     "diseases": "magas vérnyomás, szívritmuszavar, pajzsmirigy működési zavar"
+  },
+  {
+    "sequence": 627,
+    "age": 103,
+    "sex": 2,
+    "diseases": "vastagbél divertikulózis"
+  },
+  {
+    "sequence": 628,
+    "age": 72,
+    "sex": 2,
+    "diseases": "tüdőbetegség, szívbillentyű elégtelenség, NYHA III-IV. DM, vesebaj, fibr, art cordis"
   }
 ]
