@@ -3766,5 +3766,17 @@
     "age": 72,
     "sex": 2,
     "diseases": "tüdőbetegség, szívbillentyű elégtelenség, NYHA III-IV. DM, vesebaj, fibr, art cordis"
+  },
+  {
+    "sequence": 629,
+    "age": 79,
+    "sex": 1,
+    "diseases": "krónikus pitvarfibrilláció, kardiális dekompenzáció, uterus térfoglalás, infektív bélgyulladás, húgyúti infekció"
+  },
+  {
+    "sequence": 630,
+    "age": 84,
+    "sex": 2,
+    "diseases": "végbéldaganat, tüdőáttét"
   }
 ]
