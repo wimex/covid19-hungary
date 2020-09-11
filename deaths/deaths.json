@@ -3778,5 +3778,11 @@
     "age": 84,
     "sex": 2,
     "diseases": "végbéldaganat, tüdőáttét"
+  },
+  {
+    "sequence": 631,
+    "age": 82,
+    "sex": 2,
+    "diseases": "pitvarfibrilláció"
   }
 ]
