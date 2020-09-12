@@ -3784,5 +3784,17 @@
     "age": 82,
     "sex": 2,
     "diseases": "pitvarfibrilláció"
+  },
+  {
+    "sequence": 632,
+    "age": 87,
+    "sex": 1,
+    "diseases": "demencia, vaszkuláris enkefalopátia, székrekedés, magas vérnyomás, érelmeszesedés"
+  },
+  {
+    "sequence": 633,
+    "age": 70,
+    "sex": 2,
+    "diseases": "Heveny veseelégtelenség"
   }
 ]
