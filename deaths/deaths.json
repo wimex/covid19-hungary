@@ -3796,5 +3796,29 @@
     "age": 70,
     "sex": 2,
     "diseases": "Heveny veseelégtelenség"
+  },
+  {
+    "sequence": 634,
+    "age": 90,
+    "sex": 1,
+    "diseases": "csökkent pajzsmirigyműködés, szívritmus zavar, 1-es típusú cukorbetegség és szívelégtelenség"
+  },
+  {
+    "sequence": 635,
+    "age": 92,
+    "sex": 1,
+    "diseases": "szívelégtelenség, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 636,
+    "age": 67,
+    "sex": 1,
+    "diseases": "nyirokcsomó rosszindulatú daganata, légzési elégtelenség, bőrrák, magas vérnyomás, szívbillentyű elégtelenség"
+  },
+  {
+    "sequence": 637,
+    "age": 52,
+    "sex": 2,
+    "diseases": "közepes fokú ált. érelmeszesedés, krónikus obstruktív tüdőbetegség, elhízás"
   }
 ]
