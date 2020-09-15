@@ -3850,5 +3850,29 @@
     "age": 66,
     "sex": 2,
     "diseases": "Magasa vérnyomás, cukorbetegség,  Insuff.ren.chr."
+  },
+  {
+    "sequence": 643,
+    "age": 71,
+    "sex": 1,
+    "diseases": "Parkinson kór, magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 644,
+    "age": 77,
+    "sex": 2,
+    "diseases": "Cukorbetegség, depresszió, tüdőbetegség, stroke"
+  },
+  {
+    "sequence": 645,
+    "age": 73,
+    "sex": 2,
+    "diseases": "Vírusos tüdőgyulladás, légzési elégtelenség,  szívnagyobbodás"
+  },
+  {
+    "sequence": 646,
+    "age": 89,
+    "sex": 1,
+    "diseases": "Vírusos tüdőgyulladás, időskori érelmeszesedés,  időskori szívizombántalom"
   }
 ]
