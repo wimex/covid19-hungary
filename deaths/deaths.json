@@ -3922,5 +3922,59 @@
     "age": 89,
     "sex": 1,
     "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 655,
+    "age": 81,
+    "sex": 1,
+    "diseases": "cukorbetegség, magas vérnyomás,"
+  },
+  {
+    "sequence": 656,
+    "age": 42,
+    "sex": 2,
+    "diseases": "dentális eredetű fekélyes gyulladás"
+  },
+  {
+    "sequence": 657,
+    "age": 86,
+    "sex": 1,
+    "diseases": "Parkinson-kór, magas vérnyomás, csontritkulás, reflux, aorta műbillentyű"
+  },
+  {
+    "sequence": 658,
+    "age": 77,
+    "sex": 1,
+    "diseases": "Alzheimer-kór, emlőrák"
+  },
+  {
+    "sequence": 659,
+    "age": 72,
+    "sex": 1,
+    "diseases": "COPD  krónikus obtruktív tüdőbetegség"
+  },
+  {
+    "sequence": 660,
+    "age": 88,
+    "sex": 2,
+    "diseases": "magas vérnyomás betegség; krónikus veseelégtelenség; ritmusszabályzóval élő személy"
+  },
+  {
+    "sequence": 661,
+    "age": 86,
+    "sex": 2,
+    "diseases": "Parkinson-kór, cukorbetegség, aenemia"
+  },
+  {
+    "sequence": 662,
+    "age": 84,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, stroke, magasvérnyomás-betegség, általános  atherosclerosis, idült ischaemiás szívbetegség"
+  },
+  {
+    "sequence": 663,
+    "age": 73,
+    "sex": 2,
+    "diseases": "hólyagdaganat"
   }
 ]
