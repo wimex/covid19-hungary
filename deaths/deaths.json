@@ -3976,5 +3976,143 @@
     "age": 73,
     "sex": 2,
     "diseases": "hólyagdaganat"
+  },
+  {
+    "sequence": 664,
+    "age": 79,
+    "sex": 2,
+    "diseases": "magas vérnyomás, tüdőgyulladás"
+  },
+  {
+    "sequence": 665,
+    "age": 93,
+    "sex": 1,
+    "diseases": "szívelégtelenség"
+  },
+  {
+    "sequence": 666,
+    "age": 76,
+    "sex": 1,
+    "diseases": "cukorbetegség, magas vérnyomás, szívelégtelenség, COPD, érszűkület, retinopathia, végstádiumú veseelégtelenség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 667,
+    "age": 81,
+    "sex": 2,
+    "diseases": "cukorbetegség, demencia, veseerek szűkülete, combnyaktörés utáni állapot"
+  },
+  {
+    "sequence": 668,
+    "age": 87,
+    "sex": 2,
+    "diseases": "magas vérnyomás, epe eltávolítás, permanens pitvarfibrilláció"
+  },
+  {
+    "sequence": 669,
+    "age": 69,
+    "sex": 2,
+    "diseases": "cukorbetegség, veseelégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 670,
+    "age": 81,
+    "sex": 2,
+    "diseases": "végbéltumor, májelégtelenség, hólyagtumor májáttétekkel, krónikus vérszegénység, demencia"
+  },
+  {
+    "sequence": 671,
+    "age": 71,
+    "sex": 2,
+    "diseases": "krónikus tüdőbetegség, veseelégtelenség, szívritmuszavar, magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 672,
+    "age": 55,
+    "sex": 2,
+    "diseases": "keringési-, légzési elégtelenség, tüdőgyulladás, máj és vesekárosodás, szívizom károsodás, agyvelőgyulladás"
+  },
+  {
+    "sequence": 673,
+    "age": 65,
+    "sex": 1,
+    "diseases": "szklerózis multiplex"
+  },
+  {
+    "sequence": 674,
+    "age": 73,
+    "sex": 1,
+    "diseases": "cukorbetegség"
+  },
+  {
+    "sequence": 675,
+    "age": 70,
+    "sex": 1,
+    "diseases": "szívelégtelenség, cukorbetegség"
+  },
+  {
+    "sequence": 676,
+    "age": 78,
+    "sex": 2,
+    "diseases": "Magas vérnyomás, cukorbetegség, hyperlipidaemia, inferior AMI, JTSZB, irritábilis bél syndroma, vascularis enchephalopathia, tonsillectomia, cholecystectomia, porckorongsérv miatt op., alvási apnoe"
+  },
+  {
+    "sequence": 677,
+    "age": 53,
+    "sex": 1,
+    "diseases": "Magas vérnyomás, cukorbetegség, Cushing kór, Thyreoiditis"
+  },
+  {
+    "sequence": 678,
+    "age": 71,
+    "sex": 2,
+    "diseases": "Az adat feltöltés alatt (jelenleg nincs információ krónikus alapbetegségről)"
+  },
+  {
+    "sequence": 679,
+    "age": 64,
+    "sex": 2,
+    "diseases": "alkohol függőség, Subduralis empyema"
+  },
+  {
+    "sequence": 680,
+    "age": 83,
+    "sex": 2,
+    "diseases": "Iszkémiás szívbetegség, magas vérnyomás, TIA, cukorbetegség, AMI, Hyperlipideamia,  Parkinson-kór"
+  },
+  {
+    "sequence": 681,
+    "age": 66,
+    "sex": 2,
+    "diseases": "Az adat feltöltés alatt ( jelenleg nincs információ krónikus alapbetegségről)."
+  },
+  {
+    "sequence": 682,
+    "age": 74,
+    "sex": 2,
+    "diseases": "Iszkémiás szívbetegség, aorta vitium, magas vérmyomás, NIDDM"
+  },
+  {
+    "sequence": 683,
+    "age": 63,
+    "sex": 2,
+    "diseases": "Iszkémiás szívbetegség, dilatativ cardiomiopathia, cardialis decompensatio, szívritmusszabályozóval élő személy, pitvarfibrilláció, koszorúérbe vagy helyére beépített implantátum jelenléte, Generaizált érbetegség, Diabetes Mellitus, Mindkét láb amputáció utáni állapota"
+  },
+  {
+    "sequence": 684,
+    "age": 87,
+    "sex": 2,
+    "diseases": "pitvarfibrilláció - szívritmuszavar"
+  },
+  {
+    "sequence": 685,
+    "age": 71,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 686,
+    "age": 58,
+    "sex": 2,
+    "diseases": "magas vérnyomás, Inzulin-dependens cukorbetegség, vírusos tüdőgyulladás"
   }
 ]
