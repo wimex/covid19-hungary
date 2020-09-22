@@ -4114,5 +4114,53 @@
     "age": 58,
     "sex": 2,
     "diseases": "magas vérnyomás, Inzulin-dependens cukorbetegség, vírusos tüdőgyulladás"
+  },
+  {
+    "sequence": 687,
+    "age": 54,
+    "sex": 2,
+    "diseases": "magasvérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 688,
+    "age": 69,
+    "sex": 2,
+    "diseases": "magasvérnyomás, krónikus hörgőgyulladás"
+  },
+  {
+    "sequence": 689,
+    "age": 37,
+    "sex": 1,
+    "diseases": "akut leukémia"
+  },
+  {
+    "sequence": 690,
+    "age": 76,
+    "sex": 1,
+    "diseases": "magasvérnyomás, nyombélfekély"
+  },
+  {
+    "sequence": 691,
+    "age": 51,
+    "sex": 2,
+    "diseases": "cukorbetegség, kóros elhízás"
+  },
+  {
+    "sequence": 692,
+    "age": 79,
+    "sex": 2,
+    "diseases": "magas vérnyomás, tüdőgyulladás, vérmérgezés"
+  },
+  {
+    "sequence": 693,
+    "age": 94,
+    "sex": 2,
+    "diseases": "veseelégtelenség, magas vérnyomás, agyi infarktus"
+  },
+  {
+    "sequence": 694,
+    "age": 67,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, pajzsmirigy alulműködés"
   }
 ]
