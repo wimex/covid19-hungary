@@ -4162,5 +4162,53 @@
     "age": 67,
     "sex": 1,
     "diseases": "magas vérnyomás, cukorbetegség, pajzsmirigy alulműködés"
+  },
+  {
+    "sequence": 695,
+    "age": 62,
+    "sex": 2,
+    "diseases": "magas vérnyomás, légzési zavar, tüdőgyulladás, vese ciszta, májelégtelenség"
+  },
+  {
+    "sequence": 696,
+    "age": 66,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívizomelhalás, tüdőgyulladás, cukorbetegség"
+  },
+  {
+    "sequence": 697,
+    "age": 48,
+    "sex": 2,
+    "diseases": "vírusos tüdőgyulladás, veseelégtelenség, iszkémiás szívbetegség, infarktus utáni állapot, kóros elhízás, inzulindependens cukorbetegség"
+  },
+  {
+    "sequence": 698,
+    "age": 69,
+    "sex": 2,
+    "diseases": "magas vérnyomás, veseelégtelenség, végbél tályog"
+  },
+  {
+    "sequence": 699,
+    "age": 67,
+    "sex": 2,
+    "diseases": "alkoholos májzsugor; nyelőcső vénatágulat vérzés nélkül; sárgaság"
+  },
+  {
+    "sequence": 700,
+    "age": 63,
+    "sex": 2,
+    "diseases": "cukorbetegség, diabéteszes neuropátia, részleges bénulás"
+  },
+  {
+    "sequence": 701,
+    "age": 61,
+    "sex": 1,
+    "diseases": "csigolyák gyermekkori csontosodási zavara, krónikus hörgőgyulladás, asztma, méh izomdaganat, magas vérnyomás, középsúlyos demencia, jobb emlő tumor"
+  },
+  {
+    "sequence": 702,
+    "age": 66,
+    "sex": 2,
+    "diseases": "mérsékelt elhízás, 2-es típusú, inzulinnal kezelt cukorbetegség, magas vérnyomás, koszorúérbetegség"
   }
 ]
