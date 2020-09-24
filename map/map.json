@@ -793,5 +793,10 @@
     "published": "2020-09-23T10:00:14.933Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/0923.jpg",
     "hash": "d473264b4e50c3f44a8af9375ce28e0c7d0f20a9"
+  },
+  {
+    "published": "2020-09-24T09:00:10.357Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/terkep0924.png",
+    "hash": "a04feb133d782c259cf2ac9cb3b9e9972f69514a"
   }
 ]

@@ -4210,5 +4210,47 @@
     "age": 66,
     "sex": 2,
     "diseases": "mérsékelt elhízás, 2-es típusú, inzulinnal kezelt cukorbetegség, magas vérnyomás, koszorúérbetegség"
+  },
+  {
+    "sequence": 703,
+    "age": 66,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, vérmérgezés"
+  },
+  {
+    "sequence": 704,
+    "age": 81,
+    "sex": 1,
+    "diseases": "általános izomgyengeség, krónikus légcsőhurut, magas vérnyomás"
+  },
+  {
+    "sequence": 705,
+    "age": 77,
+    "sex": 1,
+    "diseases": "magas vérnyomás, pajzsmirigy alulműködés, cukorbetegség"
+  },
+  {
+    "sequence": 706,
+    "age": 40,
+    "sex": 2,
+    "diseases": "trombózis, vérmérgezés"
+  },
+  {
+    "sequence": 707,
+    "age": 81,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, akut miokardiális infarktus"
+  },
+  {
+    "sequence": 708,
+    "age": 76,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, aorta billentyű szűkülete"
+  },
+  {
+    "sequence": 709,
+    "age": 80,
+    "sex": 2,
+    "diseases": "Alzheimer-kór, demencia, légmell"
   }
 ]
