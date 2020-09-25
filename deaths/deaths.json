@@ -4252,5 +4252,59 @@
     "age": 80,
     "sex": 2,
     "diseases": "Alzheimer-kór, demencia, légmell"
+  },
+  {
+    "sequence": 710,
+    "age": 77,
+    "sex": 1,
+    "diseases": "áttétes daganat"
+  },
+  {
+    "sequence": 711,
+    "age": 69,
+    "sex": 2,
+    "diseases": "vesesejtes daganat áttétekkel"
+  },
+  {
+    "sequence": 712,
+    "age": 85,
+    "sex": 1,
+    "diseases": "Magasvérnyomás-betegség, nem-insulin-dependens cukorbetegség, vérszegénység, daganatos megbetegedés"
+  },
+  {
+    "sequence": 713,
+    "age": 57,
+    "sex": 2,
+    "diseases": "Az adat feltöltés alatt ( jelenleg nincs információ krónikus alapbetegségről)"
+  },
+  {
+    "sequence": 714,
+    "age": 75,
+    "sex": 1,
+    "diseases": "Az adat feltöltés alatt ( jelenleg nincs információ krónikus alapbetegségről)"
+  },
+  {
+    "sequence": 715,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magasvérnyomás, nyelőcsővisszér, hasvízkór"
+  },
+  {
+    "sequence": 716,
+    "age": 86,
+    "sex": 2,
+    "diseases": "vastagbélrák"
+  },
+  {
+    "sequence": 717,
+    "age": 71,
+    "sex": 1,
+    "diseases": "Hipertónia, iszkémiás szívbetegség, III fokú AV blokk, Krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 718,
+    "age": 83,
+    "sex": 2,
+    "diseases": "Prosztata daganat, Parkinson-kór, magasvérnyomás"
   }
 ]
