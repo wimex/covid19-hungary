@@ -4306,5 +4306,77 @@
     "age": 83,
     "sex": 2,
     "diseases": "Prosztata daganat, Parkinson-kór, magasvérnyomás"
+  },
+  {
+    "sequence": 719,
+    "age": 88,
+    "sex": 2,
+    "diseases": "magas vérnyomás, Ischaemiás szívbetegség, koszorúér szűkület, szívinfarktus"
+  },
+  {
+    "sequence": 720,
+    "age": 47,
+    "sex": 2,
+    "diseases": "Az adat feltöltés alatt"
+  },
+  {
+    "sequence": 721,
+    "age": 52,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 722,
+    "age": 64,
+    "sex": 2,
+    "diseases": "magas vérnyomás, epilepsia"
+  },
+  {
+    "sequence": 723,
+    "age": 74,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, cukorbetegség"
+  },
+  {
+    "sequence": 724,
+    "age": 82,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívritmus zavar, többszervi elégtelenség"
+  },
+  {
+    "sequence": 725,
+    "age": 78,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, krónikus veseelégtelenség, szívelégtelenség, szívritmuszavar"
+  },
+  {
+    "sequence": 726,
+    "age": 67,
+    "sex": 1,
+    "diseases": "asthma, szénanátha, bőrrák, magas vérnyomás, csontvelőrák"
+  },
+  {
+    "sequence": 727,
+    "age": 84,
+    "sex": 1,
+    "diseases": "demencia, érelmeszesedés"
+  },
+  {
+    "sequence": 728,
+    "age": 75,
+    "sex": 2,
+    "diseases": "magas vérnyomás, érelmeszesedés, májmegnagyobbodás, májbetegség, hasnyálmirigy gyulladás, cukorbetegség, ízületi gyulladás"
+  },
+  {
+    "sequence": 729,
+    "age": 83,
+    "sex": 1,
+    "diseases": "magas vérnyomás, légzési elégtelenség, érelmeszesedés, májmegnagyobbodás, szívbetegség"
+  },
+  {
+    "sequence": 730,
+    "age": 82,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, szívbetegség"
   }
 ]
