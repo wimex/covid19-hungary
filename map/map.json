@@ -803,5 +803,10 @@
     "published": "2020-09-25T09:00:08.28Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/terkep0925.png",
     "hash": "2e1757e6887065d6c7682ac11d607423443a71c6"
+  },
+  {
+    "published": "2020-09-26T07:00:08.733Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/0926.jpg",
+    "hash": "8e50c4fb60706f07c3f224334bae9ca55321802f"
   }
 ]
