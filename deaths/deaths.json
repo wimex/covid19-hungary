@@ -4378,5 +4378,41 @@
     "age": 82,
     "sex": 1,
     "diseases": "krónikus veseelégtelenség, szívbetegség"
+  },
+  {
+    "sequence": 731,
+    "age": 30,
+    "sex": 2,
+    "diseases": "szívbillentyű elégtelenség"
+  },
+  {
+    "sequence": 732,
+    "age": 70,
+    "sex": 2,
+    "diseases": "pajzsmirigy alulműködés, prosztatagyulladás"
+  },
+  {
+    "sequence": 733,
+    "age": 88,
+    "sex": 2,
+    "diseases": "magas vérnyomás, vesekárosodás"
+  },
+  {
+    "sequence": 734,
+    "age": 92,
+    "sex": 2,
+    "diseases": "Parkinson-kór, agyérelmeszesedés, magas vérnyomás"
+  },
+  {
+    "sequence": 735,
+    "age": 80,
+    "sex": 2,
+    "diseases": "Általános érelmeszesedés,agykéreg sorvadás, magas vérnyomás, depresszió, szívinfarktus"
+  },
+  {
+    "sequence": 736,
+    "age": 75,
+    "sex": 1,
+    "diseases": "Epehólyag rosszindulatú daganat, cukorbetegség"
   }
 ]
