@@ -4414,5 +4414,77 @@
     "age": 75,
     "sex": 1,
     "diseases": "Epehólyag rosszindulatú daganat, cukorbetegség"
+  },
+  {
+    "sequence": 737,
+    "age": 79,
+    "sex": 1,
+    "diseases": "Nem ismert"
+  },
+  {
+    "sequence": 738,
+    "age": 54,
+    "sex": 2,
+    "diseases": "non-Hodgkin limfóma, krónikus vesebetegség"
+  },
+  {
+    "sequence": 739,
+    "age": 76,
+    "sex": 1,
+    "diseases": "cukorbetegség, magas vérnyomás, immunhiányos állapot"
+  },
+  {
+    "sequence": 740,
+    "age": 80,
+    "sex": 2,
+    "diseases": "érelmeszesedés, magas vérnyomás, központi idegrendszeri működési zavar"
+  },
+  {
+    "sequence": 741,
+    "age": 77,
+    "sex": 1,
+    "diseases": "cukorbetegség, magas vérnyomás, tüdőgyulladás"
+  },
+  {
+    "sequence": 742,
+    "age": 82,
+    "sex": 2,
+    "diseases": "magas vérnyomás, magas vérnyomáson alapuló szívbetegség, Parkinson-kór"
+  },
+  {
+    "sequence": 744,
+    "age": 66,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 745,
+    "age": 87,
+    "sex": 2,
+    "diseases": "isémiás szívbetegség, szívfibrilláció"
+  },
+  {
+    "sequence": 746,
+    "age": 82,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívizombántalom, pitvarfibrilláció, oxigénhiányos szívbetegség, veseelégtelenség, szívinfarktus utáni állapot"
+  },
+  {
+    "sequence": 747,
+    "age": 78,
+    "sex": 2,
+    "diseases": "cukorbetegség, magas vérnyomás, koszorúér elmeszesedés"
+  },
+  {
+    "sequence": 748,
+    "age": 65,
+    "sex": 1,
+    "diseases": "nem ismert"
+  },
+  {
+    "sequence": 749,
+    "age": 89,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
   }
 ]
