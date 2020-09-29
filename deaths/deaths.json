@@ -4486,5 +4486,53 @@
     "age": 89,
     "sex": 2,
     "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 750,
+    "age": 65,
+    "sex": 2,
+    "diseases": "Az adat feltöltés alatt"
+  },
+  {
+    "sequence": 751,
+    "age": 68,
+    "sex": 2,
+    "diseases": "Veseelégtelenség, cukorbetegség, magasvérnyomás-betegség, hashártyagyulladás"
+  },
+  {
+    "sequence": 752,
+    "age": 66,
+    "sex": 2,
+    "diseases": "szív-érrendszeri betegség, daganatos betegség"
+  },
+  {
+    "sequence": 753,
+    "age": 60,
+    "sex": 2,
+    "diseases": "magasvérnyomás-betegség, cukorbetegség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 754,
+    "age": 69,
+    "sex": 1,
+    "diseases": "heveny légzési elégtelenség, magasvérnyomás-betegség, vérszegénység"
+  },
+  {
+    "sequence": 755,
+    "age": 84,
+    "sex": 1,
+    "diseases": "demencia, érelmeszesedés"
+  },
+  {
+    "sequence": 756,
+    "age": 75,
+    "sex": 2,
+    "diseases": "magas vérnyomás, érelmeszesedés, májmegnagyobbodás, májbetegség, hasnyálmirigy gyulladás, cukorbetegség, ízületi gyulladás"
+  },
+  {
+    "sequence": 757,
+    "age": 92,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, tüdőelégtelenség"
   }
 ]
