@@ -4534,5 +4534,53 @@
     "age": 92,
     "sex": 1,
     "diseases": "magas vérnyomás, cukorbetegség, tüdőelégtelenség"
+  },
+  {
+    "sequence": 758,
+    "age": 61,
+    "sex": 2,
+    "diseases": "epilepszia, magas vérnyomás, cukorbetegség, kóros vérzsírszint"
+  },
+  {
+    "sequence": 759,
+    "age": 76,
+    "sex": 2,
+    "diseases": "magas vérnyomás, parkinson betegség, véralvadási defektus"
+  },
+  {
+    "sequence": 760,
+    "age": 78,
+    "sex": 1,
+    "diseases": "Az adat feltöltés alatt (jelenleg nincs információ krónikus alapbetegségről)"
+  },
+  {
+    "sequence": 761,
+    "age": 74,
+    "sex": 2,
+    "diseases": "magas vérnyomás, stroke, prosztata rosszindulatú daganata"
+  },
+  {
+    "sequence": 762,
+    "age": 55,
+    "sex": 1,
+    "diseases": "magas vérnyomás, petefészek tumor"
+  },
+  {
+    "sequence": 763,
+    "age": 54,
+    "sex": 2,
+    "diseases": "mentális retardáció, cukorbetegség, epilepszia, iszkémiás szívbetegség (koszorúér-betegség)"
+  },
+  {
+    "sequence": 764,
+    "age": 73,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, COPD, régi szívinfarktus, szívelégtelenség"
+  },
+  {
+    "sequence": 765,
+    "age": 73,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, vírusos tüdőgyulladás, pajzsmirigy-túlműködés"
   }
 ]
