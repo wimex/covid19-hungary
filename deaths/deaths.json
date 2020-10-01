@@ -4582,5 +4582,101 @@
     "age": 73,
     "sex": 1,
     "diseases": "krónikus veseelégtelenség, vírusos tüdőgyulladás, pajzsmirigy-túlműködés"
+  },
+  {
+    "sequence": 766,
+    "age": 44,
+    "sex": 2,
+    "diseases": "Magas vérnyomás,májzsugor, encephalopathia (agyi működés zavara) anémia (vérszegénység) és egyéb betegségek"
+  },
+  {
+    "sequence": 767,
+    "age": 76,
+    "sex": 2,
+    "diseases": "Szívelégtelenség, iszkémiás szívbetegség,  magas vérnyomás,  krónikus obstruktív tüdőbetegség, encephalopathia (agyi működés zavar)"
+  },
+  {
+    "sequence": 768,
+    "age": 72,
+    "sex": 2,
+    "diseases": "szívritmuszavar"
+  },
+  {
+    "sequence": 769,
+    "age": 80,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, veseelégtelenség, jóindulatú prosztata megnagyobbodás"
+  },
+  {
+    "sequence": 770,
+    "age": 48,
+    "sex": 2,
+    "diseases": "agydaganat, epilepszia"
+  },
+  {
+    "sequence": 771,
+    "age": 67,
+    "sex": 2,
+    "diseases": "Magas vérnyomás, szívelégtelenség, cukorbetegség és egyéb krónikus betegségek"
+  },
+  {
+    "sequence": 772,
+    "age": 66,
+    "sex": 2,
+    "diseases": "krónikus obstruktív tüdőbetegség, tüdő tályog, tüdőembólia, magas vérnyomás, alsó végtagi  verőérszűkület, hasi aorta aneurysmája."
+  },
+  {
+    "sequence": 773,
+    "age": 78,
+    "sex": 1,
+    "diseases": "artéria (verőér) betegsége, koszorúverőr-betegségek, egyéb krónikus betegségek"
+  },
+  {
+    "sequence": 774,
+    "age": 71,
+    "sex": 2,
+    "diseases": "Magasvérnyomás, cukorbetegség, Parkinson-kór, aranyér, és egyéb krónikus betegségek"
+  },
+  {
+    "sequence": 775,
+    "age": 70,
+    "sex": 1,
+    "diseases": "mellrák"
+  },
+  {
+    "sequence": 776,
+    "age": 68,
+    "sex": 2,
+    "diseases": "melanoma (bőrdaganat)"
+  },
+  {
+    "sequence": 777,
+    "age": 74,
+    "sex": 1,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 778,
+    "age": 62,
+    "sex": 2,
+    "diseases": "légzési elégtelenség, vírusos tüdőgyulladás"
+  },
+  {
+    "sequence": 779,
+    "age": 73,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 780,
+    "age": 83,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia, az aorta (billentyű) szűkülete, öregkori szürkehályog, vastagbél diverticulosis, átfúródás vagy tályog nélkül"
+  },
+  {
+    "sequence": 781,
+    "age": 78,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia, artériás értágulat, nyelőcső reflux"
   }
 ]
