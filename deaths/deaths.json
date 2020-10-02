@@ -4678,5 +4678,107 @@
     "age": 78,
     "sex": 1,
     "diseases": "magas vérnyomás, demencia, artériás értágulat, nyelőcső reflux"
+  },
+  {
+    "sequence": 782,
+    "age": 57,
+    "sex": 2,
+    "diseases": "cukorbetegség, magasvérnyomás-betegség, agyi infarktus"
+  },
+  {
+    "sequence": 783,
+    "age": 61,
+    "sex": 1,
+    "diseases": "magas vérnyomás, COPD, cukorbetegség, mellitus, 1 éve krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 784,
+    "age": 74,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 785,
+    "age": 86,
+    "sex": 1,
+    "diseases": "magas vérnyomás, agyi infarktus, tüdőgyulladás"
+  },
+  {
+    "sequence": 786,
+    "age": 82,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívelégtelenség"
+  },
+  {
+    "sequence": 787,
+    "age": 67,
+    "sex": 1,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 788,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás, idült iszkémiás szívbetegség, idült hasnyálmirigy-gyulladás"
+  },
+  {
+    "sequence": 789,
+    "age": 72,
+    "sex": 1,
+    "diseases": "magas vérnyomás, idült pajzsmirigy gyulladás, refluxbetegség, csigolyatörés"
+  },
+  {
+    "sequence": 790,
+    "age": 95,
+    "sex": 1,
+    "diseases": "általános érelmeszesedés, vese elégtelenség"
+  },
+  {
+    "sequence": 791,
+    "age": 94,
+    "sex": 1,
+    "diseases": "kiterjedt jobb féltekei stroke"
+  },
+  {
+    "sequence": 792,
+    "age": 83,
+    "sex": 1,
+    "diseases": "gasztrointesztinális vérzés"
+  },
+  {
+    "sequence": 793,
+    "age": 79,
+    "sex": 1,
+    "diseases": "Az adat feltöltés alatt"
+  },
+  {
+    "sequence": 794,
+    "age": 80,
+    "sex": 2,
+    "diseases": "magas vérnyomás, iszkémiás szívbetegség, zsákvese, pitvarfibrilláció, középső agyi artériás stroke"
+  },
+  {
+    "sequence": 795,
+    "age": 76,
+    "sex": 1,
+    "diseases": "magas vérnyomás, pajzsmirigy alulműködés, mozgásszervi panaszok, alvászavar"
+  },
+  {
+    "sequence": 796,
+    "age": 96,
+    "sex": 1,
+    "diseases": "veseelégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 797,
+    "age": 80,
+    "sex": 2,
+    "diseases": "magas vérnyomás, asthma, cukorbetegség"
+  },
+  {
+    "sequence": 798,
+    "age": 72,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
   }
 ]
