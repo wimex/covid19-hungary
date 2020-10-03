@@ -4780,5 +4780,89 @@
     "age": 72,
     "sex": 2,
     "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 799,
+    "age": 83,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívritmuszavar, érelmeszesedés, mélyvénás trombózis, melanoma, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 800,
+    "age": 76,
+    "sex": 2,
+    "diseases": "demencia, Parkinson kór, prosztata megnagyobbodás"
+  },
+  {
+    "sequence": 801,
+    "age": 85,
+    "sex": 2,
+    "diseases": "cukorbetegség, súlyos demencia, paranoid zavar, csigolyatörés"
+  },
+  {
+    "sequence": 802,
+    "age": 73,
+    "sex": 2,
+    "diseases": "combnyaktörés, magas vérnyomás,cukorbetegség, tüdőtágulat, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 803,
+    "age": 55,
+    "sex": 2,
+    "diseases": "kisfejűség, epilepszia, mentális retardáció"
+  },
+  {
+    "sequence": 804,
+    "age": 68,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 805,
+    "age": 72,
+    "sex": 2,
+    "diseases": "magas vérnyomás, diabétesz"
+  },
+  {
+    "sequence": 806,
+    "age": 72,
+    "sex": 1,
+    "diseases": "magas vérnyomás, diabétesz"
+  },
+  {
+    "sequence": 807,
+    "age": 56,
+    "sex": 1,
+    "diseases": "diabétesz"
+  },
+  {
+    "sequence": 808,
+    "age": 76,
+    "sex": 1,
+    "diseases": "diabétesz, magas vérnyomás, érelmeszesedés, nyelészavar"
+  },
+  {
+    "sequence": 809,
+    "age": 65,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, vérszegénység, bélelzáródás"
+  },
+  {
+    "sequence": 810,
+    "age": 61,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 811,
+    "age": 67,
+    "sex": 2,
+    "diseases": "magas vérnyomás, májelégtelenség"
+  },
+  {
+    "sequence": 812,
+    "age": 94,
+    "sex": 1,
+    "diseases": "magas vérnyomás, gerincferdülés"
   }
 ]
