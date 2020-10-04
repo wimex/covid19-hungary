@@ -4864,5 +4864,65 @@
     "age": 94,
     "sex": 1,
     "diseases": "magas vérnyomás, gerincferdülés"
+  },
+  {
+    "sequence": 813,
+    "age": 80,
+    "sex": 2,
+    "diseases": "magas vérnyomás, reflux"
+  },
+  {
+    "sequence": 814,
+    "age": 78,
+    "sex": 2,
+    "diseases": "kóros elhízás, magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 815,
+    "age": 78,
+    "sex": 2,
+    "diseases": "szívizomgyengeség, magas vérnyomás"
+  },
+  {
+    "sequence": 816,
+    "age": 80,
+    "sex": 1,
+    "diseases": "veseelégtelenség, magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 817,
+    "age": 70,
+    "sex": 2,
+    "diseases": "tüdőrák, cukorbetegség, szív- és érrendszeri megbetegedés"
+  },
+  {
+    "sequence": 818,
+    "age": 75,
+    "sex": 1,
+    "diseases": "szívbillentyű gyulladás, stroke"
+  },
+  {
+    "sequence": 819,
+    "age": 79,
+    "sex": 1,
+    "diseases": "magas vérnyomás, csontritkulás, gerinc meszesedés"
+  },
+  {
+    "sequence": 820,
+    "age": 68,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, magas vérnyomás, COPD"
+  },
+  {
+    "sequence": 821,
+    "age": 80,
+    "sex": 2,
+    "diseases": "kóros elhízás, iszkémiás szívbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 822,
+    "age": 80,
+    "sex": 2,
+    "diseases": "az adat feltöltés alatt"
   }
 ]
