@@ -4924,5 +4924,71 @@
     "age": 80,
     "sex": 2,
     "diseases": "az adat feltöltés alatt"
+  },
+  {
+    "sequence": 823,
+    "age": 72,
+    "sex": 2,
+    "diseases": "magas vérnyomás, elhízás, nyaki verőér szűkület, stent trombózis"
+  },
+  {
+    "sequence": 824,
+    "age": 77,
+    "sex": 1,
+    "diseases": "légzési rendellenesség, heveny veseelégtelenség, felnőttkori légzési distress szindróma"
+  },
+  {
+    "sequence": 825,
+    "age": 81,
+    "sex": 2,
+    "diseases": "COPD, magas vérnyomás, pitvarfibrilláció"
+  },
+  {
+    "sequence": 826,
+    "age": 77,
+    "sex": 2,
+    "diseases": "vírusos tüdőgyulladás, iszkémiás szívbetegség, szívritmuszavar, magas vérnyomás, cukorbetegség, szívinfarktus utáni állapot"
+  },
+  {
+    "sequence": 827,
+    "age": 68,
+    "sex": 1,
+    "diseases": "cukorbetegség, magas vérnyomás, koszorúér betegség, szívelégtelenség, vérszegénység"
+  },
+  {
+    "sequence": 828,
+    "age": 74,
+    "sex": 1,
+    "diseases": "Adat feltöltés alatt"
+  },
+  {
+    "sequence": 829,
+    "age": 83,
+    "sex": 1,
+    "diseases": "magas vérnyomás, vastagbél rosszindulatú daganata, agyi infarktus"
+  },
+  {
+    "sequence": 830,
+    "age": 75,
+    "sex": 2,
+    "diseases": "magas vérnyomás, göbös pajzsmirigy"
+  },
+  {
+    "sequence": 831,
+    "age": 77,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívizom gyulladás"
+  },
+  {
+    "sequence": 832,
+    "age": 72,
+    "sex": 2,
+    "diseases": "Parox pitvarfibrilláció,  diszlipidémia"
+  },
+  {
+    "sequence": 833,
+    "age": 81,
+    "sex": 2,
+    "diseases": "Pitvarfibrilláció, magas vérnyomás"
   }
 ]
