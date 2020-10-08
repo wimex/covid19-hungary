@@ -5254,5 +5254,131 @@
     "age": 79,
     "sex": 2,
     "diseases": "magas vérnyomás, alzheimer demencia, cukorbetegség"
+  },
+  {
+    "sequence": 878,
+    "age": 73,
+    "sex": 1,
+    "diseases": "magas vérnyomás, II. diabetes mellitus, obesitas, alsó végtagi verőér stenosis miatti PTA, microcysta ren l.d., proteinuria miatti nephrologiai gondozás, chr.veseelégtelenség és EPO kezelés, cardialis decompensatio, 2015-ben diverticulosis, fundus polypus hyperplasticus ventriculi, regularis hemodialízis, secunder anaemia, 2019-ben pneumonia miatti kezelés, atrophia cerebri, bal oldali corona radiata állományában  vascularis laesio"
+  },
+  {
+    "sequence": 879,
+    "age": 77,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, májparenchima laesio, óriássejtes arteritis, depresszió, krónikus veseelégtelenség, myelodisplasiás sy. miatti kezelés, haematológiai gondozás, hólyag tumor, radiotherápia"
+  },
+  {
+    "sequence": 880,
+    "age": 81,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, Iszkémiás szívbetegség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 881,
+    "age": 79,
+    "sex": 2,
+    "diseases": "nincs adat"
+  },
+  {
+    "sequence": 882,
+    "age": 73,
+    "sex": 2,
+    "diseases": "neurofibromatozis, stroke, onkológiai GIST gondozott, GAVE"
+  },
+  {
+    "sequence": 883,
+    "age": 54,
+    "sex": 2,
+    "diseases": "lymphoid leukémia"
+  },
+  {
+    "sequence": 884,
+    "age": 88,
+    "sex": 2,
+    "diseases": "leukémia"
+  },
+  {
+    "sequence": 885,
+    "age": 76,
+    "sex": 1,
+    "diseases": "cukorbetegség, magarvérnyomás-betegség, demencia"
+  },
+  {
+    "sequence": 886,
+    "age": 77,
+    "sex": 1,
+    "diseases": "légzési elégtelenség, veseelégtelenség"
+  },
+  {
+    "sequence": 887,
+    "age": 78,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, légzési elégtelenség"
+  },
+  {
+    "sequence": 888,
+    "age": 93,
+    "sex": 1,
+    "diseases": "pitvarfibrilláció, érszűkület"
+  },
+  {
+    "sequence": 889,
+    "age": 92,
+    "sex": 2,
+    "diseases": "pitvari fibrillatio és flutter, prosztata túltengés, általános  atherosclerosis"
+  },
+  {
+    "sequence": 890,
+    "age": 86,
+    "sex": 2,
+    "diseases": "magas vérnyomás, biliaris pancreatitis, cholecystitis"
+  },
+  {
+    "sequence": 891,
+    "age": 65,
+    "sex": 1,
+    "diseases": "Crohn-betegség, egyéb bipoláris affektív zavar"
+  },
+  {
+    "sequence": 892,
+    "age": 63,
+    "sex": 2,
+    "diseases": "pitvarfibrillatio, iszkémiás szívbetegség, magas vérnyomás, Mitralis és Tricuspidalis insuff"
+  },
+  {
+    "sequence": 893,
+    "age": 77,
+    "sex": 1,
+    "diseases": "magasvérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 894,
+    "age": 37,
+    "sex": 2,
+    "diseases": "magasvérnyomás-betegség, agyi infarktus, súlyos mentális retardáció, féloldali spasticus bénulás, veseelégtelenség"
+  },
+  {
+    "sequence": 895,
+    "age": 64,
+    "sex": 2,
+    "diseases": "asthma bronchiale, hypertonia, tüdő fibrosis, autonóm pajzsmirigy adenoma, pitvarfibrillatio"
+  },
+  {
+    "sequence": 896,
+    "age": 46,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, veseátültetés után lévő személy"
+  },
+  {
+    "sequence": 897,
+    "age": 74,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus tüdőműködési zavar(COPD)"
+  },
+  {
+    "sequence": 898,
+    "age": 72,
+    "sex": 2,
+    "diseases": "magasvérnyomás, demencia, stroke, tüdőgyulladás"
   }
 ]
