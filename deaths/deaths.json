@@ -5380,5 +5380,95 @@
     "age": 72,
     "sex": 2,
     "diseases": "magasvérnyomás, demencia, stroke, tüdőgyulladás"
+  },
+  {
+    "sequence": 899,
+    "age": 87,
+    "sex": 2,
+    "diseases": "vírusos tüdőgyulladás, stroke"
+  },
+  {
+    "sequence": 900,
+    "age": 66,
+    "sex": 2,
+    "diseases": "vírusos tüdőgyulladás"
+  },
+  {
+    "sequence": 901,
+    "age": 69,
+    "sex": 2,
+    "diseases": "hasnyálmirigytumor, májzsugor, pitvarfibrilláció"
+  },
+  {
+    "sequence": 902,
+    "age": 86,
+    "sex": 2,
+    "diseases": "hipertónia, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 903,
+    "age": 69,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 904,
+    "age": 88,
+    "sex": 1,
+    "diseases": "magas vérnyomás, vérszegénység, veseelégtelenség, csontritkulás, aorta billentyű gyulladás"
+  },
+  {
+    "sequence": 905,
+    "age": 57,
+    "sex": 2,
+    "diseases": "tüdőembólia,heveny szívbetegség"
+  },
+  {
+    "sequence": 906,
+    "age": 87,
+    "sex": 2,
+    "diseases": "szívelégtelenség, cukorbetegség"
+  },
+  {
+    "sequence": 907,
+    "age": 84,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, szívelégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 908,
+    "age": 39,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 909,
+    "age": 92,
+    "sex": 2,
+    "diseases": "idős korhoz társuló szívelégtelenség"
+  },
+  {
+    "sequence": 910,
+    "age": 91,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, szív és érrendszeri megbetegedés, veseelégtelenség"
+  },
+  {
+    "sequence": 911,
+    "age": 86,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, magas vérnyomás, szív és érrendszeri megbetegedés, szívgyengeség"
+  },
+  {
+    "sequence": 912,
+    "age": 68,
+    "sex": 2,
+    "diseases": "cukorbetegség"
+  },
+  {
+    "sequence": 913,
+    "age": 92,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, szívelégtelenség, iszkémiás szívbetegség, szívinfarktus, szívelégtelenség, magas koleszterinszint, érelmeszesedés, Parkinson-kór, krónikus veseelégtelenség"
   }
 ]
