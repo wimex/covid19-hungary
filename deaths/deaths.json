@@ -5536,5 +5536,59 @@
     "age": 62,
     "sex": 1,
     "diseases": "cukorbetegség, pajzsmirigybetegség, carotis meszesedés, agyi infarktus, vascularis encephalopathia, polyneuropathia, glaucoma, pikkelysömör"
+  },
+  {
+    "sequence": 925,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás, hasi sérv, cephalalgia (időskori fejfájás), kompressziós csigolyatörés, reflux"
+  },
+  {
+    "sequence": 926,
+    "age": 72,
+    "sex": 2,
+    "diseases": "paranoid skrizofénia, krónikus obstruktív tüdőbetegség, iszkémiás szívbetegség, Parkinson-kór, mentális retardáció, depresszió"
+  },
+  {
+    "sequence": 927,
+    "age": 79,
+    "sex": 1,
+    "diseases": "krónikus obstruktív tüdőbetegség"
+  },
+  {
+    "sequence": 928,
+    "age": 78,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus obstuktív tüdőbetegség, polyneuropathia,  kevert hyperlipidaemia,  érelmeszesedéses szívbetegség,  pitvari fibrilláció és flutter,  ütőérszűkület"
+  },
+  {
+    "sequence": 929,
+    "age": 88,
+    "sex": 1,
+    "diseases": "övsömör, magas vérnyomás, cukorbetegség,  osteoporosis"
+  },
+  {
+    "sequence": 930,
+    "age": 80,
+    "sex": 2,
+    "diseases": "magas vérnyomás pitvarfibrilláció, szívelégtelenség"
+  },
+  {
+    "sequence": 931,
+    "age": 80,
+    "sex": 1,
+    "diseases": "magas vérnyomás, iszkémiás szívbetegség, általános érelmeszesedés, vascularis encephalopathia"
+  },
+  {
+    "sequence": 932,
+    "age": 87,
+    "sex": 1,
+    "diseases": "magas vérnyomás, iszkémiás szívbetegség, általános érelmeszesedés, pangásos szívelégtelenség, szívinfarktus, vascularis demencia"
+  },
+  {
+    "sequence": 933,
+    "age": 78,
+    "sex": 2,
+    "diseases": "végbéldaganat,máj és tüdő metastasis, prosztatadaganat"
   }
 ]
