@@ -5470,5 +5470,71 @@
     "age": 92,
     "sex": 1,
     "diseases": "magas vérnyomás, cukorbetegség, szívelégtelenség, iszkémiás szívbetegség, szívinfarktus, szívelégtelenség, magas koleszterinszint, érelmeszesedés, Parkinson-kór, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 914,
+    "age": 75,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, krónikus vesebetegség"
+  },
+  {
+    "sequence": 915,
+    "age": 62,
+    "sex": 2,
+    "diseases": "magas vérnyomás, kóros elhízás, koszorúérbetegség, nephrosclerosis talaján kialakult III/B st. Uraemia"
+  },
+  {
+    "sequence": 916,
+    "age": 77,
+    "sex": 2,
+    "diseases": "magas vérnyomás, Parkinson-kór, septicaemia"
+  },
+  {
+    "sequence": 917,
+    "age": 82,
+    "sex": 1,
+    "diseases": "iszkémiás szívbetegség, cukorbetegség, méhnyakrák"
+  },
+  {
+    "sequence": 918,
+    "age": 74,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, demencia"
+  },
+  {
+    "sequence": 919,
+    "age": 83,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, glaucoma"
+  },
+  {
+    "sequence": 920,
+    "age": 76,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 921,
+    "age": 76,
+    "sex": 1,
+    "diseases": "cukorbetegség, asztma, magas vérnyomás, retinopathia, nephropathia, polyneuropathia, uterus exstirpatio, agyi infarktus,veseelégtelenség ás számos kísérő betegség"
+  },
+  {
+    "sequence": 922,
+    "age": 66,
+    "sex": 2,
+    "diseases": "nincs adat"
+  },
+  {
+    "sequence": 923,
+    "age": 78,
+    "sex": 1,
+    "diseases": "magas vérnyomás, tüdőtumor"
+  },
+  {
+    "sequence": 924,
+    "age": 62,
+    "sex": 1,
+    "diseases": "cukorbetegség, pajzsmirigybetegség, carotis meszesedés, agyi infarktus, vascularis encephalopathia, polyneuropathia, glaucoma, pikkelysömör"
   }
 ]
