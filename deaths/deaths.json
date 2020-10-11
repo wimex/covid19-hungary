@@ -5704,5 +5704,17 @@
     "age": 71,
     "sex": 2,
     "diseases": "Magas vérnyomás, hörgőasztma, COPD, pulmonális embólia, érbetegség"
+  },
+  {
+    "sequence": 953,
+    "age": 83,
+    "sex": 1,
+    "diseases": "Magas vérnyomás, fiatalkori cukorbetegség, iszkémiás szívbetegség, elhízás"
+  },
+  {
+    "sequence": 954,
+    "age": 78,
+    "sex": 1,
+    "diseases": "Bélelzáródás, demencia, hashártya összenövés"
   }
 ]
