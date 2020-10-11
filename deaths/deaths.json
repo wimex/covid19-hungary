@@ -5590,5 +5590,119 @@
     "age": 78,
     "sex": 2,
     "diseases": "végbéldaganat,máj és tüdő metastasis, prosztatadaganat"
+  },
+  {
+    "sequence": 934,
+    "age": 81,
+    "sex": 1,
+    "diseases": "Magas vérnyomás, leukémia, stroke, cukorbetegség"
+  },
+  {
+    "sequence": 935,
+    "age": 84,
+    "sex": 1,
+    "diseases": "Agyi érszűkület, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 936,
+    "age": 94,
+    "sex": 2,
+    "diseases": "Eltávolított epehólyag, iszkémiás szívbetegség, szívritmuszavar"
+  },
+  {
+    "sequence": 937,
+    "age": 90,
+    "sex": 1,
+    "diseases": "Magas vérnyomás, tüdőtágulat, csontritkulás"
+  },
+  {
+    "sequence": 938,
+    "age": 76,
+    "sex": 1,
+    "diseases": "Tüdődaganat, mellhártya daganat"
+  },
+  {
+    "sequence": 939,
+    "age": 94,
+    "sex": 1,
+    "diseases": "Szívritmus zavar"
+  },
+  {
+    "sequence": 940,
+    "age": 63,
+    "sex": 2,
+    "diseases": "Szívelégtelenség, inzulin-dependens cukorbetegség"
+  },
+  {
+    "sequence": 941,
+    "age": 43,
+    "sex": 2,
+    "diseases": "Tüdőnagyobbodás, jobb oldali tüdőtályog, lépnagyobbodás"
+  },
+  {
+    "sequence": 942,
+    "age": 84,
+    "sex": 2,
+    "diseases": "Magas-vérnyomás betegség, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 943,
+    "age": 70,
+    "sex": 1,
+    "diseases": "Magas-vérnyomás betegség, demencia, cukorbetegség"
+  },
+  {
+    "sequence": 944,
+    "age": 87,
+    "sex": 2,
+    "diseases": "Iszkémiás szívbetegség, végbél daganat"
+  },
+  {
+    "sequence": 945,
+    "age": 85,
+    "sex": 1,
+    "diseases": "Magas vérnyomás, veseelégtelenség"
+  },
+  {
+    "sequence": 946,
+    "age": 85,
+    "sex": 1,
+    "diseases": "Magas vérnyomás., Alzheimer-kór"
+  },
+  {
+    "sequence": 947,
+    "age": 96,
+    "sex": 1,
+    "diseases": "Magas-vérnyomás betegség, COPD, szívelégtelenség"
+  },
+  {
+    "sequence": 948,
+    "age": 68,
+    "sex": 1,
+    "diseases": "Magas vérnyomás, extrém elhízás, COPD"
+  },
+  {
+    "sequence": 949,
+    "age": 76,
+    "sex": 2,
+    "diseases": "Magas vérnyomás betegség, krónikus veseelégtelenség, elhízás, agyi infarktus, érszűkület, hasfali sérv"
+  },
+  {
+    "sequence": 950,
+    "age": 69,
+    "sex": 1,
+    "diseases": "Tüdőgyulladás,  hörgőasztma., magas vérnyomás, cukorbetegség, reuma, pajzsmirigy alulműködés"
+  },
+  {
+    "sequence": 951,
+    "age": 82,
+    "sex": 1,
+    "diseases": "Magas vérnyomás, iszkémiás szívbetegség, cukorbetegség, pajzsmirigy alulműködés, többszörös idegkárosodás"
+  },
+  {
+    "sequence": 952,
+    "age": 71,
+    "sex": 2,
+    "diseases": "Magas vérnyomás, hörgőasztma, COPD, pulmonális embólia, érbetegség"
   }
 ]
