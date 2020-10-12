@@ -5716,5 +5716,89 @@
     "age": 78,
     "sex": 1,
     "diseases": "Bélelzáródás, demencia, hashártya összenövés"
+  },
+  {
+    "sequence": 955,
+    "age": 69,
+    "sex": 2,
+    "diseases": "tüdőhegedés, szívizom elégtelen vérellátása"
+  },
+  {
+    "sequence": 956,
+    "age": 55,
+    "sex": 2,
+    "diseases": "magas vérnyomás, demencia"
+  },
+  {
+    "sequence": 957,
+    "age": 75,
+    "sex": 2,
+    "diseases": "tüdőgyulladás"
+  },
+  {
+    "sequence": 958,
+    "age": 72,
+    "sex": 2,
+    "diseases": "idült légzési elégtelenség, szívelégtelenség, érelmeszesedés, krónikus vese elégtelenség"
+  },
+  {
+    "sequence": 959,
+    "age": 76,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívizom elégtelen vérellátása, végstádiumú veseelégtelenség, depresszió, szívizomsejt-elhalás"
+  },
+  {
+    "sequence": 960,
+    "age": 77,
+    "sex": 1,
+    "diseases": "szívizom elégtelen vérellátása, magas vérnyomás, aorta szűkület, műbillentyű"
+  },
+  {
+    "sequence": 961,
+    "age": 63,
+    "sex": 2,
+    "diseases": "cukorbetegség, magas vérnyomás, köszvény"
+  },
+  {
+    "sequence": 962,
+    "age": 61,
+    "sex": 1,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 963,
+    "age": 69,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívizom elégtelen vérellátása, végstádiumú veseelégtelenség, depresszió, szívizomsejt-elhalás"
+  },
+  {
+    "sequence": 964,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás, pangásos szívelégtelenség, stroke, prosztata rendellenesség"
+  },
+  {
+    "sequence": 965,
+    "age": 74,
+    "sex": 2,
+    "diseases": "prosztata rendellenesség, magas vérnyomás"
+  },
+  {
+    "sequence": 966,
+    "age": 77,
+    "sex": 2,
+    "diseases": "pajzsmirigy betegség"
+  },
+  {
+    "sequence": 967,
+    "age": 70,
+    "sex": 1,
+    "diseases": "szívizom elégtelen vérellátása, magas vérnyomás, csontritkulás"
+  },
+  {
+    "sequence": 968,
+    "age": 66,
+    "sex": 2,
+    "diseases": "magas vérnyomás, tüdőgyulladás"
   }
 ]
