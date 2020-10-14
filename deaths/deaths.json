@@ -5968,5 +5968,167 @@
     "age": 74,
     "sex": 1,
     "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 997,
+    "age": 76,
+    "sex": 2,
+    "diseases": "Alzheimer-kór"
+  },
+  {
+    "sequence": 998,
+    "age": 86,
+    "sex": 1,
+    "diseases": "szívkoszorúér-elzáródás, szívműködés zavar, demencia, magas vérnyomás, csontritkulás"
+  },
+  {
+    "sequence": 999,
+    "age": 94,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, érelmeszesedés, kevert organikus psychoszindróma"
+  },
+  {
+    "sequence": 1000,
+    "age": 66,
+    "sex": 1,
+    "diseases": "hörgő- és tüdő átfedő daganata áttétekkel, légzési elégtelenség, magas vérnyomás, nem inzulin-dependens cukorbetegség, általánosult érelmeszesedés"
+  },
+  {
+    "sequence": 1001,
+    "age": 82,
+    "sex": 1,
+    "diseases": "vírusos tüdőgyulladás, krónikus veseelégtelenség, pitvarfibrilláció, szívinfarktus utáni állapot, agyi infarktus utáni állapot, általánosult érelmeszesedés"
+  },
+  {
+    "sequence": 1002,
+    "age": 85,
+    "sex": 1,
+    "diseases": "vírusos tüdőgyulladás, idült obstruktív tüdőbetegség, Parkinson-kór, pitvarfibrilláció, általánosult érelmeszesedés"
+  },
+  {
+    "sequence": 1003,
+    "age": 92,
+    "sex": 1,
+    "diseases": "magasvérnyomás-betegség, szívelégtelenség"
+  },
+  {
+    "sequence": 1004,
+    "age": 71,
+    "sex": 2,
+    "diseases": "magas vérnyomás, prosztata-megnagyobbodás, zöldhályog"
+  },
+  {
+    "sequence": 1005,
+    "age": 86,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, általános érelmeszesedés, ischaemiás szívbetegség, magasvérnyomás-betegség, szívritmuszavar, kóros soványság, kiszáradás"
+  },
+  {
+    "sequence": 1006,
+    "age": 94,
+    "sex": 1,
+    "diseases": "magasvérnyomás-betegség, érelmeszesedés, tüdőgyulladás"
+  },
+  {
+    "sequence": 1007,
+    "age": 86,
+    "sex": 2,
+    "diseases": "magas vérnyomás, csontritkulás, Parkinson-kór, Alzheimer-kór"
+  },
+  {
+    "sequence": 1008,
+    "age": 69,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 1009,
+    "age": 79,
+    "sex": 1,
+    "diseases": "demencia, tüdőgyulladás, Parkinson-kór"
+  },
+  {
+    "sequence": 1010,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás, tüdőgyulladás, szívritmuszavar"
+  },
+  {
+    "sequence": 1011,
+    "age": 88,
+    "sex": 2,
+    "diseases": "idült obstruktív tüdőbetegség, krónikus veseelégtelenség, szívelégtelenség"
+  },
+  {
+    "sequence": 1012,
+    "age": 68,
+    "sex": 1,
+    "diseases": "magas vérnyomás, reflux, arcizombénulás"
+  },
+  {
+    "sequence": 1013,
+    "age": 71,
+    "sex": 2,
+    "diseases": "rekeszsérv, reflux, tüdőtágulat, Alzheimer-kór"
+  },
+  {
+    "sequence": 1014,
+    "age": 92,
+    "sex": 2,
+    "diseases": "magas vérnyomás betegség, prosztata jóindulatú daganata, rekeszsérv, nem-meghatározott demencia"
+  },
+  {
+    "sequence": 1015,
+    "age": 73,
+    "sex": 1,
+    "diseases": "baktérium okozta fertőzés, tüdőgyulladás, krónikus veseelégtelenség, keringési elégtelenség"
+  },
+  {
+    "sequence": 1016,
+    "age": 85,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, magasvérnyomás-betegség, nem-meghatározott demencia, prosztata túltengés"
+  },
+  {
+    "sequence": 1017,
+    "age": 78,
+    "sex": 1,
+    "diseases": "magasvérnyomás-betegség, Alzheimer-kór, légzési elégtelenség, szívelégtelenség"
+  },
+  {
+    "sequence": 1018,
+    "age": 67,
+    "sex": 1,
+    "diseases": "magasvérnyomás-betegség"
+  },
+  {
+    "sequence": 1019,
+    "age": 90,
+    "sex": 1,
+    "diseases": "idült obstruktív tüdőbetegség, krónikus hörghurut, magasvérnyomás-betegség, demencia"
+  },
+  {
+    "sequence": 1020,
+    "age": 82,
+    "sex": 2,
+    "diseases": "idült obstruktív tüdőbetegség heveny fellánggolással, szívelégtelenség, krónikus veseelégtelenség, Parkinson-kór"
+  },
+  {
+    "sequence": 1021,
+    "age": 64,
+    "sex": 2,
+    "diseases": "vese rosszindulatú daganata máj és tüdő áttéttel, szívbetegség, kóros soványság"
+  },
+  {
+    "sequence": 1022,
+    "age": 85,
+    "sex": 1,
+    "diseases": "szívbetegség, érszűkület,agyi infarktus, demencia"
+  },
+  {
+    "sequence": 1023,
+    "age": 86,
+    "sex": 2,
+    "diseases": "lezajlott szívinfarktus"
   }
 ]
