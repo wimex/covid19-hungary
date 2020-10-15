@@ -6148,5 +6148,161 @@
     "age": 81,
     "sex": 2,
     "diseases": "magas vérnyomás, demencia, szívbetegség"
+  },
+  {
+    "sequence": 1027,
+    "age": 62,
+    "sex": 1,
+    "diseases": "hasnyálmirigyrák májáttétel"
+  },
+  {
+    "sequence": 1028,
+    "age": 71,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 1029,
+    "age": 60,
+    "sex": 2,
+    "diseases": "pajzsmirigy alulműködés, szívritmuszavar"
+  },
+  {
+    "sequence": 1030,
+    "age": 60,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 1031,
+    "age": 89,
+    "sex": 1,
+    "diseases": "magas vérnyomás, pajzsmirigy túlműködés, tüdőgyulladás"
+  },
+  {
+    "sequence": 1032,
+    "age": 71,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívbetegség"
+  },
+  {
+    "sequence": 1033,
+    "age": 65,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 1034,
+    "age": 88,
+    "sex": 1,
+    "diseases": "cukorbetegség, szívritmuszavar, magas vérnyomás betegség, húgyhólyag daganat"
+  },
+  {
+    "sequence": 1035,
+    "age": 81,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, szívmegállás, pangásos szívelégtelenség, magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 1036,
+    "age": 76,
+    "sex": 2,
+    "diseases": "vérszegénység, magas vérnyomás"
+  },
+  {
+    "sequence": 1037,
+    "age": 60,
+    "sex": 1,
+    "diseases": "vírusos tüdőgyulladás, idült tüdőbetegség"
+  },
+  {
+    "sequence": 1038,
+    "age": 71,
+    "sex": 2,
+    "diseases": "nem ismert"
+  },
+  {
+    "sequence": 1039,
+    "age": 78,
+    "sex": 2,
+    "diseases": "szívbetegség, érelmeszesedés, magasvérnyomás-betegség, krónikus veseelégtelenség, agyi infarktus"
+  },
+  {
+    "sequence": 1040,
+    "age": 77,
+    "sex": 1,
+    "diseases": "kiszáradás, veseelégtelenség, cukorbetegség"
+  },
+  {
+    "sequence": 1041,
+    "age": 68,
+    "sex": 2,
+    "diseases": "magasvérnyomás-betegség, tüdőgyulladás"
+  },
+  {
+    "sequence": 1042,
+    "age": 86,
+    "sex": 1,
+    "diseases": "demencia, magasvérnyomás-betegség, szívbetegség, légzési és keringési elégtelenség"
+  },
+  {
+    "sequence": 1043,
+    "age": 97,
+    "sex": 2,
+    "diseases": "általános érelmeszesedés, légzési és keringési elégtelenség, vérszegénység, demencia"
+  },
+  {
+    "sequence": 1044,
+    "age": 62,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, magasvérnyomás-betegség, szívbetegség, parkinson-kór, demencia"
+  },
+  {
+    "sequence": 1045,
+    "age": 60,
+    "sex": 1,
+    "diseases": "heveny veseelégtelenség, májelégtelenség, epilepszia, végtagfekély"
+  },
+  {
+    "sequence": 1046,
+    "age": 87,
+    "sex": 1,
+    "diseases": "magasvérnyomás-betegség, demencia, fekélyes vastagbélgyulladás"
+  },
+  {
+    "sequence": 1047,
+    "age": 86,
+    "sex": 1,
+    "diseases": "orbánc, magasvérnyomás-betegség, szívbetegség"
+  },
+  {
+    "sequence": 1048,
+    "age": 84,
+    "sex": 1,
+    "diseases": "magasvérnyomás-betegség, cukorbetegség"
+  },
+  {
+    "sequence": 1049,
+    "age": 73,
+    "sex": 2,
+    "diseases": "veseelégtelenség, magasvérnyomás-betegség, fekély, cukorbetegség"
+  },
+  {
+    "sequence": 1050,
+    "age": 66,
+    "sex": 2,
+    "diseases": "szívérelmeszesedés"
+  },
+  {
+    "sequence": 1051,
+    "age": 62,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, heveny szívelégtelenség"
+  },
+  {
+    "sequence": 1052,
+    "age": 65,
+    "sex": 2,
+    "diseases": "veseelégtelenség, cukorbetegség, szívelégtelenség, elhízás, koszorúér-elmeszesedés"
   }
 ]
