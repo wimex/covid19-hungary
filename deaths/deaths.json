@@ -6304,5 +6304,203 @@
     "age": 65,
     "sex": 2,
     "diseases": "veseelégtelenség, cukorbetegség, szívelégtelenség, elhízás, koszorúér-elmeszesedés"
+  },
+  {
+    "sequence": 1053,
+    "age": 64,
+    "sex": 2,
+    "diseases": "magas vérnyomás, tüdőbetegség"
+  },
+  {
+    "sequence": 1054,
+    "age": 86,
+    "sex": 2,
+    "diseases": "szívbetegség, stroke, agyérelmeszesedés"
+  },
+  {
+    "sequence": 1055,
+    "age": 83,
+    "sex": 1,
+    "diseases": "magas vérnyomás, agyi infarktus, tüdőgyulladás"
+  },
+  {
+    "sequence": 1056,
+    "age": 67,
+    "sex": 1,
+    "diseases": "skizofrénia, mentális retardáció, érszűkület, húgyhólyagdaganat"
+  },
+  {
+    "sequence": 1057,
+    "age": 77,
+    "sex": 1,
+    "diseases": "leukémia"
+  },
+  {
+    "sequence": 1058,
+    "age": 64,
+    "sex": 2,
+    "diseases": "magas vérnyomás, heveny szívizomelhalás, idült hasnyálmirigy-gyulladás, szívelégtelenség"
+  },
+  {
+    "sequence": 1059,
+    "age": 67,
+    "sex": 2,
+    "diseases": "CD-30 pozitív nagysejtes limfóma"
+  },
+  {
+    "sequence": 1060,
+    "age": 77,
+    "sex": 1,
+    "diseases": "szívelégtelenség, akut veseelégtelenség"
+  },
+  {
+    "sequence": 1061,
+    "age": 81,
+    "sex": 1,
+    "diseases": "magas vérnyomás, agyi infarktus, szorongás depressziós zavar"
+  },
+  {
+    "sequence": 1062,
+    "age": 82,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, demencia, pangásos szívelégtelenség, alkoholos zsírmáj"
+  },
+  {
+    "sequence": 1063,
+    "age": 90,
+    "sex": 1,
+    "diseases": "adat feltöltés alatt"
+  },
+  {
+    "sequence": 1064,
+    "age": 78,
+    "sex": 1,
+    "diseases": "krónikus veseelégtelenség, agyi infarktus, magas vérnyomás, tüdőgyulladás"
+  },
+  {
+    "sequence": 1065,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magas vérnyomás, általános érelmeszesedés"
+  },
+  {
+    "sequence": 1066,
+    "age": 84,
+    "sex": 1,
+    "diseases": "magas vérnyomás, érelmeszesedés, szívizomelhalás, szívelégtelenség"
+  },
+  {
+    "sequence": 1067,
+    "age": 89,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia, légzési elégtelenség, Parkinson-kór"
+  },
+  {
+    "sequence": 1068,
+    "age": 70,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, Parkinson-kór, demencia"
+  },
+  {
+    "sequence": 1069,
+    "age": 83,
+    "sex": 1,
+    "diseases": "vérszegénység, gyomorfekély, magas vérnyomás, csontritkulás"
+  },
+  {
+    "sequence": 1070,
+    "age": 86,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, cukorbetegség, vastagbél rák, veseelégtelenség"
+  },
+  {
+    "sequence": 1071,
+    "age": 68,
+    "sex": 1,
+    "diseases": "demencia, epilepszia, általános érelmeszesedés, agysorvadás"
+  },
+  {
+    "sequence": 1072,
+    "age": 74,
+    "sex": 1,
+    "diseases": "toxikus májbetegség, veseelégtelenség, magas vérnyomás, tüdőgyulladás"
+  },
+  {
+    "sequence": 1073,
+    "age": 79,
+    "sex": 1,
+    "diseases": "kétoldali tüdőgyulladás, veseelégtelenség"
+  },
+  {
+    "sequence": 1074,
+    "age": 75,
+    "sex": 1,
+    "diseases": "Parkinson-kór, egyéb, akut és átmeneti pszihotikus zavar, tüdőgyulladás"
+  },
+  {
+    "sequence": 1075,
+    "age": 69,
+    "sex": 1,
+    "diseases": "magas vérnyomás, légzési elégtelenség"
+  },
+  {
+    "sequence": 1076,
+    "age": 68,
+    "sex": 1,
+    "diseases": "magas vérnyomás, tüdőgyulladás, veseelégtelenség, vérszegénység"
+  },
+  {
+    "sequence": 1077,
+    "age": 63,
+    "sex": 1,
+    "diseases": "Alzheimer-kór, demencia, pangásos szívelégtelenség, tüdőembólia"
+  },
+  {
+    "sequence": 1078,
+    "age": 66,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 1079,
+    "age": 67,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 1080,
+    "age": 84,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, leukémia, cukorbetegség"
+  },
+  {
+    "sequence": 1081,
+    "age": 82,
+    "sex": 2,
+    "diseases": "magas vérnyomás, demencia, szívritmuszavar"
+  },
+  {
+    "sequence": 1082,
+    "age": 88,
+    "sex": 1,
+    "diseases": "magas vérnyomás, tüdőgyulladás"
+  },
+  {
+    "sequence": 1083,
+    "age": 85,
+    "sex": 2,
+    "diseases": "cukorbetegség, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 1084,
+    "age": 87,
+    "sex": 1,
+    "diseases": "demencia, nyomási fekély, pangásos tüdőgyulladás"
+  },
+  {
+    "sequence": 1085,
+    "age": 20,
+    "sex": 2,
+    "diseases": "csontvelő-transzplantáció, kóros elhízás, vérszegénység"
   }
 ]
