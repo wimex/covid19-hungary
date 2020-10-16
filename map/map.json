@@ -903,5 +903,10 @@
     "published": "2020-10-15T07:00:08.237Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/1015.jpg",
     "hash": "1f1f8c1018f6c3fe0ca656a4b559fe72269bb8f1"
+  },
+  {
+    "published": "2020-10-16T07:00:11.873Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/terkep1016.png",
+    "hash": "0a13bfeb4043a9858375f504e3b9039804dd1515"
   }
 ]
