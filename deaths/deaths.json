@@ -6502,5 +6502,149 @@
     "age": 20,
     "sex": 2,
     "diseases": "csontvelő-transzplantáció, kóros elhízás, vérszegénység"
+  },
+  {
+    "sequence": 1086,
+    "age": 85,
+    "sex": 2,
+    "diseases": "cukorbetegség, magas vérnyomás, rosszindulatú daganat, agyi infarktus"
+  },
+  {
+    "sequence": 1087,
+    "age": 73,
+    "sex": 2,
+    "diseases": "magas vérnyomás, vérmérgezés, agysorvadás"
+  },
+  {
+    "sequence": 1088,
+    "age": 71,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, heveny veseelégtelenség"
+  },
+  {
+    "sequence": 1089,
+    "age": 60,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, iszkémiás szívbetegség, kóros elhízás, pikkelysömör"
+  },
+  {
+    "sequence": 1090,
+    "age": 76,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, Alzheimer-kór, agyi és általános érelmeszesedés"
+  },
+  {
+    "sequence": 1091,
+    "age": 76,
+    "sex": 1,
+    "diseases": "epilepszia, szívelégtelenség, demencia, kóros soványság, szívritmuszavar"
+  },
+  {
+    "sequence": 1092,
+    "age": 81,
+    "sex": 2,
+    "diseases": "magas vérnyomás, demencia, Parkinson-kór, jóindulatú prosztata megnagyobbodás"
+  },
+  {
+    "sequence": 1093,
+    "age": 67,
+    "sex": 1,
+    "diseases": "közúti balesetet követő mozgáskorlátozottság"
+  },
+  {
+    "sequence": 1094,
+    "age": 80,
+    "sex": 2,
+    "diseases": "jelenleg nem áll rendelkezésre adat"
+  },
+  {
+    "sequence": 1095,
+    "age": 89,
+    "sex": 1,
+    "diseases": "nagyon alacsony testhőmérséklet, iszkémiás szívbetegség, krónikus tüdőbetegség"
+  },
+  {
+    "sequence": 1096,
+    "age": 89,
+    "sex": 1,
+    "diseases": "szívbetegség, veseciszta"
+  },
+  {
+    "sequence": 1097,
+    "age": 85,
+    "sex": 1,
+    "diseases": "vírusos tüdőgyulladás, vérképzőrendszeri daganat, krónikus veseelégtelenség, érelmeszesedés"
+  },
+  {
+    "sequence": 1098,
+    "age": 70,
+    "sex": 1,
+    "diseases": "jelenleg nem áll rendelkezésre adat"
+  },
+  {
+    "sequence": 1099,
+    "age": 92,
+    "sex": 2,
+    "diseases": "magas vérnyomás, iszkémiás szívbetegség, prosztata megnagyobbodás"
+  },
+  {
+    "sequence": 1100,
+    "age": 86,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, agytumor, agyvérzés, vesebetegség"
+  },
+  {
+    "sequence": 1101,
+    "age": 75,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívelégtelenség, magas vércukorszint"
+  },
+  {
+    "sequence": 1102,
+    "age": 72,
+    "sex": 2,
+    "diseases": "magas vérnyomás, idült szívbetegség"
+  },
+  {
+    "sequence": 1103,
+    "age": 86,
+    "sex": 1,
+    "diseases": "magas vérnyomás, agyi infarktus"
+  },
+  {
+    "sequence": 1104,
+    "age": 57,
+    "sex": 1,
+    "diseases": "magas vérnyomás, májzsugor,máj elégtelenség, krónikus vérszegénység"
+  },
+  {
+    "sequence": 1105,
+    "age": 81,
+    "sex": 2,
+    "diseases": "szív-érrendszeri elégtelenség, krónikus vese elégtelenség, baloldali tüdőgyulladás"
+  },
+  {
+    "sequence": 1106,
+    "age": 79,
+    "sex": 2,
+    "diseases": "agyi keringési zavar, arcüreg gyulladás, magas vérnyomás, krónikus szívelégtelenség"
+  },
+  {
+    "sequence": 1107,
+    "age": 87,
+    "sex": 1,
+    "diseases": "magas vérnyomás, szívizom elégtelenség, cukorbetegség"
+  },
+  {
+    "sequence": 1108,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia"
+  },
+  {
+    "sequence": 1109,
+    "age": 92,
+    "sex": 2,
+    "diseases": "csípőtörés, demencia, skizofrénia"
   }
 ]
