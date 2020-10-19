@@ -6844,5 +6844,83 @@
     "age": 87,
     "sex": 1,
     "diseases": "ízületi betegség, magas vérnyomás"
+  },
+  {
+    "sequence": 1143,
+    "age": 64,
+    "sex": 2,
+    "diseases": "demencia, érelmeszesedés"
+  },
+  {
+    "sequence": 1144,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magasvérnyomás-betegség, érelmeszesedés, demencia, vérszegénység"
+  },
+  {
+    "sequence": 1145,
+    "age": 89,
+    "sex": 1,
+    "diseases": "szívbetegség, érszűkület, magasvérnyomás-betegség"
+  },
+  {
+    "sequence": 1146,
+    "age": 63,
+    "sex": 2,
+    "diseases": "magasvérnyomás-betegség, érszűkület , végstádiumú veseelégtelenség, cukorbetegség"
+  },
+  {
+    "sequence": 1147,
+    "age": 90,
+    "sex": 1,
+    "diseases": "vírusos tüdőgyulladás, magasvérnyomás-betegség, vaszkuláris demencia, agyi infarktusok utáni állapot"
+  },
+  {
+    "sequence": 1148,
+    "age": 82,
+    "sex": 2,
+    "diseases": "magasvérnyomás-betegség, érelmeszesedés, szívbetegség, tüdőembólia"
+  },
+  {
+    "sequence": 1149,
+    "age": 62,
+    "sex": 1,
+    "diseases": "magasvérnyomás-betegség, asztma, májgyulladás"
+  },
+  {
+    "sequence": 1150,
+    "age": 63,
+    "sex": 1,
+    "diseases": "pangásos szívelégtelenség, pulmonalis szívbetegség, tüdőembólia heveny pulmonalis szívbetegség említésével, magasvérnyomás-betegség, idiopathiás tüdőfibrosis"
+  },
+  {
+    "sequence": 1151,
+    "age": 78,
+    "sex": 2,
+    "diseases": "magasvérnyomás-betegség, cukorbetegség"
+  },
+  {
+    "sequence": 1152,
+    "age": 72,
+    "sex": 2,
+    "diseases": "vírusos tüdőgyulladás, szívelégtelenség, magasvérnyomás-betegség, cukorbetegség, húgyhólyag daganat"
+  },
+  {
+    "sequence": 1153,
+    "age": 74,
+    "sex": 2,
+    "diseases": "extrém elhízás, COPD, az aorta szűkülete, szívtágulás, pangásos szívelégtelenség, műbillentyű a szívben"
+  },
+  {
+    "sequence": 1154,
+    "age": 89,
+    "sex": 1,
+    "diseases": "magasvérnyomás-betegség, Parkinson-kór, cukorbetegség, szeméremcsonttörés"
+  },
+  {
+    "sequence": 1155,
+    "age": 81,
+    "sex": 1,
+    "diseases": "iszkémiás szívbetegség, cukorbetegség"
   }
 ]
