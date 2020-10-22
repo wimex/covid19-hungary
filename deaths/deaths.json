@@ -7546,5 +7546,89 @@
     "age": 68,
     "sex": 2,
     "diseases": "hörgő rosszindulatú daganata, magas vérnyomás, tüdőgyulladás, cukorbetegség"
+  },
+  {
+    "sequence": 1260,
+    "age": 77,
+    "sex": 1,
+    "diseases": "szívizom elégtelenség, cukorbetegség, hasnyálmirigyrák"
+  },
+  {
+    "sequence": 1261,
+    "age": 81,
+    "sex": 1,
+    "diseases": "pajzsmirigygyulladás, stroke, tüdőembólia"
+  },
+  {
+    "sequence": 1262,
+    "age": 92,
+    "sex": 1,
+    "diseases": "szívelégtelenség, magas vérnyomás"
+  },
+  {
+    "sequence": 1263,
+    "age": 56,
+    "sex": 2,
+    "diseases": "glutealis tályog, cukorbetegség, magas vérnyomás"
+  },
+  {
+    "sequence": 1264,
+    "age": 66,
+    "sex": 2,
+    "diseases": "autoimmun pajzsmirigy betegség, cukorbetegség"
+  },
+  {
+    "sequence": 1265,
+    "age": 73,
+    "sex": 2,
+    "diseases": "feltöltés alatt"
+  },
+  {
+    "sequence": 1266,
+    "age": 62,
+    "sex": 2,
+    "diseases": "idült szívbetegség, pangásos szívelégtelenség, magasvérnyomás-betegség, cukorbetegség, magas koleszterinszint"
+  },
+  {
+    "sequence": 1267,
+    "age": 64,
+    "sex": 2,
+    "diseases": "magas vérnyomás, tüdőtuberkulózis"
+  },
+  {
+    "sequence": 1268,
+    "age": 89,
+    "sex": 2,
+    "diseases": "feltöltés alatt"
+  },
+  {
+    "sequence": 1269,
+    "age": 81,
+    "sex": 2,
+    "diseases": "magas vérnyomás,prosztata tumor"
+  },
+  {
+    "sequence": 1270,
+    "age": 91,
+    "sex": 1,
+    "diseases": "tüdő betegség, magas vérnyomás"
+  },
+  {
+    "sequence": 1271,
+    "age": 87,
+    "sex": 1,
+    "diseases": "magas vérnyomás, zöld hályog, csontritkulás"
+  },
+  {
+    "sequence": 1272,
+    "age": 87,
+    "sex": 2,
+    "diseases": "feltöltés alatt"
+  },
+  {
+    "sequence": 1273,
+    "age": 73,
+    "sex": 1,
+    "diseases": "Huntington-kór, demencia"
   }
 ]
