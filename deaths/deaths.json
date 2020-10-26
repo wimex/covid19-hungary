@@ -8542,5 +8542,287 @@
     "age": 65,
     "sex": 2,
     "diseases": "melanoma malignum metasztázisokkal, vérmérgezés"
+  },
+  {
+    "sequence": 1426,
+    "age": 68,
+    "sex": 2,
+    "diseases": "tüdőbetegség, tüdőtágulat"
+  },
+  {
+    "sequence": 1427,
+    "age": 73,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség"
+  },
+  {
+    "sequence": 1428,
+    "age": 83,
+    "sex": 1,
+    "diseases": "vérmérgezés, tüdőgyulladás"
+  },
+  {
+    "sequence": 1429,
+    "age": 71,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívelégtelenség"
+  },
+  {
+    "sequence": 1430,
+    "age": 84,
+    "sex": 1,
+    "diseases": "magas vérnyomás, tüdőgyulladás"
+  },
+  {
+    "sequence": 1431,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás, szívinfarktus"
+  },
+  {
+    "sequence": 1432,
+    "age": 60,
+    "sex": 2,
+    "diseases": "tüdőgyulladás, szívmegállás, alkoholos májelégtelenség, májzsugorodás, magas vérnyomás"
+  },
+  {
+    "sequence": 1433,
+    "age": 94,
+    "sex": 1,
+    "diseases": "magas vérnyomás, demencia"
+  },
+  {
+    "sequence": 1434,
+    "age": 78,
+    "sex": 2,
+    "diseases": "prosztatarák"
+  },
+  {
+    "sequence": 1435,
+    "age": 75,
+    "sex": 2,
+    "diseases": "lymphoma, cukorbetegség"
+  },
+  {
+    "sequence": 1436,
+    "age": 65,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, szívelégtelenség"
+  },
+  {
+    "sequence": 1437,
+    "age": 82,
+    "sex": 1,
+    "diseases": "cukorbetegség, veseelégtelenség"
+  },
+  {
+    "sequence": 1438,
+    "age": 66,
+    "sex": 1,
+    "diseases": "tüdőrák, magas vérnyomás"
+  },
+  {
+    "sequence": 1439,
+    "age": 72,
+    "sex": 1,
+    "diseases": "magas vérnyomás, koleszterin, ISZB"
+  },
+  {
+    "sequence": 1440,
+    "age": 82,
+    "sex": 1,
+    "diseases": "veseelégtelenség, cukorbetegség"
+  },
+  {
+    "sequence": 1441,
+    "age": 73,
+    "sex": 1,
+    "diseases": "szívritmuszavar, vastagbél tumor nyirokcsomó áttétekkel"
+  },
+  {
+    "sequence": 1442,
+    "age": 94,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, szívmegállás, magas vérnyomás, pitvarfibrilláció"
+  },
+  {
+    "sequence": 1443,
+    "age": 75,
+    "sex": 2,
+    "diseases": "pajzsmirigy betegség, szívbetegség, érelmeszesedés"
+  },
+  {
+    "sequence": 1444,
+    "age": 83,
+    "sex": 1,
+    "diseases": "magas vérnyomás, veseelégtelenség,húgyúti fertőzés, cukorbetegség"
+  },
+  {
+    "sequence": 1445,
+    "age": 83,
+    "sex": 2,
+    "diseases": "magas vérnyomás, cukorbetegség, Alzheimer"
+  },
+  {
+    "sequence": 1446,
+    "age": 94,
+    "sex": 1,
+    "diseases": "szívelégtelenség"
+  },
+  {
+    "sequence": 1447,
+    "age": 63,
+    "sex": 2,
+    "diseases": "májgyulladás"
+  },
+  {
+    "sequence": 1448,
+    "age": 89,
+    "sex": 2,
+    "diseases": "tüdőbetegség, tüdőtágulat"
+  },
+  {
+    "sequence": 1449,
+    "age": 84,
+    "sex": 1,
+    "diseases": "jelenleg nincs adat"
+  },
+  {
+    "sequence": 1450,
+    "age": 87,
+    "sex": 2,
+    "diseases": "pangásos szívelégtelenség, légzési elégtelenség, Aorta billentyű szűkülete, magas vérnyomás"
+  },
+  {
+    "sequence": 1451,
+    "age": 76,
+    "sex": 1,
+    "diseases": "demencia, cukorbetegség, mentális zavar, magas vérzsírszint"
+  },
+  {
+    "sequence": 1452,
+    "age": 75,
+    "sex": 1,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, paranoid skizofrénia, cukorbetegség"
+  },
+  {
+    "sequence": 1453,
+    "age": 72,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség,pitvarfibrilláció"
+  },
+  {
+    "sequence": 1454,
+    "age": 70,
+    "sex": 2,
+    "diseases": "epilepszia, stroke, féloldali bénulás"
+  },
+  {
+    "sequence": 1455,
+    "age": 80,
+    "sex": 1,
+    "diseases": "magas vérnyomás, tüdőembólia, csontritkulás, májgyulladás"
+  },
+  {
+    "sequence": 1456,
+    "age": 75,
+    "sex": 1,
+    "diseases": "pangásos szívelégtelenség, magas vérnyomás, krónikus veseelégtelenség, egyéb vaszkuláris demencia, cukorbetegség"
+  },
+  {
+    "sequence": 1457,
+    "age": 78,
+    "sex": 2,
+    "diseases": "veseelégtelenség, szívelégtelenség"
+  },
+  {
+    "sequence": 1458,
+    "age": 49,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, légzési és keringési elégtelenség"
+  },
+  {
+    "sequence": 1459,
+    "age": 86,
+    "sex": 1,
+    "diseases": "magas vérnyomás, cukorbetegség, veseelégtelenség"
+  },
+  {
+    "sequence": 1460,
+    "age": 89,
+    "sex": 1,
+    "diseases": "jelenleg nincs adat"
+  },
+  {
+    "sequence": 1461,
+    "age": 67,
+    "sex": 1,
+    "diseases": "veseelégtelenség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 1462,
+    "age": 50,
+    "sex": 2,
+    "diseases": "magas vérnyomás, alkoholos májbetegség, heveny bronchitis"
+  },
+  {
+    "sequence": 1463,
+    "age": 64,
+    "sex": 2,
+    "diseases": "cukorbetegség"
+  },
+  {
+    "sequence": 1464,
+    "age": 81,
+    "sex": 2,
+    "diseases": "végbélrák, magas vérnyomás"
+  },
+  {
+    "sequence": 1465,
+    "age": 89,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus veseelégtelenség, pangásos szívelégtelenség"
+  },
+  {
+    "sequence": 1466,
+    "age": 83,
+    "sex": 1,
+    "diseases": "iszkémiás szívbetegség, magas vérnyomás, cukorbetegség, méhtest rosszindulatú daganata, krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 1467,
+    "age": 70,
+    "sex": 1,
+    "diseases": "cukorbetegség, ischaemiás szívbetegség"
+  },
+  {
+    "sequence": 1468,
+    "age": 90,
+    "sex": 2,
+    "diseases": "pitvarfibrilláció, magas vérnyomás"
+  },
+  {
+    "sequence": 1469,
+    "age": 77,
+    "sex": 1,
+    "diseases": "cukorbetegség, csontritkulás"
+  },
+  {
+    "sequence": 1470,
+    "age": 97,
+    "sex": 1,
+    "diseases": "magas vérnyomás, koszorúér görcs"
+  },
+  {
+    "sequence": 1471,
+    "age": 64,
+    "sex": 1,
+    "diseases": "magas vérnyomás, zsíranyagcsere betegség, magas húgysavszint"
+  },
+  {
+    "sequence": 1472,
+    "age": 56,
+    "sex": 2,
+    "diseases": "magas vérnyomás, hasvízkór, lépnagyobbodás, májzsugor, akut veseelégtelenség"
   }
 ]
