@@ -8824,5 +8824,383 @@
     "age": 56,
     "sex": 2,
     "diseases": "magas vérnyomás, hasvízkór, lépnagyobbodás, májzsugor, akut veseelégtelenség"
+  },
+  {
+    "sequence": 1473,
+    "age": 83,
+    "sex": 2,
+    "diseases": "vaszkuláris demencia"
+  },
+  {
+    "sequence": 1474,
+    "age": 92,
+    "sex": 1,
+    "diseases": "emlőrák"
+  },
+  {
+    "sequence": 1475,
+    "age": 87,
+    "sex": 1,
+    "diseases": "Alzheimer kór, Parkinson kór"
+  },
+  {
+    "sequence": 1476,
+    "age": 86,
+    "sex": 1,
+    "diseases": "vese transzplantáción átesett, bőrdaganat"
+  },
+  {
+    "sequence": 1477,
+    "age": 82,
+    "sex": 1,
+    "diseases": "cukorbetegség, veseelégtelenség"
+  },
+  {
+    "sequence": 1478,
+    "age": 92,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, szívelégtelenség"
+  },
+  {
+    "sequence": 1479,
+    "age": 73,
+    "sex": 2,
+    "diseases": "szívelégtelenség, pitvarfibrilláció"
+  },
+  {
+    "sequence": 1480,
+    "age": 88,
+    "sex": 1,
+    "diseases": "epilepszia, veseelégtelenség, neurológiai betegség (CVL)"
+  },
+  {
+    "sequence": 1481,
+    "age": 89,
+    "sex": 2,
+    "diseases": "magas vérnyomás, prosztata megnagyobbodás"
+  },
+  {
+    "sequence": 1482,
+    "age": 84,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 1483,
+    "age": 61,
+    "sex": 1,
+    "diseases": "magas vérnyomás, áttétes emlődaganat, cukorbetegség, mélyvénás trombózis"
+  },
+  {
+    "sequence": 1484,
+    "age": 91,
+    "sex": 1,
+    "diseases": "szívelégtelenség, demencia"
+  },
+  {
+    "sequence": 1485,
+    "age": 83,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 1486,
+    "age": 79,
+    "sex": 2,
+    "diseases": "magas vérnyomás"
+  },
+  {
+    "sequence": 1487,
+    "age": 75,
+    "sex": 2,
+    "diseases": "magas vérnyomás, ischaemiás szívbetegség"
+  },
+  {
+    "sequence": 1488,
+    "age": 71,
+    "sex": 2,
+    "diseases": "magas vérnyomás, pacemaker, pitvarfibrilláció, köszvény, prosztata megnagyobbodás"
+  },
+  {
+    "sequence": 1489,
+    "age": 68,
+    "sex": 2,
+    "diseases": "magas vérnyomás, stroke"
+  },
+  {
+    "sequence": 1490,
+    "age": 57,
+    "sex": 1,
+    "diseases": "vérszegénység, csípőkopás"
+  },
+  {
+    "sequence": 1491,
+    "age": 65,
+    "sex": 2,
+    "diseases": "cukorbetegség, tüdőembólia"
+  },
+  {
+    "sequence": 1492,
+    "age": 63,
+    "sex": 2,
+    "diseases": "magas vérnyomás, krónikus tüdőgyulladás cukorbetegség"
+  },
+  {
+    "sequence": 1493,
+    "age": 88,
+    "sex": 1,
+    "diseases": "Parkinson-kór, prosztata megnagyobbodás, epilepszia, demencia"
+  },
+  {
+    "sequence": 1494,
+    "age": 73,
+    "sex": 1,
+    "diseases": "plazmasejtek daganatos megbetegedése, akut veseelégtelenség, magasvérnyomás betegség"
+  },
+  {
+    "sequence": 1495,
+    "age": 62,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség"
+  },
+  {
+    "sequence": 1496,
+    "age": 75,
+    "sex": 2,
+    "diseases": "áttétes tüdő tumor"
+  },
+  {
+    "sequence": 1497,
+    "age": 66,
+    "sex": 2,
+    "diseases": "rosszindulatú végbéldaganat"
+  },
+  {
+    "sequence": 1498,
+    "age": 88,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség, cukorbetegség"
+  },
+  {
+    "sequence": 1499,
+    "age": 79,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, krónikus veseelégtelenség, szívelégtelenség"
+  },
+  {
+    "sequence": 1500,
+    "age": 85,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, cukorbetegség, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 1501,
+    "age": 85,
+    "sex": 1,
+    "diseases": "iszkémiás szívbetegség, magasvérnyomás betegség, veseelégtelenség"
+  },
+  {
+    "sequence": 1502,
+    "age": 64,
+    "sex": 1,
+    "diseases": "csontritkulás, combfejelhalás, csigolyatörés"
+  },
+  {
+    "sequence": 1503,
+    "age": 68,
+    "sex": 2,
+    "diseases": "iszkémiás szívbetegség, magasvérnyomás betegség, pajzsmirigy alulműködés"
+  },
+  {
+    "sequence": 1504,
+    "age": 89,
+    "sex": 1,
+    "diseases": "paranoid skizofrénia, Little-kór"
+  },
+  {
+    "sequence": 1505,
+    "age": 75,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, veseelégtelenség"
+  },
+  {
+    "sequence": 1506,
+    "age": 73,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség, cukorbetegség, krónikus obstruktív tüdőbetegség"
+  },
+  {
+    "sequence": 1507,
+    "age": 80,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség, cukorbetegség, generalizált érbeteg, vastagbélrák"
+  },
+  {
+    "sequence": 1508,
+    "age": 68,
+    "sex": 2,
+    "diseases": "krónikus veseelégtelenség, érelmeszesedés, éreredetű demencia"
+  },
+  {
+    "sequence": 1509,
+    "age": 89,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, tüdőgyulladás, agyi infarktus"
+  },
+  {
+    "sequence": 1510,
+    "age": 87,
+    "sex": 1,
+    "diseases": "szívelégtelenség, magasvérnyomás betegség, tüdőtágulat, pajzsmirigy alulműködés"
+  },
+  {
+    "sequence": 1511,
+    "age": 89,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, cukorbetegség, emlődaganat"
+  },
+  {
+    "sequence": 1512,
+    "age": 61,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, demencia"
+  },
+  {
+    "sequence": 1513,
+    "age": 74,
+    "sex": 2,
+    "diseases": "iszkémiás szívbetegség, cukorbetegség, magasvérnyomás betegség, szívelégtelenség"
+  },
+  {
+    "sequence": 1514,
+    "age": 87,
+    "sex": 1,
+    "diseases": "pajzsmirigy krónikus gyulladása, ischaemiás szívbetegség, érelmeszesedés, pangásos szívelégtelenség"
+  },
+  {
+    "sequence": 1515,
+    "age": 81,
+    "sex": 2,
+    "diseases": "cukorbetegség, magasvérnyomás betegség"
+  },
+  {
+    "sequence": 1516,
+    "age": 87,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, szívelégtelenség, hashártyagyulladás"
+  },
+  {
+    "sequence": 1517,
+    "age": 87,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, iszkémiás szívbetegség, agyi infarktus"
+  },
+  {
+    "sequence": 1518,
+    "age": 85,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, májelégtelenség"
+  },
+  {
+    "sequence": 1519,
+    "age": 81,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség, iszkémiás szívbetegség"
+  },
+  {
+    "sequence": 1520,
+    "age": 61,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség, pitvari fibrilláció, cukorbetegség"
+  },
+  {
+    "sequence": 1521,
+    "age": 49,
+    "sex": 2,
+    "diseases": "agyi infarktus, ált. érelmeszesedés, magasvérnyomás betegség, szívbetegség"
+  },
+  {
+    "sequence": 1522,
+    "age": 65,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség, szívbetegség, asztma, krónikus tüdőbetegség"
+  },
+  {
+    "sequence": 1523,
+    "age": 69,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség"
+  },
+  {
+    "sequence": 1524,
+    "age": 79,
+    "sex": 1,
+    "diseases": "cukorbetegség, szívelégtelenség, tüdőembólia"
+  },
+  {
+    "sequence": 1525,
+    "age": 83,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség"
+  },
+  {
+    "sequence": 1526,
+    "age": 62,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség"
+  },
+  {
+    "sequence": 1527,
+    "age": 88,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, demencia"
+  },
+  {
+    "sequence": 1528,
+    "age": 77,
+    "sex": 1,
+    "diseases": "tüdőgyulladás, Parkinson-kór, demencia"
+  },
+  {
+    "sequence": 1529,
+    "age": 80,
+    "sex": 1,
+    "diseases": "szívelégtelenség, prosztata rosszindulatú daganata, veseelégtelenség, demencia, pitvarfibrilláció"
+  },
+  {
+    "sequence": 1530,
+    "age": 67,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség, érelmeszesedés, infarktus"
+  },
+  {
+    "sequence": 1531,
+    "age": 64,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, depresszió, májelégtelenség"
+  },
+  {
+    "sequence": 1532,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, végbél daganat krónikus veseelégtelenség"
+  },
+  {
+    "sequence": 1533,
+    "age": 81,
+    "sex": 1,
+    "diseases": "húgyhólyagtumor"
+  },
+  {
+    "sequence": 1534,
+    "age": 90,
+    "sex": 1,
+    "diseases": "magasvérnyomás betegség, cukorbetegség, asztma"
+  },
+  {
+    "sequence": 1535,
+    "age": 82,
+    "sex": 2,
+    "diseases": "magasvérnyomás betegség, visszértágulat, szívizomelhalás"
   }
 ]
