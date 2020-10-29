@@ -968,5 +968,10 @@
     "published": "2020-10-28T08:00:12.417Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/1028.jpg",
     "hash": "1c69f044b196cf0e3b56787893a27e6c7c4d7de4"
+  },
+  {
+    "published": "2020-10-29T09:00:12.83Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/2020.10.29.png",
+    "hash": "9ab994ff1ab631881d0b3b8740f31d27db665033"
   }
 ]
