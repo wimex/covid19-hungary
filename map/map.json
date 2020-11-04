@@ -983,5 +983,10 @@
     "published": "2020-11-03T18:00:09.507Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/1103.jpg",
     "hash": "11b6bb6eb905a433fd6413873a77b7bdc7d15389"
+  },
+  {
+    "published": "2020-11-04T09:00:07.33Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/1104.jpeg",
+    "hash": "77103ee9194c4916e8179205db241f4c94e5a22e"
   }
 ]
