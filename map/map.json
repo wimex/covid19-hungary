@@ -1003,5 +1003,10 @@
     "published": "2020-11-07T09:00:11.343Z",
     "location": "https://koronavirus.gov.hu/sites/default/files/11071.jpeg",
     "hash": "1099e3153d0d575aa5cebe7205e3cf66dff87f67"
+  },
+  {
+    "published": "2020-11-08T09:00:09.393Z",
+    "location": "https://koronavirus.gov.hu/sites/default/files/terkep1108.jpeg",
+    "hash": "43bd92252a6d00706f34da22e8e55e3c21707604"
   }
 ]
