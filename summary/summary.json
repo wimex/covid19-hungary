@@ -2326,5 +2326,13 @@
     "infected": 94704,
     "cured": 29302,
     "deceased": 2784
+  },
+  {
+    "published": "2020-11-13T08:20:00Z",
+    "tested": 1306887,
+    "quarantined": 36166,
+    "infected": 99202,
+    "cured": 29802,
+    "deceased": 2883
   }
 ]
